@@ -1,56 +1,60 @@
 {
-  "urls": [
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "🙈曾江涛资源"
-    },
-    {
-      "url": "https://100km.top/0",
-      "name": "🙈影视2"
-    },
-    {
-      "url": "http://我不是.肥猫.live/接口禁止贩卖",
-      "name": "🙈影视3"
-    },
-    {
-      "url": "https://wds.ecsxs.com/230989.json",
-      "name": "🙈影视4"
-    },
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🙈影视5"
-    },
-    {
-      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-      "name": "🙈影视6"
-    },
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "🙈影视7"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-      "name": "🙈影视8"
-    },
-    {
-      "url": "http://52bsj.vip:98/wuai",
-      "name": "🙈影视9"
-    },
-    {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "🙈影视10"
-    },
-    {
-      "url": "https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/4K电影网.json",
-      "name": "🙈影视11"
-    },
-    {
-      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
-      "name": "🙈影视12"
-    },
-    {
-      "url": "https://jihulab.com/z-blog/vip/-/raw/main/xpg/t.json",
-      "name": "🙈影视13"
-    }
-  ]
+    "urls": [
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "🙈曾江涛资源"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🙈影视2"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🙈影视3"
+        },
+        {
+            "url": "https://wds.ecsxs.com/230989.json",
+            "name": "🙈影视4"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🙈影视5"
+        },
+        {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "🙈影视6"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🙈影视7"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "🙈影视8"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🙈影视9"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🙈影视10"
+        },
+        {
+            "url": "https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/4K电影网.json",
+            "name": "🙈影视11"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+            "name": "🙈影视12"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/vip/-/raw/main/xpg/t.json",
+            "name": "🙈影视13"
+        },
+        {
+            "url": "https://tv.youdu.fan:666",
+            "name": "🙈影视14"
+        }
+    ]
 }
