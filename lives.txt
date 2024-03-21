@@ -1,17 +1,3 @@
-🙈观影须知,#genre#
-定期维护频道,https://epg.pw/stream/7571be7517df6df6bcc71c21ab322ff1359bf258421cfa8c310b5879ac535dc4.m3u8
-失效联系微信,https://epg.pw/stream/425d3d6c8474c6def07584f98903a3b568a1c897fbafb4b74e040959e6e6e696.m3u8
-请您放心观影,https://epg.pw/stream/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8
-曾江涛大帅哥,https://epg.pw/stream/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8
-曾江涛大帅哥,https://epg.pw/stream/bf38186e49a6ec4c82717ed84505ecd0b8544b68e51d5ef383b78962ab523b2a.m3u8
-曾江涛大帅哥,https://epg.pw/stream/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.m3u8
-曾江涛大帅哥,https://epg.pw/stream/01af785917e23763b37a6e1ec764bce6608b14094a7efc6900c48b917bb19eaf.m3u8
-曾江涛大帅哥,https://epg.pw/stream/57eb8c20ab82ee6e2f2036468ffe5bf77c2f33dbc5d7df72c251bdd41940d4f1.m3u8
-曾江涛大帅哥,https://epg.pw/stream/134c86c534b7f857501f1c89fd63f8f413eb01554dc6a8b1349db289cd783710.m3u8
-曾江涛大帅哥,https://epg.pw/stream/246edec72dee3430da0407345022a1441d37ef5cda366a27b8eabbcac75aa3f9.m3u8
-曾江涛大帅哥,https://epg.pw/stream/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
-曾江涛大帅哥,https://epg.pw/stream/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.m3u8
-曾江涛大帅哥,https://epg.pw/stream/c1980814348616ed0068602a3398b361096544f6d026830ceb16352b979defda.m3u8
 🙈中国-CCTV,#genre#
 CCTV1,https://epg.pw/stream/00bccd76ae209a2fbb4d5276032d22c11df8bab914549c0cd7a8d9d064ada628.m3u8
 CCTV1,https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
