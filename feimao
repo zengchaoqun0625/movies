@@ -11,7 +11,7 @@
     },
 {"key":"相声小品","name":"💡|小品|影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key":"戏曲","name":"🧲|戏曲|影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-    {
+     {
       "key": "豆瓣",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
@@ -360,16 +360,6 @@
       "playerType": 2
     },
     {
-      "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json"
-    },
-    {
       "key": "csp_BookTing",
       "name": "📚┃听书┃音频",
       "type": 3,
@@ -549,7 +539,7 @@
     },
     {
       "key": "push_agent",
-      "name": "曾江涛",
+      "name": "👲|曾江涛|影视",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -569,7 +559,7 @@
       "url": "Web"
     },
     {
-      "name": "曾总",
+      "name": "👲|曾江涛|影视",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
