@@ -1640,7 +1640,7 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 
- 👉👉全部结束👉👉_120625,#genre#
+ 👉👉全部结束👉👉_1206,#genre#
 ⑥春盈天下专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 ⑥春盈缓冲10秒,http://zsntlqj.xicp.net:8896/bysid/83
 ⑥香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
@@ -1654,7 +1654,7 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 @老澳21:32开始,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 @老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
 
-         _120625,#genre#
+         _1206,#genre#
 Adult 01,http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
 Adult 02,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035
 Adult 03,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1036
@@ -1782,7 +1782,7 @@ FSOG-067,https://t21.cdn2020.com/video/m3u8/2023/03/06/a800ea05/index.m3u8
 MCY-0134,https://t21.cdn2020.com/video/m3u8/2023/01/20/701e7558/index.m3u8
 
 
-         _120625,#genre#
+         _1206,#genre#
 國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
 國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
 國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
