@@ -55,6 +55,46 @@
         {
             "url": "https://tv.youdu.fan:666",
             "name": "🙈影视14"
+        },
+    {
+      "url": "http://rihou.cc:99/荷城茶秀",
+      "name": "🙈影视15"
+        },
+    {
+      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+      "name": "🙈影视16"
+        },
+    {
+      "url": "https://100km.top/0",
+      "name": "🙈影视17"
+        },
+    {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+      "name": "🙈影视18"
+        },
+    {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🙈影视19"
+        },
+    {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "🙈影视20"
+        },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🙈影视21"
+        },
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "🙈影视22"
+        },
+    {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "🙈影视23"
+        },
+    {
+      "url": "http://dxawi.github.io/0/0.json",
+      "name": "🙈影视24"
         }
     ]
 }
