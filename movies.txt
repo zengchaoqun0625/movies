@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/feimao",
             "name": "🙈曾江涛资源"
         },
         {
