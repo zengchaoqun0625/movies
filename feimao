@@ -10,7 +10,7 @@
       "searchable": 0
     },
 {"key":"相声小品","name":💡"|相声小品|影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
-{"key":"戏曲","name":"🧲|戏曲|"影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
+{"key":"戏曲","name":"🧲|戏曲影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
     {
       "key": "豆瓣",
       "name": "🐼┃豆瓣┃预告",
