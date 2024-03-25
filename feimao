@@ -470,46 +470,6 @@
       "ext": "http://dt.xn--yety82d.love/js/310直播.js"
     },
     {
-      "key": "七夜",
-      "name": "🌖┃七夜┃网盘",
-      "type": 3,
-      "api": "csp_Dovx",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_Pansou",
-      "name": "🚢┃盘搜┃网盘",
-      "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_PanSearch",
-      "name": "🚃┃盘搜┃网盘2",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_UpYun",
-      "name": "🍒┃Up搜┃网盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_XiaoZhiTiao",
-      "name": "📜┃纸条┃网盘",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
       "type": 3,
