@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "曾江涛",
+      "name": "👲曾江涛",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -549,7 +549,7 @@
     },
     {
       "key": "push_agent",
-      "name": "曾总",
+      "name": "👲|曾总|影视",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
