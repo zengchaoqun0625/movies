@@ -20,9 +20,35 @@
 {"key":"相声小品","name":"💡┃小品┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key":"戏曲","name":"🧲┃戏曲┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key":"csp_AppYsV2","name":"🍓┃美剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"大师兄影视","name":"🐖┃大师兄┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dashixiongyingshi.js"},
-{"key":"七年影视","name":"🚛┃七年┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/qinian.json"},
-{"key":"4KHDR","name":"😀┃4K┃影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/4KHDR.json"},
+    {
+      "key": "兴趣健身",
+      "name": "🅱┃健身┃影视",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/哔哩健身.json"
+    },
+{
+      "key": "校长影视",
+      "name": "🏫┃校长┃影视",
+      "type": 3,
+      "api": "csp_XiaoZhang",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://notabug.org/PG/S/raw/master/jar/tokenm.json",
+      "jar": "https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
+    },
+{"key":"4KHDR","name":"😀┃4K┃影视","type":3, "api": "csp_FourKHDR",
+      "ext": "https://notabug.org/PG/S/raw/master/jar/tokenm.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "jar": "https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"},
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
@@ -467,6 +493,26 @@
       },
       "ext": "http://dt.xn--yety82d.love/js/310直播.js"
     },
+	{
+      "key": "csp_zhibo_douyu",
+      "name": "💥┃斗鱼┃直播",
+      "type": 3,
+      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js"
+    },
+    {
+      "key": "csp_zhibo_huya",
+      "name": "💥┃虎牙┃直播",
+      "type": 3,
+      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js"
+    },
     {
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
@@ -474,6 +520,50 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "playerType": 1,
       "ext": "http://dt.xn--yety82d.love/js/B站.js"
+    },
+	  {
+      "key": "小灯塔科学",
+      "name": "🌏┃小灯塔┃科学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "🌏┃小灯塔┃地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "🌏┃小灯塔┃百科",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "🌏┃小灯塔┃国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔国学.json"
     },
     {
       "key": "儿童",
