@@ -17,16 +17,12 @@
       "playerType": 2,
       "searchable": 0
     },
-{"key":"爱奇异","name":"🍃|爱奇艺|影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
-{"key":"优酷","name":"✌|优酷|影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
-{"key":"腾讯","name":"🚛|腾讯|影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
-{"key":"芒果","name":"🍎|芒果|影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
 {"key":"相声小品","name":"💡┃小品┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key":"戏曲","name":"🧲┃戏曲┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-{"key":"csp_AppYsV2","name":"🍓|美剧|影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"大师兄影视","name":"🐖|大师兄|影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dashixiongyingshi.js"},
-{"key":"七年影视","name":"🚛|七年|影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/qinian.json"},
-{"key":"4KHDR","name":"😀|4K|影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/4KHDR.json"},
+{"key":"csp_AppYsV2","name":"🍓┃美剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"大师兄影视","name":"🐖┃大师兄┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dashixiongyingshi.js"},
+{"key":"七年影视","name":"🚛┃七年┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/qinian.json"},
+{"key":"4KHDR","name":"😀┃4K┃影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/4KHDR.json"},
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
@@ -280,6 +276,10 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
+{"key":"爱奇异","name":"🍃┃爱奇艺┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key":"优酷","name":"✌┃优酷┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
+{"key":"腾讯","name":"🚛┃腾讯┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"芒果","name":"🍎┃芒果┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
     {
       "key": "奇优",
       "name": " 🍩┃奇优┃影视",
@@ -545,11 +545,10 @@
       },
       "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
     },
-{"key":"高中教育","name":"📚|学习园地|","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Blixt.json"},
-{"key":"学外语","name":"📚|学外语|","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/waiyu.json"},
+{"key":"高中教育","name":"📚┃爱学习┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Blixt.json"},
     {
       "key": "push_agent",
-      "name": "👲|曾江涛|影视",
+      "name": "👲┃曾江涛┃影视",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
