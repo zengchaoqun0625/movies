@@ -559,7 +559,7 @@
       "url": "Web"
     },
     {
-      "name": "👲|曾江涛|影视",
+      "name": "👲┃曾江涛┃影视",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -634,7 +634,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url":"https://raw.githubusercontent.com/zengchaoqun0625/movies/main/ipv4.txt",
+      "url":"https://sourl.cn/tjPb53",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
