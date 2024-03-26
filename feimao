@@ -266,22 +266,23 @@
       "filterable": 0
     },
     {
-      "key": "开心",
-      "name": "🥰️┃开心┃影视",
+      "key": "一起看 ",
+      "name": "🎉┃一起┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.vip:55/lib/开心HK影视.json"
+      "changeable": 1
     },
     {
-      "key": "小胡",
-      "name": "🍈️┃小胡┃影视",
+      "key": "酷看",
+      "name": "💡┃酷看┃秒播",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/小胡.js",
-      "playerType": 2
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "低端",
