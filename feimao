@@ -20,17 +20,6 @@
 {"key":"相声小品","name":"💡┃小品┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key":"戏曲","name":"🧲┃戏曲┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key":"csp_AppYsV2","name":"🍓┃美剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-    {
-      "key": "兴趣健身",
-      "name": "🅱┃健身┃影视",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/哔哩健身.json"
-    },
 {
       "key": "校长影视",
       "name": "🏫┃校长┃影视",
@@ -302,10 +291,6 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
-{"key":"爱奇异","name":"🍃┃爱奇艺┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
-{"key":"优酷","name":"✌┃优酷┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
-{"key":"腾讯","name":"🚛┃腾讯┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
-{"key":"芒果","name":"🍎┃芒果┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
     {
       "key": "奇优",
       "name": " 🍩┃奇优┃影视",
@@ -521,50 +506,6 @@
       "playerType": 1,
       "ext": "http://dt.xn--yety82d.love/js/B站.js"
     },
-	  {
-      "key": "小灯塔科学",
-      "name": "🌏┃小灯塔┃科学",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔科学.json"
-    },
-    {
-      "key": "小灯塔地理",
-      "name": "🌏┃小灯塔┃地理",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔地理.json"
-    },
-    {
-      "key": "小灯塔百科",
-      "name": "🌏┃小灯塔┃百科",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔百科.json"
-    },
-    {
-      "key": "小灯塔国学",
-      "name": "🌏┃小灯塔┃国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔国学.json"
-    },
     {
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
@@ -635,7 +576,6 @@
       },
       "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
     },
-{"key":"高中教育","name":"📚┃爱学习┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Blixt.json"},
     {
       "key": "push_agent",
       "name": "👲┃曾江涛┃影视",
