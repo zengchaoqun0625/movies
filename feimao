@@ -9,18 +9,26 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-{"key":"相声小品","name":"💡┃小品┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
-{"key":"戏曲","name":"🧲┃戏曲┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
+	    {
+      "key": "低端",
+      "name": "🛣┃可乐┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
+    },
+{"key":"相声小品","name":"💡┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
+{"key":"戏曲","name":"🧲┃豫剧┃戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
     {
       "key": "csp_Dm84",
-      "name": "🤣┃动漫┃巴士",
+      "name": "🤣┃巴士┃动漫",
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84"
     },
 {
       "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
+      "name": "🍒┃种子┃短剧",
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
@@ -406,14 +414,6 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/小胡.js",
       "playerType": 2
-    },
-    {
-      "key": "低端",
-      "name": "🛣┃低端┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
       "key": "奇优",
