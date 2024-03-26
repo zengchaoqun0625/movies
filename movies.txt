@@ -21,7 +21,7 @@
             "name": "🙈影视5"
         },
         {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "url": "https://www.无界.top/无界线路禁止贩卖",
             "name": "🙈影视6"
         },
         {
