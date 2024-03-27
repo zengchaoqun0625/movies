@@ -6,7 +6,7 @@
         },
         {
             "url": "https://100km.top/0",
-            "name": "💛影视2💛"
+            "name": "💛推荐使用💛"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -17,7 +17,7 @@
             "name": "💛影视4💛"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json",
             "name": "💛影视5💛"
         },
         {
@@ -25,76 +25,28 @@
             "name": "💛影视6💛"
         },
         {
-            "url": "http://home.jundie.top:81/top98.json",
+            "url": "http://rihou.cc:99/荷城茶秀",
             "name": "💛影视7💛"
         },
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
             "name": "💛影视8💛"
         },
         {
-            "url": "http://52bsj.vip:98/wuai",
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "💛影视9💛"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
+            "url": "https://神器每日推送.tk/pz.json",
             "name": "💛影视10💛"
-        },
-        {
-            "url": "https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/4K电影网.json",
+       },
+       {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "💛影视11💛"
-        },
-        {
-            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+       },
+       {
+            "url": "http://tvbox.王二小放牛娃.xyz",
             "name": "💛影视12💛"
-        },
-        {
-            "url": "https://jihulab.com/z-blog/vip/-/raw/main/xpg/t.json",
-            "name": "💛影视13💛"
-        },
-        {
-            "url": "https://tv.youdu.fan:666",
-            "name": "💛影视14💛"
-        },
-    {
-      "url": "http://rihou.cc:99/荷城茶秀",
-      "name": "💛影视15💛"
-        },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "💛影视16💛"
-        },
-    {
-      "url": "https://100km.top/0",
-      "name": "💛影视17💛"
-        },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-      "name": "💛影视18💛"
-        },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "💛影视19💛"
-        },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "💛影视20💛"
-        },
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "💛影视21💛"
-        },
-    {
-      "url": "https://神器每日推送.tk/pz.json",
-      "name": "💛影视22💛"
-        },
-    {
-      "url": "http://www.lyyytv.cn/yt/yt.json",
-      "name": "💛影视23💛"
-        },
-    {
-      "url": "http://dxawi.github.io/0/0.json",
-      "name": "💛影视24💛"
-        }
+       }
     ]
 }
