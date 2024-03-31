@@ -43,7 +43,6 @@ http://8.137.98.246/video.php?id=cctv164k
 http://8.137.98.246/video.php?id=cctv17
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",CCTV兵器科技
 http://8.137.98.246/video.php?id=bqkj
-#EXTINF:-1,tvg-id="中央电视台第一播放，http://8.137.98.246/video.php?id=dyjc" tvg-name="中央电视台第一播放，http://8.137.98.246/video.php?id=dyjc" tvg-logo="https://live.fanmingming.com/tv/中央电视台第一播放，HTTP://8..98./VIDEO.PHP?ID=DYJC.png" group-title="央视",中央电视台第一播放，http://8.137.98.246/video.php?id=dyjc
 undefined
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
 http://8.137.98.246/video.php?id=hjjc
@@ -53,7 +52,7 @@ http://8.137.98.246/video.php?id=fyjc
 http://8.137.98.246/video.php?id=fyyy
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV风云足球
 http://8.137.98.246/video.php?id=fyzq
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="央视",央视电视指南，http://8.137.98.246/video.php?id=dszn
+#EXTINF:-1,tvg-id="Z" tvg-name="央视电视指南" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="央视",央视电视指南，http://8.137.98.246/video.php?id=dszn
 undefined
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",央视女性时尚，http://8.137.98.246/video.php?id=nxss
 undefined
