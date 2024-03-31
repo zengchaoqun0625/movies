@@ -60,7 +60,7 @@ undefined
 undefined
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",CCTV世界地理，http://8.137.98.246/video.php?id=sjdl
 undefined
-#EXTINF:-1,tvg-id="CCTV网球网球" tvg-name="CCTV网球网球" tvg-logo="https://live.fanmingming.com/tv/CCTV网球网球.png" group-title="央视",CCTV网球网球
+#EXTINF:-1,tvg-id="CCTV网球" tvg-name="CCTV网球" tvg-logo="https://live.fanmingming.com/tv/CCTV网球网球.png" group-title="央视",CCTV网球
 http://8.137.98.246/video.php?id=gefwq
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV央视台球
 http://8.137.98.246/video.php?id=ystq
