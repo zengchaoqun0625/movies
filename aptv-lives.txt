@@ -450,20 +450,6 @@ http://180.107.88.32:9999/rtp/239.49.1.54:6000
 http://180.107.88.32:9999/rtp/239.49.1.55:6000
 #EXTINF:-1,tvg-id="中教四台" tvg-name="中教四台" tvg-logo="https://live.fanmingming.com/tv/中教四台.png" group-title="地方",中教四台
 http://180.107.88.32:9999/rtp/239.49.1.56:6000
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
-http://180.107.88.32:9999/rtp/239.49.9.35:6000
-#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.9.37:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000
-undefined
-#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
-http://180.107.88.32:9999/rtp/239.49.9.40:6000
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
-http://180.107.88.32:9999/rtp/239.49.1.17:6000
-#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.1.19:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000
-undefined
-#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视，http://180.107.88.32:9999/rtp/239.49.1.20:6000
-undefined
-#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
-http://180.107.88.32:9999/rtp/239.49.1.22:6000
 #EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="地方",南京生活 
 http://180.107.88.32:9999/rtp/239.49.1.28:6000
 #EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="地方",南京新闻
@@ -730,8 +716,6 @@ http://43.138.170.29:35455/douyu/8788687
 http://43.138.170.29:35455/douyu/8705754
 #EXTINF:-1,tvg-id="斗鱼电影169" tvg-name="斗鱼电影169" tvg-logo="https://epg.112114.xyz/logo/斗鱼电影.png" group-title="电影",斗鱼电影169
 http://43.138.170.29:35455/douyu/7528160
-#EXTINF:-1,tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="https://live.fanmingming.com/tv/陕西体育.png" group-title="陕西",陕西体育
-https://m.wuzhij.com/sxxa.php?id=sxtyxx
 
 #EXTM3U
 #EXTINF:-1,tvg-id="倒霉特熊" tvg-name="倒霉特熊" tvg-logo="https://epg.112114.xyz/logo/倒霉特熊.png" group-title="动画",倒霉特熊
@@ -1509,13 +1493,13 @@ https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
 #EXTINF:-1,tvg-id="普陀山" tvg-name="普陀山" tvg-logo="https://epg.112114.xyz/logo/普陀山.png" group-title="景点",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1,tvg-id="浙江舟山东极岛" tvg-name="浙江舟山东极岛" tvg-logo="https://epg.112114.xyz/logo/浙江舟山东极岛.png" group-title="浙江",浙江舟山东极岛
+#EXTINF:-1,tvg-id="浙江舟山东极岛" tvg-name="浙江舟山东极岛" tvg-logo="https://epg.112114.xyz/logo/浙江舟山东极岛.png" group-title="景点",浙江舟山东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1,tvg-id="河南郑东新区千玺广场" tvg-name="河南郑东新区千玺广场" tvg-logo="https://epg.112114.xyz/logo/河南郑东新区千玺广场.png" group-title="河南",河南郑东新区千玺广场
+#EXTINF:-1,tvg-id="河南郑东新区千玺广场" tvg-name="河南郑东新区千玺广场" tvg-logo="https://epg.112114.xyz/logo/河南郑东新区千玺广场.png" group-title="景点",河南郑东新区千玺广场
 https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-#EXTINF:-1,tvg-id="四川四姑娘山幺妹峰" tvg-name="四川四姑娘山幺妹峰" tvg-logo="https://epg.112114.xyz/logo/四川四姑娘山幺妹峰.png" group-title="四川",四川四姑娘山幺妹峰
+#EXTINF:-1,tvg-id="四川四姑娘山幺妹峰" tvg-name="四川四姑娘山幺妹峰" tvg-logo="https://epg.112114.xyz/logo/四川四姑娘山幺妹峰.png" group-title="景点",四川四姑娘山幺妹峰
 https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1,tvg-id="四川四姑娘山隆珠措" tvg-name="四川四姑娘山隆珠措" tvg-logo="https://epg.112114.xyz/logo/四川四姑娘山隆珠措.png" group-title="四川",四川四姑娘山隆珠措
+#EXTINF:-1,tvg-id="四川四姑娘山隆珠措" tvg-name="四川四姑娘山隆珠措" tvg-logo="https://epg.112114.xyz/logo/四川四姑娘山隆珠措.png" group-title="景点",四川四姑娘山隆珠措
 https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
 #EXTINF:-1,tvg-id="宁夏沙坡头长河落日" tvg-name="宁夏沙坡头长河落日" tvg-logo="https://epg.112114.xyz/logo/宁夏沙坡头长河落日.png" group-title="景点",宁夏沙坡头长河落日
 https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
