@@ -21,7 +21,8 @@
             "name": "💛影视5💛"
         },
         {
-            "url": "https://www.无界.top/无界线路禁止贩卖",
+            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+",
             "name": "💛影视6💛"
         },
         {
