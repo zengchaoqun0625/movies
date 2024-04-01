@@ -9,6 +9,159 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+	    {
+      "key": "低端",
+      "name": "🛣┃可乐┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
+    },
+{"key":"相声小品","name":"💡┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
+{"key":"戏曲","name":"🧲┃豫剧┃戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
+    {
+      "key": "csp_Dm84",
+      "name": "🤣┃巴士┃动漫",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Dm84"
+    },
+{
+      "key": "种子短剧",
+      "name": "🍒┃种子┃短剧",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+      "playerType": 2
+    },
+	{
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": " 在线┃直播1",
+      "name": "📺┃竞技┃直播",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
+      "gridview": "0-0-H",
+      "style": {
+        "type": "rect",
+        "ratio": 1.68
+      }
+    },
+    {
+      "key": "看球",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "🏀┃体育┃直播",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "ext": "http://dt.xn--yety82d.love/js/310直播.js"
+    },
+    {
+      "key": "drpy_哔哩",
+      "name": "🅱┃哔哩┃合集",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "playerType": 1,
+      "ext": "http://dt.xn--yety82d.love/js/B站.js"
+    },
+    {
+      "key": "儿童",
+      "name": "📚┃儿童┃启蒙",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://alist.xn--z7x900a.live/兔小贝.js"
+    },
+    {
+      "key": "少儿",
+      "name": "📚┃少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://alist.xn--z7x900a.live/少儿教育.json"
+    },
+    {
+      "key": "小学",
+      "name": "📚┃小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://alist.xn--z7x900a.live/小学课堂.json"
+    },
+    {
+      "key": "初中",
+      "name": "📚┃初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://alist.xn--z7x900a.live/初中课堂.json"
+    },
+    {
+      "key": "高中",
+      "name": "📚┃高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
+    },
      {
       "key": "豆瓣",
       "name": "🐼┃豆瓣┃预告",
@@ -17,27 +170,6 @@
       "playerType": 2,
       "searchable": 0
     },
-{"key":"相声小品","name":"💡┃小品┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
-{"key":"戏曲","name":"🧲┃戏曲┃影视","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-{"key":"csp_AppYsV2","name":"🍓┃美剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{
-      "key": "校长影视",
-      "name": "🏫┃校长┃影视",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "https://notabug.org/PG/S/raw/master/jar/tokenm.json",
-      "jar": "https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
-    },
-{"key":"4KHDR","name":"😀┃4K┃影视","type":3, "api": "csp_FourKHDR",
-      "ext": "https://notabug.org/PG/S/raw/master/jar/tokenm.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "jar": "https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"},
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
@@ -266,31 +398,22 @@
       "filterable": 0
     },
     {
-      "key": "一起看 ",
-      "name": "🎉┃一起┃影视",
+      "key": "开心",
+      "name": "🥰️┃开心┃影视",
       "type": 3,
-      "api": "csp_YQKan",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/开心HK影视.json"
     },
     {
-      "key": "酷看",
-      "name": "💡┃酷看┃秒播",
+      "key": "小胡",
+      "name": "🍈️┃小胡┃影视",
       "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "低端",
-      "name": "🛣┃低端┃影视",
-      "type": 3,
-      "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
+      "ext": "http://dt.xn--yety82d.love/js/小胡.js",
+      "playerType": 2
     },
     {
       "key": "奇优",
@@ -372,14 +495,6 @@
       "searchable": 0
     },
     {
-      "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-      "playerType": 2
-    },
-    {
       "key": "csp_BookTing",
       "name": "📚┃听书┃音频",
       "type": 3,
@@ -398,13 +513,6 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "🤣┃动漫┃巴士",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84"
     },
     {
       "key": "csp_Anime1",
@@ -478,26 +586,6 @@
         "type": "list"
       },
       "ext": "http://dt.xn--yety82d.love/js/310直播.js"
-    },
-	{
-      "key": "csp_zhibo_douyu",
-      "name": "💥┃斗鱼┃直播",
-      "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js"
-    },
-    {
-      "key": "csp_zhibo_huya",
-      "name": "💥┃虎牙┃直播",
-      "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js"
     },
     {
       "key": "drpy_哔哩",
@@ -579,7 +667,7 @@
     },
     {
       "key": "push_agent",
-      "name": "👲┃曾江涛┃影视",
+      "name": "👲|曾江涛|影视",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -599,7 +687,7 @@
       "url": "Web"
     },
     {
-      "name": "👲┃曾江涛┃影视",
+      "name": "👲|曾江涛|影视",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -674,9 +762,10 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url":"https://sourl.cn/tjPb53",
+      "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/aptv-lives.txt",
+      "ua": "okhttp/3.15"
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      logo: "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "rules": [
