@@ -41,23 +41,36 @@ http://8.137.98.246/video.php?id=cctv17
 http://8.137.98.246/video.php?id=cctv4k
 #EXTINF:-1,tvg-id="cctv-8k" tvg-name="cctv-8k" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",cctv-8k
 http://8.137.98.246/video.php?id=cctv8k
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",CCTV兵器科技
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",CCTV兵器科技 
 http://8.137.98.246/video.php?id=bqkj
-undefined
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
 http://8.137.98.246/video.php?id=hjjc
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",CCTV风云剧场
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",CCTV风云剧场
 http://8.137.98.246/video.php?id=fyjc
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",央视风云音乐
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",CCTV风云音乐
 http://8.137.98.246/video.php?id=fyyy
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV风云足球
+#EXTINF:-1,tvg-id="风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV风云足球
 http://8.137.98.246/video.php?id=fyzq
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",CCTV世界地理
+#EXTINF:-1,tvg-id="世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",CCTV世界地理
 http://8.137.98.246/video.php?id=sjdl
 #EXTINF:-1,tvg-id="CCTV网球" tvg-name="CCTV网球" tvg-logo="https://live.fanmingming.com/tv/CCTV网球网球.png" group-title="央视",CCTV网球
 http://8.137.98.246/video.php?id=gefwq
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV央视台球
 http://8.137.98.246/video.php?id=ystq
+#EXTINF:-1,tvg-id="中央电视塔东" tvg-name="CCTV电视塔东" tvg-logo="https://epg.112114.xyz/logo/中央电视塔东.png" group-title="央视",CCTV电视塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1,tvg-id="中央电视塔南" tvg-name="CCTV电视塔南" tvg-logo="https://epg.112114.xyz/logo/中央电视塔南.png" group-title="央视",CCTV电视塔南
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1,tvg-id="中央电视塔北" tvg-name="CCTV电视塔北" tvg-logo="https://epg.112114.xyz/logo/中央电视塔北.png" group-title="央视",CCTV电视塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",CCTV风云剧场
+http://106.115.27.209:9999/tsfile/live/1024_1.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
+http://106.115.27.209:9999/tsfile/live/1025_1.m3u8
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="CCTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="央视",CCTV都市剧场
+http://106.115.27.209:9999/tsfile/live/1026_1.m3u8
+#EXTINF:-1,tvg-id="风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV风云足球
+http://106.115.27.209:9999/tsfile/live/1027_1.m3u8
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
 http://8.137.98.246/video.php?id=cgtne
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
@@ -168,8 +181,8 @@ http://106.115.27.209:9999/tsfile/live/0111_1.m3u8
 http://106.115.27.209:9999/tsfile/live/0110_1.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://106.115.27.209:9999/tsfile/live/0141_1.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="卫视",陕西卫视，https://m.wuzhij.com/sxxa.php?id=sxws
-undefined
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="卫视",陕西卫视 
+https://m.wuzhij.com/sxxa.php?id=sxws
 #EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/陕西农林卫视.png" group-title="卫视",农林卫视
 https://m.wuzhij.com/sxxa.php?id=nlws
 #EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="地方",卡酷动画
@@ -178,14 +191,6 @@ http://106.115.27.209:9999/tsfile/live/1019_1.m3u8
 http://106.115.27.209:9999/tsfile/live/1020_1.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="地方",梨园
 http://106.115.27.209:9999/tsfile/live/1021_1.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
-http://106.115.27.209:9999/tsfile/live/1024_1.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://106.115.27.209:9999/tsfile/live/1025_1.m3u8
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="央视",都市剧场
-http://106.115.27.209:9999/tsfile/live/1026_1.m3u8
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://106.115.27.209:9999/tsfile/live/1027_1.m3u8
 #EXTINF:-1,tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1,tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1984
@@ -433,6 +438,84 @@ https://m.wuzhij.com/mg.php?id=hnyl
 https://m.wuzhij.com/mg.php?id=jyjs
 #EXTINF:-1,tvg-id="Z" tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="地方",湖南公共 https://m.wuzhij.com/mg.php?id=hngg
 #EXTINF:-1,tvg-id="Z" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/Z.png" group-title="地方",金鹰卡通 https://m.wuzhij.com/mg.php?id=jykt
+#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="地方",百视通
+http://180.107.88.32:9999/rtp/239.49.1.74:6000
+#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="地方",百视通
+http://180.107.88.32:9999/rtp/239.49.1.183:6000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="地方",欢笑剧场4K
+http://180.107.88.32:9999/rtp/239.49.8.231:6000
+#EXTINF:-1,tvg-id="中教一个" tvg-name="中教一个" tvg-logo="https://live.fanmingming.com/tv/中教一个.png" group-title="地方",中教一个
+http://180.107.88.32:9999/rtp/239.49.1.54:6000
+#EXTINF:-1,tvg-id="中教二台" tvg-name="中教二台" tvg-logo="https://live.fanmingming.com/tv/中教二台.png" group-title="地方",中教二台
+http://180.107.88.32:9999/rtp/239.49.1.55:6000
+#EXTINF:-1,tvg-id="中教四台" tvg-name="中教四台" tvg-logo="https://live.fanmingming.com/tv/中教四台.png" group-title="地方",中教四台
+http://180.107.88.32:9999/rtp/239.49.1.56:6000
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
+http://180.107.88.32:9999/rtp/239.49.9.35:6000
+#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.9.37:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000
+undefined
+#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
+http://180.107.88.32:9999/rtp/239.49.9.40:6000
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
+http://180.107.88.32:9999/rtp/239.49.1.17:6000
+#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.1.19:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000
+undefined
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视，http://180.107.88.32:9999/rtp/239.49.1.20:6000
+undefined
+#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
+http://180.107.88.32:9999/rtp/239.49.1.22:6000
+#EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="地方",南京生活 
+http://180.107.88.32:9999/rtp/239.49.1.28:6000
+#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="地方",南京新闻
+http://180.107.88.32:9999/rtp/239.49.1.158:6000
+#EXTINF:-1,tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="地方",南京娱乐
+http://180.107.88.32:9999/rtp/239.49.8.229:6000
+#EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="地方",南京少儿 
+http://180.107.88.32:9999/rtp/239.49.8.230:6000
+#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="地方",南京新闻
+http://180.107.88.32:9999/rtp/239.49.9.3:6000
+#EXTINF:-1,tvg-id="盱眙新闻" tvg-name="盱眙新闻" tvg-logo="https://live.fanmingming.com/tv/盱眙新闻.png" group-title="地方",盱眙新闻
+http://180.107.88.32:9999/rtp/239.49.9.18:6000
+#EXTINF:-1,tvg-id="沛县新闻" tvg-name="沛县新闻" tvg-logo="https://live.fanmingming.com/tv/沛县新闻.png" group-title="地方",沛县新闻
+http://180.107.88.32:9999/rtp/239.49.9.19:6000
+#EXTINF:-1,tvg-id="泰州新闻" tvg-name="泰州新闻" tvg-logo="https://live.fanmingming.com/tv/泰州新闻.png" group-title="地方",泰州新闻
+http://180.107.88.32:9999/rtp/239.49.9.20:6000
+#EXTINF:-1,tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://live.fanmingming.com/tv/徐州新闻.png" group-title="地方",徐州新闻
+http://180.107.88.32:9999/rtp/239.49.9.45:6000
+#EXTINF:-1,tvg-id="东海新闻" tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="地方",东海新闻
+http://180.107.88.32:9999/rtp/239.49.9.48:6000
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="地方",财富天下
+http://180.107.88.32:9999/rtp/239.49.1.29:6000
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="地方",第一财经 
+http://180.107.88.32:9999/rtp/239.49.1.168:6000
+#EXTINF:-1,tvg-id="泰州影视，http://180.107.88.32:9999/rtp/239.49.1.101:6000" tvg-name="泰州影视" tvg-logo="https://live.fanmingming.com/tv/泰州影视，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",泰州影视 
+http://180.107.88.32:9999/rtp/239.49.1.101:6000
+#EXTINF:-1,tvg-id="沭阳综合，http://180.107.88.32:9999/rtp/239.49.1.117:6000" tvg-name="沭阳综合" tvg-logo="https://live.fanmingming.com/tv/沭阳综合，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",沭阳综合 
+http://180.107.88.32:9999/rtp/239.49.1.117:6000
+#EXTINF:-1,tvg-id="宿迁公共，http://180.107.88.32:9999/rtp/239.49.1.123:6000" tvg-name="宿迁公共" tvg-logo="https://live.fanmingming.com/tv/宿迁公共，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",宿迁公共 http://180.107.88.32:9999/rtp/239.49.1.123:6000
+#EXTINF:-1,tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://live.fanmingming.com/tv/常州生活.png" group-title="地方",常州生活
+http://180.107.88.32:9999/rtp/239.49.1.132:6000
+#EXTINF:-1,tvg-id="常州都市" tvg-name="常州都市" tvg-logo="https://live.fanmingming.com/tv/常州都市.png" group-title="地方",常州都市
+http://180.107.88.32:9999/rtp/239.49.1.133:6000
+#EXTINF:-1,tvg-id="常州新闻" tvg-name="常州新闻" tvg-logo="https://live.fanmingming.com/tv/常州新闻.png" group-title="地方",常州新闻
+http://180.107.88.32:9999/rtp/239.49.1.134:6000
+#EXTINF:-1,tvg-id="东海新闻" tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="地方",东海新闻
+http://180.107.88.32:9999/rtp/239.49.1.136:6000
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="地方",金色频道
+http://180.107.88.32:9999/rtp/239.49.1.169:6000
+#EXTINF:-1,tvg-id="连云公共" tvg-name="连云公共" tvg-logo="https://live.fanmingming.com/tv/连云公共.png" group-title="地方",连云公共
+http://180.107.88.32:9999/rtp/239.49.1.245:6000
+#EXTINF:-1,tvg-id="睢宁综合，http://180.107.88.32:9999/rtp/239.49.1.246:6000" tvg-name="睢宁综合" tvg-logo="https://live.fanmingming.com/tv/睢宁综合，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",睢宁综合 
+http://180.107.88.32:9999/rtp/239.49.1.246:6000
+#EXTINF:-1,tvg-id="赣榆综合" tvg-name="赣榆综合" tvg-logo="https://live.fanmingming.com/tv/赣榆综合.png" group-title="地方",赣榆综合
+http://180.107.88.32:9999/rtp/239.49.1.247:6000
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="地方",全纪实台高清
+http://180.107.88.32:9999/rtp/239.49.8.179:6000
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="地方",都市剧场高清
+http://180.107.88.32:9999/rtp/239.49.8.180:6000
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实高清
+http://180.107.88.32:9999/rtp/239.49.8.203:6000
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="电影",百变课堂 8M
 https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="电影",看天下精选 8M
@@ -649,84 +732,6 @@ http://43.138.170.29:35455/douyu/8705754
 http://43.138.170.29:35455/douyu/7528160
 #EXTINF:-1,tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="https://live.fanmingming.com/tv/陕西体育.png" group-title="陕西",陕西体育
 https://m.wuzhij.com/sxxa.php?id=sxtyxx
-#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="地方",百视通
-http://180.107.88.32:9999/rtp/239.49.1.74:6000
-#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="地方",百视通
-http://180.107.88.32:9999/rtp/239.49.1.183:6000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="地方",欢笑剧场4K
-http://180.107.88.32:9999/rtp/239.49.8.231:6000
-#EXTINF:-1,tvg-id="中教一个" tvg-name="中教一个" tvg-logo="https://live.fanmingming.com/tv/中教一个.png" group-title="地方",中教一个
-http://180.107.88.32:9999/rtp/239.49.1.54:6000
-#EXTINF:-1,tvg-id="中教二台" tvg-name="中教二台" tvg-logo="https://live.fanmingming.com/tv/中教二台.png" group-title="地方",中教二台
-http://180.107.88.32:9999/rtp/239.49.1.55:6000
-#EXTINF:-1,tvg-id="中教四台" tvg-name="中教四台" tvg-logo="https://live.fanmingming.com/tv/中教四台.png" group-title="地方",中教四台
-http://180.107.88.32:9999/rtp/239.49.1.56:6000
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
-http://180.107.88.32:9999/rtp/239.49.9.35:6000
-#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.9.37:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000
-undefined
-#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
-http://180.107.88.32:9999/rtp/239.49.9.40:6000
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏",江苏城市
-http://180.107.88.32:9999/rtp/239.49.1.17:6000
-#EXTINF:-1,tvg-id="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-name="江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000" tvg-logo="https://live.fanmingming.com/tv/江苏体育，HTTP://..88.32:/RTP/.49.1.19:.png" group-title="江苏",江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000
-undefined
-#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视，http://180.107.88.32:9999/rtp/239.49.1.20:6000
-undefined
-#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻
-http://180.107.88.32:9999/rtp/239.49.1.22:6000
-#EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="地方",南京生活，http://180.107.88.32:9999/rtp/239.49.1.28:6000
-undefined
-#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="地方",南京新闻
-http://180.107.88.32:9999/rtp/239.49.1.158:6000
-#EXTINF:-1,tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="地方",南京娱乐
-http://180.107.88.32:9999/rtp/239.49.8.229:6000
-#EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="地方",南京少儿，http://180.107.88.32:9999/rtp/239.49.8.230:6000
-undefined
-#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="地方",南京新闻
-http://180.107.88.32:9999/rtp/239.49.9.3:6000
-#EXTINF:-1,tvg-id="盱眙新闻" tvg-name="盱眙新闻" tvg-logo="https://live.fanmingming.com/tv/盱眙新闻.png" group-title="地方",盱眙新闻
-http://180.107.88.32:9999/rtp/239.49.9.18:6000
-#EXTINF:-1,tvg-id="沛县新闻" tvg-name="沛县新闻" tvg-logo="https://live.fanmingming.com/tv/沛县新闻.png" group-title="地方",沛县新闻
-http://180.107.88.32:9999/rtp/239.49.9.19:6000
-#EXTINF:-1,tvg-id="泰州新闻" tvg-name="泰州新闻" tvg-logo="https://live.fanmingming.com/tv/泰州新闻.png" group-title="地方",泰州新闻
-http://180.107.88.32:9999/rtp/239.49.9.20:6000
-#EXTINF:-1,tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://live.fanmingming.com/tv/徐州新闻.png" group-title="地方",徐州新闻
-http://180.107.88.32:9999/rtp/239.49.9.45:6000
-#EXTINF:-1,tvg-id="东海新闻" tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="地方",东海新闻
-http://180.107.88.32:9999/rtp/239.49.9.48:6000
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="地方",财富天下
-http://180.107.88.32:9999/rtp/239.49.1.29:6000
-#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="地方",第一财经，http://180.107.88.32:9999/rtp/239.49.1.168:6000
-undefined
-#EXTINF:-1,tvg-id="泰州影视，http://180.107.88.32:9999/rtp/239.49.1.101:6000" tvg-name="泰州影视，http://180.107.88.32:9999/rtp/239.49.1.101:6000" tvg-logo="https://live.fanmingming.com/tv/泰州影视，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",泰州影视，http://180.107.88.32:9999/rtp/239.49.1.101:6000
-undefined
-#EXTINF:-1,tvg-id="沭阳综合，http://180.107.88.32:9999/rtp/239.49.1.117:6000" tvg-name="沭阳综合，http://180.107.88.32:9999/rtp/239.49.1.117:6000" tvg-logo="https://live.fanmingming.com/tv/沭阳综合，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",沭阳综合，http://180.107.88.32:9999/rtp/239.49.1.117:6000
-undefined
-#EXTINF:-1,tvg-id="宿迁公共，http://180.107.88.32:9999/rtp/239.49.1.123:6000" tvg-name="宿迁公共，http://180.107.88.32:9999/rtp/239.49.1.123:6000" tvg-logo="https://live.fanmingming.com/tv/宿迁公共，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",宿迁公共，http://180.107.88.32:9999/rtp/239.49.1.123:6000
-undefined
-#EXTINF:-1,tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://live.fanmingming.com/tv/常州生活.png" group-title="地方",常州生活
-http://180.107.88.32:9999/rtp/239.49.1.132:6000
-#EXTINF:-1,tvg-id="常州都市" tvg-name="常州都市" tvg-logo="https://live.fanmingming.com/tv/常州都市.png" group-title="地方",常州都市
-http://180.107.88.32:9999/rtp/239.49.1.133:6000
-#EXTINF:-1,tvg-id="常州新闻" tvg-name="常州新闻" tvg-logo="https://live.fanmingming.com/tv/常州新闻.png" group-title="地方",常州新闻
-http://180.107.88.32:9999/rtp/239.49.1.134:6000
-#EXTINF:-1,tvg-id="东海新闻" tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="地方",东海新闻
-http://180.107.88.32:9999/rtp/239.49.1.136:6000
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="地方",金色频道
-http://180.107.88.32:9999/rtp/239.49.1.169:6000
-#EXTINF:-1,tvg-id="连云公共" tvg-name="连云公共" tvg-logo="https://live.fanmingming.com/tv/连云公共.png" group-title="地方",连云公共
-http://180.107.88.32:9999/rtp/239.49.1.245:6000
-#EXTINF:-1,tvg-id="睢宁综合，http://180.107.88.32:9999/rtp/239.49.1.246:6000" tvg-name="睢宁综合，http://180.107.88.32:9999/rtp/239.49.1.246:6000" tvg-logo="https://live.fanmingming.com/tv/睢宁综合，HTTP://..88.32:/RTP/.49.1.:.png" group-title="地方",睢宁综合，http://180.107.88.32:9999/rtp/239.49.1.246:6000
-undefined
-#EXTINF:-1,tvg-id="赣榆综合" tvg-name="赣榆综合" tvg-logo="https://live.fanmingming.com/tv/赣榆综合.png" group-title="地方",赣榆综合
-http://180.107.88.32:9999/rtp/239.49.1.247:6000
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="地方",全纪实台高清
-http://180.107.88.32:9999/rtp/239.49.8.179:6000
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="地方",都市剧场高清
-http://180.107.88.32:9999/rtp/239.49.8.180:6000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实高清
-http://180.107.88.32:9999/rtp/239.49.8.203:6000
 
 #EXTM3U
 #EXTINF:-1,tvg-id="倒霉特熊" tvg-name="倒霉特熊" tvg-logo="https://epg.112114.xyz/logo/倒霉特熊.png" group-title="动画",倒霉特熊
@@ -1402,35 +1407,35 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915
 
 #EXTINF:-1,tvg-id="直播中国精编直播" tvg-name="直播中国精编直播" tvg-logo="https://epg.112114.xyz/logo/直播中国精编直播.png" group-title="景点",直播中国精编直播
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界水绕四门" tvg-name="湖南张家界水绕四门" tvg-logo="https://epg.112114.xyz/logo/湖南张家界水绕四门.png" group-title="湖南",湖南张家界水绕四门
+#EXTINF:-1,tvg-id="湖南张家界水绕四门" tvg-name="湖南张家界水绕四门" tvg-logo="https://epg.112114.xyz/logo/湖南张家界水绕四门.png" group-title="景点",湖南张家界水绕四门
 https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界将军列队" tvg-name="湖南张家界将军列队" tvg-logo="https://epg.112114.xyz/logo/湖南张家界将军列队.png" group-title="湖南",湖南张家界将军列队
+#EXTINF:-1,tvg-id="湖南张家界将军列队" tvg-name="湖南张家界将军列队" tvg-logo="https://epg.112114.xyz/logo/湖南张家界将军列队.png" group-title="景点",湖南张家界将军列队
 https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界阿凡达悬浮山" tvg-name="湖南张家界阿凡达悬浮山" tvg-logo="https://epg.112114.xyz/logo/湖南张家界阿凡达悬浮山.png" group-title="湖南",湖南张家界阿凡达悬浮山
+#EXTINF:-1,tvg-id="湖南张家界阿凡达悬浮山" tvg-name="湖南张家界阿凡达悬浮山" tvg-logo="https://epg.112114.xyz/logo/湖南张家界阿凡达悬浮山.png" group-title="景点",湖南张家界阿凡达悬浮山
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界迷魂台" tvg-name="湖南张家界迷魂台" tvg-logo="https://epg.112114.xyz/logo/湖南张家界迷魂台.png" group-title="湖南",湖南张家界迷魂台
+#EXTINF:-1,tvg-id="湖南张家界迷魂台" tvg-name="湖南张家界迷魂台" tvg-logo="https://epg.112114.xyz/logo/湖南张家界迷魂台.png" group-title="景点",湖南张家界迷魂台
 https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界宝峰湖" tvg-name="湖南张家界宝峰湖" tvg-logo="https://epg.112114.xyz/logo/湖南张家界宝峰湖.png" group-title="湖南",湖南张家界宝峰湖
+#EXTINF:-1,tvg-id="湖南张家界宝峰湖" tvg-name="湖南张家界宝峰湖" tvg-logo="https://epg.112114.xyz/logo/湖南张家界宝峰湖.png" group-title="景点",湖南张家界宝峰湖
 https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界御笔峰" tvg-name="湖南张家界御笔峰" tvg-logo="https://epg.112114.xyz/logo/湖南张家界御笔峰.png" group-title="湖南",湖南张家界御笔峰
+#EXTINF:-1,tvg-id="湖南张家界御笔峰" tvg-name="湖南张家界御笔峰" tvg-logo="https://epg.112114.xyz/logo/湖南张家界御笔峰.png" group-title="景点",湖南张家界御笔峰
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1,tvg-id="四川峨眉山云海日出" tvg-name="四川峨眉山云海日出" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山云海日出.png" group-title="四川",四川峨眉山云海日出
+#EXTINF:-1,tvg-id="四川峨眉山云海日出" tvg-name="四川峨眉山云海日出" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山云海日出.png" group-title="景点",四川峨眉山云海日出
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1,tvg-id="四川峨眉山远眺贡嘎雪山" tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山远眺贡嘎雪山.png" group-title="四川",四川峨眉山远眺贡嘎雪山
+#EXTINF:-1,tvg-id="四川峨眉山远眺贡嘎雪山" tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山远眺贡嘎雪山.png" group-title="景点",四川峨眉山远眺贡嘎雪山
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1,tvg-id="四川峨眉山普贤菩萨铜像" tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山普贤菩萨铜像.png" group-title="四川",四川峨眉山普贤菩萨铜像
+#EXTINF:-1,tvg-id="四川峨眉山普贤菩萨铜像" tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山普贤菩萨铜像.png" group-title="景点",四川峨眉山普贤菩萨铜像
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-#EXTINF:-1,tvg-id="四川峨眉山远眺万佛顶" tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山远眺万佛顶.png" group-title="四川",四川峨眉山远眺万佛顶
+#EXTINF:-1,tvg-id="四川峨眉山远眺万佛顶" tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://epg.112114.xyz/logo/四川峨眉山远眺万佛顶.png" group-title="景点",四川峨眉山远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-#EXTINF:-1,tvg-id="浙江杭州云栖小镇" tvg-name="浙江杭州云栖小镇" tvg-logo="https://epg.112114.xyz/logo/浙江杭州云栖小镇.png" group-title="浙江",浙江杭州云栖小镇
+#EXTINF:-1,tvg-id="浙江杭州云栖小镇" tvg-name="浙江杭州云栖小镇" tvg-logo="https://epg.112114.xyz/logo/浙江杭州云栖小镇.png" group-title="景点",浙江杭州云栖小镇
 https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1,tvg-id="重庆石柱华溪村" tvg-name="重庆石柱华溪村" tvg-logo="https://epg.112114.xyz/logo/重庆石柱华溪村.png" group-title="重庆",重庆石柱华溪村
+#EXTINF:-1,tvg-id="重庆石柱华溪村" tvg-name="重庆石柱华溪村" tvg-logo="https://epg.112114.xyz/logo/重庆石柱华溪村.png" group-title="景点",重庆石柱华溪村
 https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽金寨大湾村" tvg-name="安徽金寨大湾村" tvg-logo="https://epg.112114.xyz/logo/安徽金寨大湾村.png" group-title="安徽",安徽金寨大湾村
+#EXTINF:-1,tvg-id="安徽金寨大湾村" tvg-name="安徽金寨大湾村" tvg-logo="https://epg.112114.xyz/logo/安徽金寨大湾村.png" group-title="景点",安徽金寨大湾村
 https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1,tvg-id="山西苛岚宋家沟新村" tvg-name="山西苛岚宋家沟新村" tvg-logo="https://epg.112114.xyz/logo/山西苛岚宋家沟新村.png" group-title="山西",山西苛岚宋家沟新村
+#EXTINF:-1,tvg-id="山西苛岚宋家沟新村" tvg-name="山西苛岚宋家沟新村" tvg-logo="https://epg.112114.xyz/logo/山西苛岚宋家沟新村.png" group-title="景点",山西苛岚宋家沟新村
 https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
-#EXTINF:-1,tvg-id="河北张北德胜村" tvg-name="河北张北德胜村" tvg-logo="https://epg.112114.xyz/logo/河北张北德胜村.png" group-title="河北",河北张北德胜村
+#EXTINF:-1,tvg-id="河北张北德胜村" tvg-name="河北张北德胜村" tvg-logo="https://epg.112114.xyz/logo/河北张北德胜村.png" group-title="景点",河北张北德胜村
 https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
 #EXTINF:-1,tvg-id="新疆天山(海西平台)" tvg-name="新疆天山(海西平台)" tvg-logo="https://epg.112114.xyz/logo/新疆天山(海西平台).png" group-title="景点",新疆天山(海西平台)
 https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
@@ -1440,13 +1445,13 @@ https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
 #EXTINF:-1,tvg-id="新疆天山(灯杆山)" tvg-name="新疆天山(灯杆山)" tvg-logo="https://epg.112114.xyz/logo/新疆天山(灯杆山).png" group-title="景点",新疆天山(灯杆山)
 https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界天门山西线玻璃栈道" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山西线玻璃栈道.png" group-title="湖南",湖南张家界天门山西线玻璃栈道
+#EXTINF:-1,tvg-id="湖南张家界天门山西线玻璃栈道" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山西线玻璃栈道.png" group-title="景点",湖南张家界天门山西线玻璃栈道
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界天门山天门洞" tvg-name="湖南张家界天门山天门洞" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山天门洞.png" group-title="湖南",湖南张家界天门山天门洞
+#EXTINF:-1,tvg-id="湖南张家界天门山天门洞" tvg-name="湖南张家界天门山天门洞" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山天门洞.png" group-title="景点",湖南张家界天门山天门洞
 https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界天门山天空步道" tvg-name="湖南张家界天门山天空步道" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山天空步道.png" group-title="湖南",湖南张家界天门山天空步道
+#EXTINF:-1,tvg-id="湖南张家界天门山天空步道" tvg-name="湖南张家界天门山天空步道" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山天空步道.png" group-title="景点",湖南张家界天门山天空步道
 https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-#EXTINF:-1,tvg-id="湖南张家界天门山云梦仙顶" tvg-name="湖南张家界天门山云梦仙顶" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山云梦仙顶.png" group-title="湖南",湖南张家界天门山云梦仙顶
+#EXTINF:-1,tvg-id="湖南张家界天门山云梦仙顶" tvg-name="湖南张家界天门山云梦仙顶" tvg-logo="https://epg.112114.xyz/logo/湖南张家界天门山云梦仙顶.png" group-title="景点",湖南张家界天门山云梦仙顶
 https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
 #EXTINF:-1,tvg-id="厦门鼓浪屿" tvg-name="厦门鼓浪屿" tvg-logo="https://epg.112114.xyz/logo/厦门鼓浪屿.png" group-title="景点",厦门鼓浪屿
 https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
@@ -1460,47 +1465,47 @@ https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
 #EXTINF:-1,tvg-id="趵突泉" tvg-name="趵突泉" tvg-logo="https://epg.112114.xyz/logo/趵突泉.png" group-title="景点",趵突泉
 https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽池州九华山风景区拜经台" tvg-name="安徽池州九华山风景区拜经台" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区拜经台.png" group-title="安徽",安徽池州九华山风景区拜经台
+#EXTINF:-1,tvg-id="安徽池州九华山风景区拜经台" tvg-name="安徽池州九华山风景区拜经台" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区拜经台.png" group-title="景点",安徽池州九华山风景区拜经台
 https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽池州九华山风景区九华山" tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区九华山.png" group-title="安徽",安徽池州九华山风景区九华山
+#EXTINF:-1,tvg-id="安徽池州九华山风景区九华山" tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区九华山.png" group-title="景点",安徽池州九华山风景区九华山
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽池州九华山风景区花台" tvg-name="安徽池州九华山风景区花台" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区花台.png" group-title="安徽",安徽池州九华山风景区花台
+#EXTINF:-1,tvg-id="安徽池州九华山风景区花台" tvg-name="安徽池州九华山风景区花台" tvg-logo="https://epg.112114.xyz/logo/安徽池州九华山风景区花台.png" group-title="景点",安徽池州九华山风景区花台
 https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1,tvg-id="江苏徐州云龙湖风景区云龙山观景台西" tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://epg.112114.xyz/logo/江苏徐州云龙湖风景区云龙山观景台西.png" group-title="江苏",江苏徐州云龙湖风景区云龙山观景台西
+#EXTINF:-1,tvg-id="江苏徐州云龙湖风景区云龙山观景台西" tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://epg.112114.xyz/logo/江苏徐州云龙湖风景区云龙山观景台西.png" group-title="景点",江苏徐州云龙湖风景区云龙山观景台西
 https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-#EXTINF:-1,tvg-id="江苏徐州云龙湖风景区云龙山观景台南" tvg-name="江苏徐州云龙湖风景区云龙山观景台南" tvg-logo="https://epg.112114.xyz/logo/江苏徐州云龙湖风景区云龙山观景台南.png" group-title="江苏",江苏徐州云龙湖风景区云龙山观景台南
+#EXTINF:-1,tvg-id="江苏徐州云龙湖风景区云龙山观景台南" tvg-name="江苏徐州云龙湖风景区云龙山观景台南" tvg-logo="https://epg.112114.xyz/logo/江苏徐州云龙湖风景区云龙山观景台南.png" group-title="景点",江苏徐州云龙湖风景区云龙山观景台南
 https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
-#EXTINF:-1,tvg-id="浙江杭州千岛湖" tvg-name="浙江杭州千岛湖" tvg-logo="https://epg.112114.xyz/logo/浙江杭州千岛湖.png" group-title="浙江",浙江杭州千岛湖
+#EXTINF:-1,tvg-id="浙江杭州千岛湖" tvg-name="浙江杭州千岛湖" tvg-logo="https://epg.112114.xyz/logo/浙江杭州千岛湖.png" group-title="景点",浙江杭州千岛湖
 https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
 #EXTINF:-1,tvg-id="南京玄武湖公园" tvg-name="南京玄武湖公园" tvg-logo="https://epg.112114.xyz/logo/南京玄武湖公园.png" group-title="景点",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江玉龙雪山" tvg-name="云南丽江玉龙雪山" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉龙雪山.png" group-title="云南",云南丽江玉龙雪山
+#EXTINF:-1,tvg-id="云南丽江玉龙雪山" tvg-name="云南丽江玉龙雪山" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉龙雪山.png" group-title="景点",云南丽江玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江玉液湖" tvg-name="云南丽江玉液湖" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉液湖.png" group-title="云南",云南丽江玉液湖
+#EXTINF:-1,tvg-id="云南丽江玉液湖" tvg-name="云南丽江玉液湖" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉液湖.png" group-title="景点",云南丽江玉液湖
 https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江蓝月谷" tvg-name="云南丽江蓝月谷" tvg-logo="https://epg.112114.xyz/logo/云南丽江蓝月谷.png" group-title="云南",云南丽江蓝月谷
+#EXTINF:-1,tvg-id="云南丽江蓝月谷" tvg-name="云南丽江蓝月谷" tvg-logo="https://epg.112114.xyz/logo/云南丽江蓝月谷.png" group-title="景点",云南丽江蓝月谷
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江一滴水过丽江" tvg-name="云南丽江一滴水过丽江" tvg-logo="https://epg.112114.xyz/logo/云南丽江一滴水过丽江.png" group-title="云南",云南丽江一滴水过丽江
+#EXTINF:-1,tvg-id="云南丽江一滴水过丽江" tvg-name="云南丽江一滴水过丽江" tvg-logo="https://epg.112114.xyz/logo/云南丽江一滴水过丽江.png" group-title="景点",云南丽江一滴水过丽江
 https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江玉龙雪山草甸" tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉龙雪山草甸.png" group-title="云南",云南丽江玉龙雪山草甸
+#EXTINF:-1,tvg-id="云南丽江玉龙雪山草甸" tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://epg.112114.xyz/logo/云南丽江玉龙雪山草甸.png" group-title="景点",云南丽江玉龙雪山草甸
 https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江白水台" tvg-name="云南丽江白水台" tvg-logo="https://epg.112114.xyz/logo/云南丽江白水台.png" group-title="云南",云南丽江白水台
+#EXTINF:-1,tvg-id="云南丽江白水台" tvg-name="云南丽江白水台" tvg-logo="https://epg.112114.xyz/logo/云南丽江白水台.png" group-title="景点",云南丽江白水台
 https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江高尔夫" tvg-name="云南丽江高尔夫" tvg-logo="https://epg.112114.xyz/logo/云南丽江高尔夫.png" group-title="云南",云南丽江高尔夫
+#EXTINF:-1,tvg-id="云南丽江高尔夫" tvg-name="云南丽江高尔夫" tvg-logo="https://epg.112114.xyz/logo/云南丽江高尔夫.png" group-title="景点",云南丽江高尔夫
 https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江冰川" tvg-name="云南丽江冰川" tvg-logo="https://epg.112114.xyz/logo/云南丽江冰川.png" group-title="云南",云南丽江冰川
+#EXTINF:-1,tvg-id="云南丽江冰川" tvg-name="云南丽江冰川" tvg-logo="https://epg.112114.xyz/logo/云南丽江冰川.png" group-title="景点",云南丽江冰川
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-#EXTINF:-1,tvg-id="云南丽江印象实景" tvg-name="云南丽江印象实景" tvg-logo="https://epg.112114.xyz/logo/云南丽江印象实景.png" group-title="云南",云南丽江印象实景
+#EXTINF:-1,tvg-id="云南丽江印象实景" tvg-name="云南丽江印象实景" tvg-logo="https://epg.112114.xyz/logo/云南丽江印象实景.png" group-title="景点",云南丽江印象实景
 https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1,tvg-id="江苏南京牛首山" tvg-name="江苏南京牛首山" tvg-logo="https://epg.112114.xyz/logo/江苏南京牛首山.png" group-title="江苏",江苏南京牛首山
+#EXTINF:-1,tvg-id="江苏南京牛首山" tvg-name="江苏南京牛首山" tvg-logo="https://epg.112114.xyz/logo/江苏南京牛首山.png" group-title="景点",江苏南京牛首山
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1,tvg-id="福建漳州六鳌翡翠湾" tvg-name="福建漳州六鳌翡翠湾" tvg-logo="https://epg.112114.xyz/logo/福建漳州六鳌翡翠湾.png" group-title="福建",福建漳州六鳌翡翠湾
+#EXTINF:-1,tvg-id="福建漳州六鳌翡翠湾" tvg-name="福建漳州六鳌翡翠湾" tvg-logo="https://epg.112114.xyz/logo/福建漳州六鳌翡翠湾.png" group-title="景点",福建漳州六鳌翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1,tvg-id="福建漳州醉美沙滩翡翠湾" tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="https://epg.112114.xyz/logo/福建漳州醉美沙滩翡翠湾.png" group-title="福建",福建漳州醉美沙滩翡翠湾
+#EXTINF:-1,tvg-id="福建漳州醉美沙滩翡翠湾" tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="https://epg.112114.xyz/logo/福建漳州醉美沙滩翡翠湾.png" group-title="景点",福建漳州醉美沙滩翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1,tvg-id="天津之眼" tvg-name="天津之眼" tvg-logo="https://epg.112114.xyz/logo/天津之眼.png" group-title="景点",天津之眼
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1,tvg-id="四川西昌邛海景区" tvg-name="四川西昌邛海景区" tvg-logo="https://epg.112114.xyz/logo/四川西昌邛海景区.png" group-title="四川",四川西昌邛海景区
+#EXTINF:-1,tvg-id="四川西昌邛海景区" tvg-name="四川西昌邛海景区" tvg-logo="https://epg.112114.xyz/logo/四川西昌邛海景区.png" group-title="景点",四川西昌邛海景区
 https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
 #EXTINF:-1,tvg-id="普陀山" tvg-name="普陀山" tvg-logo="https://epg.112114.xyz/logo/普陀山.png" group-title="景点",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
@@ -1546,7 +1551,7 @@ https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 #EXTINF:-1,tvg-id="乌镇全景" tvg-name="乌镇全景" tvg-logo="https://epg.112114.xyz/logo/乌镇全景.png" group-title="景点",乌镇全景
 https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1,tvg-id="凤凰古城南华山" tvg-name="凤凰古城南华山" tvg-logo="https://epg.112114.xyz/logo/凤凰古城南华山.png" group-title="香港",凤凰古城南华山
+#EXTINF:-1,tvg-id="凤凰古城南华山" tvg-name="凤凰古城南华山" tvg-logo="https://epg.112114.xyz/logo/凤凰古城南华山.png" group-title="景点",凤凰古城南华山
 https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
 #EXTINF:-1,tvg-id="黄花城水长城01" tvg-name="黄花城水长城01" tvg-logo="https://epg.112114.xyz/logo/黄花城水长城01.png" group-title="景点",黄花城水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
@@ -1618,34 +1623,28 @@ https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u
 https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
 #EXTINF:-1,tvg-id="黄山" tvg-name="黄山" tvg-logo="https://epg.112114.xyz/logo/黄山.png" group-title="景点",黄山
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1,tvg-id="福建宁德太姥山景区" tvg-name="福建宁德太姥山景区" tvg-logo="https://epg.112114.xyz/logo/福建宁德太姥山景区.png" group-title="福建",福建宁德太姥山景区
+#EXTINF:-1,tvg-id="福建宁德太姥山景区" tvg-name="福建宁德太姥山景区" tvg-logo="https://epg.112114.xyz/logo/福建宁德太姥山景区.png" group-title="景点",福建宁德太姥山景区
 https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
-#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮01" tvg-name="陕西洋县国宝朱鹮01" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮01.png" group-title="陕西",陕西洋县国宝朱鹮01
+#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮01" tvg-name="陕西洋县国宝朱鹮01" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮01.png" group-title="景点",陕西洋县国宝朱鹮01
 https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
-#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮02" tvg-name="陕西洋县国宝朱鹮02" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮02.png" group-title="陕西",陕西洋县国宝朱鹮02
+#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮02" tvg-name="陕西洋县国宝朱鹮02" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮02.png" group-title="景点",陕西洋县国宝朱鹮02
 https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
-#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮03" tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮03.png" group-title="陕西",陕西洋县国宝朱鹮03
+#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮03" tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮03.png" group-title="景点",陕西洋县国宝朱鹮03
 https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
-#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮04" tvg-name="陕西洋县国宝朱鹮04" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮04.png" group-title="陕西",陕西洋县国宝朱鹮04
+#EXTINF:-1,tvg-id="陕西洋县国宝朱鹮04" tvg-name="陕西洋县国宝朱鹮04" tvg-logo="https://epg.112114.xyz/logo/陕西洋县国宝朱鹮04.png" group-title="景点",陕西洋县国宝朱鹮04
 https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽黟县西递半山亭" tvg-name="安徽黟县西递半山亭" tvg-logo="https://epg.112114.xyz/logo/安徽黟县西递半山亭.png" group-title="安徽",安徽黟县西递半山亭
+#EXTINF:-1,tvg-id="安徽黟县西递半山亭" tvg-name="安徽黟县西递半山亭" tvg-logo="https://epg.112114.xyz/logo/安徽黟县西递半山亭.png" group-title="景点",安徽黟县西递半山亭
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽黟县西递牌坊" tvg-name="安徽黟县西递牌坊" tvg-logo="https://epg.112114.xyz/logo/安徽黟县西递牌坊.png" group-title="安徽",安徽黟县西递牌坊
+#EXTINF:-1,tvg-id="安徽黟县西递牌坊" tvg-name="安徽黟县西递牌坊" tvg-logo="https://epg.112114.xyz/logo/安徽黟县西递牌坊.png" group-title="景点",安徽黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽黟县宏村月沼" tvg-name="安徽黟县宏村月沼" tvg-logo="https://epg.112114.xyz/logo/安徽黟县宏村月沼.png" group-title="安徽",安徽黟县宏村月沼
+#EXTINF:-1,tvg-id="安徽黟县宏村月沼" tvg-name="安徽黟县宏村月沼" tvg-logo="https://epg.112114.xyz/logo/安徽黟县宏村月沼.png" group-title="景点",安徽黟县宏村月沼
 https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
-#EXTINF:-1,tvg-id="安徽黟县芦村远眺" tvg-name="安徽黟县芦村远眺" tvg-logo="https://epg.112114.xyz/logo/安徽黟县芦村远眺.png" group-title="安徽",安徽黟县芦村远眺
+#EXTINF:-1,tvg-id="安徽黟县芦村远眺" tvg-name="安徽黟县芦村远眺" tvg-logo="https://epg.112114.xyz/logo/安徽黟县芦村远眺.png" group-title="景点",安徽黟县芦村远眺
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 #EXTINF:-1,tvg-id="深圳世界之窗文化主题公园" tvg-name="深圳世界之窗文化主题公园" tvg-logo="https://epg.112114.xyz/logo/深圳世界之窗文化主题公园.png" group-title="景点",深圳世界之窗文化主题公园
 https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 #EXTINF:-1,tvg-id="八达岭长城南七楼" tvg-name="八达岭长城南七楼" tvg-logo="https://epg.112114.xyz/logo/八达岭长城南七楼.png" group-title="景点",八达岭长城南七楼
 https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-#EXTINF:-1,tvg-id="中央电视塔东" tvg-name="中央电视塔东" tvg-logo="https://epg.112114.xyz/logo/中央电视塔东.png" group-title="央视",中央电视塔东
-https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-#EXTINF:-1,tvg-id="中央电视塔南" tvg-name="中央电视塔南" tvg-logo="https://epg.112114.xyz/logo/中央电视塔南.png" group-title="央视",中央电视塔南
-https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-#EXTINF:-1,tvg-id="中央电视塔北" tvg-name="中央电视塔北" tvg-logo="https://epg.112114.xyz/logo/中央电视塔北.png" group-title="央视",中央电视塔北
-https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
 #EXTINF:-1,tvg-id="恒山悬空寺全景" tvg-name="恒山悬空寺全景" tvg-logo="https://epg.112114.xyz/logo/恒山悬空寺全景.png" group-title="景点",恒山悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 #EXTINF:-1,tvg-id="恒宗" tvg-name="恒宗" tvg-logo="https://epg.112114.xyz/logo/恒宗.png" group-title="景点",恒宗
@@ -1668,17 +1667,17 @@ https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 #EXTINF:-1,tvg-id="华山" tvg-name="华山" tvg-logo="https://epg.112114.xyz/logo/华山.png" group-title="景点",华山
 https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
-#EXTINF:-1,tvg-id="贵州省兴义市万峰林" tvg-name="贵州省兴义市万峰林" tvg-logo="https://epg.112114.xyz/logo/贵州省兴义市万峰林.png" group-title="贵州",贵州省兴义市万峰林
+#EXTINF:-1,tvg-id="贵州省兴义市万峰林" tvg-name="贵州省兴义市万峰林" tvg-logo="https://epg.112114.xyz/logo/贵州省兴义市万峰林.png" group-title="景点",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-#EXTINF:-1,tvg-id="贵州省兴义市马岭河峡谷" tvg-name="贵州省兴义市马岭河峡谷" tvg-logo="https://epg.112114.xyz/logo/贵州省兴义市马岭河峡谷.png" group-title="贵州",贵州省兴义市马岭河峡谷
+#EXTINF:-1,tvg-id="贵州省兴义市马岭河峡谷" tvg-name="贵州省兴义市马岭河峡谷" tvg-logo="https://epg.112114.xyz/logo/贵州省兴义市马岭河峡谷.png" group-title="景点",贵州省兴义市马岭河峡谷
 https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
-#EXTINF:-1,tvg-id="贵州省贞丰市双乳峰景区" tvg-name="贵州省贞丰市双乳峰景区" tvg-logo="https://epg.112114.xyz/logo/贵州省贞丰市双乳峰景区.png" group-title="贵州",贵州省贞丰市双乳峰景区
+#EXTINF:-1,tvg-id="贵州省贞丰市双乳峰景区" tvg-name="贵州省贞丰市双乳峰景区" tvg-logo="https://epg.112114.xyz/logo/贵州省贞丰市双乳峰景区.png" group-title="景点",贵州省贞丰市双乳峰景区
 https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
-#EXTINF:-1,tvg-id="云南大理崇圣寺三塔中景" tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔中景.png" group-title="云南",云南大理崇圣寺三塔中景
+#EXTINF:-1,tvg-id="云南大理崇圣寺三塔中景" tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔中景.png" group-title="景点",云南大理崇圣寺三塔中景
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-#EXTINF:-1,tvg-id="云南大理崇圣寺三塔湖面" tvg-name="云南大理崇圣寺三塔湖面" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔湖面.png" group-title="云南",云南大理崇圣寺三塔湖面
+#EXTINF:-1,tvg-id="云南大理崇圣寺三塔湖面" tvg-name="云南大理崇圣寺三塔湖面" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔湖面.png" group-title="景点",云南大理崇圣寺三塔湖面
 https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
-#EXTINF:-1,tvg-id="云南大理崇圣寺三塔远景" tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔远景.png" group-title="云南",云南大理崇圣寺三塔远景
+#EXTINF:-1,tvg-id="云南大理崇圣寺三塔远景" tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://epg.112114.xyz/logo/云南大理崇圣寺三塔远景.png" group-title="景点",云南大理崇圣寺三塔远景
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1,tvg-id="广西桂林漓江景区" tvg-name="广西桂林漓江景区" tvg-logo="https://epg.112114.xyz/logo/广西桂林漓江景区.png" group-title="景点",广西桂林漓江景区
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
@@ -1710,15 +1709,15 @@ https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
 #EXTINF:-1,tvg-id="丹霞山韶音亭" tvg-name="丹霞山韶音亭" tvg-logo="https://epg.112114.xyz/logo/丹霞山韶音亭.png" group-title="景点",丹霞山韶音亭
 https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
-#EXTINF:-1,tvg-id="云南红河哈尼梯田多依树景点" tvg-name="云南红河哈尼梯田多依树景点" tvg-logo="https://epg.112114.xyz/logo/云南红河哈尼梯田多依树景点.png" group-title="云南",云南红河哈尼梯田多依树景点
+#EXTINF:-1,tvg-id="云南红河哈尼梯田多依树景点" tvg-name="云南红河哈尼梯田多依树景点" tvg-logo="https://epg.112114.xyz/logo/云南红河哈尼梯田多依树景点.png" group-title="景点",云南红河哈尼梯田多依树景点
 https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-#EXTINF:-1,tvg-id="云南红河哈尼梯田普高老寨" tvg-name="云南红河哈尼梯田普高老寨" tvg-logo="https://epg.112114.xyz/logo/云南红河哈尼梯田普高老寨.png" group-title="云南",云南红河哈尼梯田普高老寨
+#EXTINF:-1,tvg-id="云南红河哈尼梯田普高老寨" tvg-name="云南红河哈尼梯田普高老寨" tvg-logo="https://epg.112114.xyz/logo/云南红河哈尼梯田普高老寨.png" group-title="景点",云南红河哈尼梯田普高老寨
 https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
-#EXTINF:-1,tvg-id="江西龙虎山中间水泡" tvg-name="江西龙虎山中间水泡" tvg-logo="https://epg.112114.xyz/logo/江西龙虎山中间水泡.png" group-title="江西",江西龙虎山中间水泡
+#EXTINF:-1,tvg-id="江西龙虎山中间水泡" tvg-name="江西龙虎山中间水泡" tvg-logo="https://epg.112114.xyz/logo/江西龙虎山中间水泡.png" group-title="景点",江西龙虎山中间水泡
 https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
 #EXTINF:-1,tvg-id="乐山大佛全景" tvg-name="乐山大佛全景" tvg-logo="https://epg.112114.xyz/logo/乐山大佛全景.png" group-title="景点",乐山大佛全景
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-#EXTINF:-1,tvg-id="福建武夷山玉女峰" tvg-name="福建武夷山玉女峰" tvg-logo="https://epg.112114.xyz/logo/福建武夷山玉女峰.png" group-title="福建",福建武夷山玉女峰
+#EXTINF:-1,tvg-id="福建武夷山玉女峰" tvg-name="福建武夷山玉女峰" tvg-logo="https://epg.112114.xyz/logo/福建武夷山玉女峰.png" group-title="景点",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 
