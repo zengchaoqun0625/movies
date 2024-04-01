@@ -502,8 +502,12 @@ http://180.107.88.32:9999/rtp/239.49.8.180:6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实高清
 http://180.107.88.32:9999/rtp/239.49.8.203:6000
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="电影",百变课堂 8M
-https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1,tvg-id="漫威影片" tvg-name="漫威影片" tvg-logo="https://epg.112114.xyz/logo/漫威影片.png" group-title="电影",漫威影片
+http://43.138.170.29:35455/douyu/6140589
+#EXTINF:-1,tvg-id="刘德华电影1" tvg-name="刘德华电影1" tvg-logo="https://epg.112114.xyz/logo/刘德华电影1.png" group-title="电影",刘德华电影1
+http://43.138.170.29:35455/douyu/2516864
+#EXTINF:-1,tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/豆瓣高分.png" group-title="电影",豆瓣高分
+http://43.138.170.29:35455/douyu/8770422
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="电影",看天下精选 8M
 https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="电影",华语影院 8M
@@ -602,12 +606,6 @@ http://43.138.170.29:35455/douyu/3637778
 http://43.138.170.29:35455/douyu/96577
 #EXTINF:-1,tvg-id="吃米滴虫" tvg-name="吃米滴虫" tvg-logo="https://epg.112114.xyz/logo/吃米滴虫.png" group-title="电影",吃米滴虫
 http://43.138.170.29:35455/douyu/315457
-#EXTINF:-1,tvg-id="漫威影片" tvg-name="漫威影片" tvg-logo="https://epg.112114.xyz/logo/漫威影片.png" group-title="电影",漫威影片
-http://43.138.170.29:35455/douyu/6140589
-#EXTINF:-1,tvg-id="刘德华电影1" tvg-name="刘德华电影1" tvg-logo="https://epg.112114.xyz/logo/刘德华电影1.png" group-title="电影",刘德华电影1
-http://43.138.170.29:35455/douyu/2516864
-#EXTINF:-1,tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/豆瓣高分.png" group-title="电影",豆瓣高分
-http://43.138.170.29:35455/douyu/8770422
 #EXTINF:-1,tvg-id="林正英电影2" tvg-name="林正英电影2" tvg-logo="https://epg.112114.xyz/logo/林正英电影2.png" group-title="电影",林正英电影2
 http://43.138.170.29:35455/douyu/7356023
 #EXTINF:-1,tvg-id="宇哥电影" tvg-name="宇哥电影" tvg-logo="https://epg.112114.xyz/logo/宇哥电影.png" group-title="电影",宇哥电影
