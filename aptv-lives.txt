@@ -185,9 +185,9 @@ http://106.115.27.209:9999/tsfile/live/0141_1.m3u8
 https://m.wuzhij.com/sxxa.php?id=sxws
 #EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/陕西农林卫视.png" group-title="卫视",农林卫视
 https://m.wuzhij.com/sxxa.php?id=nlws
-#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="地方",卡酷动画
+#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="卫视",卡酷动画
 http://106.115.27.209:9999/tsfile/live/1019_1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫士",金鹰卡通
 http://106.115.27.209:9999/tsfile/live/1020_1.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="地方",梨园
 http://106.115.27.209:9999/tsfile/live/1021_1.m3u8

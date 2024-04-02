@@ -17,12 +17,11 @@
             "name": "💛影视4💛"
         },
         {
-            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json",
+            "url": "http://home.jundie.top:81/top98.json",
             "name": "💛影视5💛"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-",
+            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
             "name": "💛影视6💛"
         },
         {
@@ -30,7 +29,7 @@
             "name": "💛影视7💛"
         },
         {
-            "url": "我不是.摸鱼儿.top",
+            "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "💛影视8💛"
         },
         {
