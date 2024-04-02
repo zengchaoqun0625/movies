@@ -21,8 +21,7 @@
             "name": "💛影视5💛"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
-",
+            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
             "name": "💛影视6💛"
         },
         {
