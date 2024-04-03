@@ -67,7 +67,7 @@ CGTN,http://8.137.98.246/video.php?id=cgtnr
 
 
 
-📡地方频道,#genre#
+.地方频道,#genre#
 巩义1080,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
 荥阳1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
 新密1080,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
