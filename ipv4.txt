@@ -1,4 +1,4 @@
-🙈央视频道,#genre#
+.央视频道,#genre#
 cctv-4k,http://8.137.98.246/video.php?id=cctv4k
 cctv-8k,http://8.137.98.246/video.php?id=cctv8k
 cctv1,http://8.137.98.246/video.php?id=cctv1
@@ -41,7 +41,7 @@ CGTN阿语,http://8.137.98.246/video.php?id=cgtna
 CGTN,http://8.137.98.246/video.php?id=cgtnr
 
 
-🙈卫视频道,#genre#
+.卫视频道,#genre#
 北京卫视,http://8.137.98.246/video.php?id=bjws
 东方卫视,http://8.137.98.246/video.php?id=dfws
 天津卫视,http://8.137.98.246/video.php?id=tjws
@@ -201,7 +201,7 @@ CGTN,http://8.137.98.246/video.php?id=cgtnr
 
 
 
-🙈游戏直播,#genre#
+.游戏直播,#genre#
 「虎牙」英雄联盟 1,https://yang-1989.eu.org/huya/660000
 「虎牙」英雄联盟 2,https://yang-1989.eu.org/huya/660001
 「斗鱼」英雄联盟 1,https://yang-1989.eu.org/douyu/288016
@@ -262,7 +262,7 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 
 
 
-🙈广播频道,#genre#
+.广播频道,#genre#
 Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
 Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
 BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
@@ -532,7 +532,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 
 
 
-🙈电影频道-,#genre#
+.电影频道-,#genre#
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
@@ -598,7 +598,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 
 
-🙈斗鱼轮播,#genre#
+.斗鱼轮播,#genre#
 林正英 1,http://43.138.170.29:35455/douyu/7356023
 林正英 2,http://43.138.170.29:35455/douyu/218859
 斗鱼频道,http://epg.112114.xyz/douyu/8770422
@@ -613,7 +613,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 斗鱼频道,http://43.138.170.29:35455/douyu/1274132
 
 
-🙈电影轮播,#genre#
+.电影轮播,#genre#
 鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
 恐怖故事,http://43.138.170.29:35455/douyu/2337939
 科幻动作,http://43.138.170.29:35455/douyu/4332
@@ -693,7 +693,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 
 
-🙈动物世界,#genre#
+.动物世界,#genre#
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -1030,7 +1030,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 足球超级猎食者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
 足球超级猎食者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 
-🙈景点频道,#genre#
+.景点频道,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
@@ -1196,7 +1196,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 
 
-💞经典电影，#流派#
+.经典电影，#流派#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
 跟踪追击，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
@@ -1288,7 +1288,7 @@ CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
-🌃历届春晚，#genre#
+.历届春晚，#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
