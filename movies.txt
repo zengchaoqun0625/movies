@@ -13,7 +13,7 @@
             "name": "💛影视3💛"
         },
         {
-            "url": "https://wds.ecsxs.com/230989.json",
+            "url": "http://ok321.top/ok",
             "name": "💛影视4💛"
         },
         {
@@ -25,7 +25,7 @@
             "name": "💛影视6💛"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "💛影视7💛"
         },
         {
@@ -41,7 +41,7 @@
             "name": "💛影视10💛"
        },
        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq.json",
             "name": "💛影视11💛"
        },
        {
