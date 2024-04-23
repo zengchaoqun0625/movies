@@ -18,6 +18,16 @@ CCTV14,http://106.115.27.164:9999/tsfile/live/0014_1.m3u8
 CCTV15,http://106.115.27.164:9999/tsfile/live/0015_1.m3u8
 CCTV16-奥林匹克,http://171.38.216.193:8082/tsfile/live/1002_1.m3u8
 CCTV17-农业农村,http://171.38.216.193:8082/tsfile/live/1039_1.m3u8
+CCTV世界地理,http://8.137.98.246/video.php?id=sjdl
+CCTV网球网球,http://8.137.98.246/video.php?id=gefwq
+CCTV央视台球,http://8.137.98.246/video.php?id=ystq
+CCTV卫生健康,http://8.137.98.246/video.php?id=wsjk
+CGTN记录,http://8.137.98.246/video.php?id=cgtnjl
+CGTN西语,http://8.137.98.246/video.php?id=cgtne
+CGTN法语,http://8.137.98.246/video.php?id=cgtnf
+CGTN阿语,http://8.137.98.246/video.php?id=cgtna
+CGTN,http://8.137.98.246/video.php?id=cgtnr
+中国国际电视台,http://8.137.98.246/video.php?id=cgtn
 
 
 .卫视频道,#genre#
