@@ -1,23 +1,23 @@
 .央视频道,#genre#
 爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
-CCTV1,https://epg.pw/stream/00bccd76ae209a2fbb4d5276032d22c11df8bab914549c0cd7a8d9d064ada628.m3u8
-CCTV2,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
-CCTV3,https://epg.pw/stream/33711cece64c9077907fa3caea452361f539772402550ca53ae2c9b00a3211b3.m3u8
-CCTV4,https://epg.pw/stream/8d18722853d1113e2d4b197d76498399fabde3c03bda3fc3649ecd3058bb112b.m3u8
+CCTV1,https://epg.pw/stream/c1980814348616ed0068602a3398b361096544f6d026830ceb16352b979defda.m3u8
+CCTV2,https://epg.pw/stream/c02792b46c4e1dc61a0f07664344f9edef7cc83e815b166a66c19081ce1cab43.m3u8
+CCTV3,https://epg.pw/stream/44cca69be0608a658ece734b92ece61bd0aea56c9970dc3cf2e2d866df4fa541.m3u8
+CCTV4,https://epg.pw/stream/e883b241b7e6be61d2659dd68b1d538f0dc881bae104df44b9a6f8323b6234c9.m3u8
 CCTV5,https://epg.pw/stream/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
 CCTV5+,https://epg.pw/stream/4e133151c35a9cb2f88d2d8298fe572786cc4cefaf14ca45a72f0ab1dada4b35.m3u8
 CCTV6,https://epg.pw/stream/b75cfd695ddc84c54335dd9764e01baf47d0b248758dd18e70b4f93f8249fc49.m3u8
-CCTV7,https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
-CCTV8,https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8
-CCTV9,https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8
-CCTV10,https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
-CCTV11,https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
-CCTV12,https://epg.pw/stream/e2b72dbd5f35f212baed0975ed3e22836aba1d4323b10dd50cfc324e8c3b9bdb.m3u8
-CCTV13,https://epg.pw/stream/f775810be10706600c58373ca47c369fa14a21c1fb1fb953645eaa89b7811b7f.m3u8
-CCTV14,https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8
-CCTV15,https://epg.pw/stream/74c43481422c4b90c919e39d27b43a861321daf8b02fed67298398a1abdfd796.m3u8
-CCTV16,https://epg.pw/stream/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8
-CCTV17,https://epg.pw/stream/ce5a1eea427e695aac64366f5c727e80bdda57a6a6df856f2654d325f559f8a5.m3u8
+CCTV7,https://epg.pw/stream/1f156045e41b66cc968eb4fb1e3795c260b23e67dd227911c94dbb1a82d58c77.m3u8
+CCTV8,https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8
+CCTV9,https://epg.pw/stream/f4705979dfb0c7f5a64db0b7303143940b980841c62a57f4ec76b8b6037f9cf7.m3u8
+CCTV10,https://epg.pw/stream/3614bbe5f3c15d8b80f42f054fd2fe92b7949fcd728a46599e70bf1cb386f0cb.m3u8
+CCTV11,https://epg.pw/stream/675d68ed0047805ce30a2f8406f1e254d34befcf413d9239fa3d1b177370f40c.m3u8
+CCTV12,https://epg.pw/stream/606785673559b89523ae9a7b643efa266ff08386ce678c2a204216cc78c3efdd.m3u8
+CCTV13,https://epg.pw/stream/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8
+CCTV14,https://epg.pw/stream/318722914b0180a05ca32723cab95d2e8986a6a28fb451445a2c009279f230be.m3u8
+CCTV15,https://epg.pw/stream/932e62bcafc868cc1eaff14be17c9daf412a1f5c2cd1b29b2d494bf07c6d5857.m3u8
+CCTV16,https://epg.pw/stream/90bfaec7908423d502fc444f46d6aa727f5b5d36f67d3492d2ddaa559108372e.m3u8
+CCTV17,https://epg.pw/stream/f552024dc7f521d901bfbfb6c4b2f4c8f0fe0e81615e947a846f894591f0c9ff.m3u8
 CCTV世界地理,https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
@@ -26,8 +26,6 @@ CCTV风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b
 CCTV风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV剧场第一,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 CGTN,https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
-央视文化精品，https://epg.pw/stream/70666105717759ad2b87b61789ef3e4ef7aad472a2adc319c102e6488cbc70ad.m3u8
-央视风云音乐,https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8
 央视女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 
 
