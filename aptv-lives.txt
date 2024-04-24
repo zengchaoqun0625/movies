@@ -1,296 +1,1405 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-video://https://yangshipin.cn/#/tv/home?pid=600001859
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-video://https://yangshipin.cn/#/tv/home?pid=600001800
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-video://https://yangshipin.cn/#/tv/home?pid=600001801
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-video://https://yangshipin.cn/#/tv/home?pid=600001814
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-video://https://yangshipin.cn/#/tv/home?pid=600001818
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-video://https://yangshipin.cn/#/tv/home?pid=600001817
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
-video://https://yangshipin.cn/#/tv/home?pid=600001802
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-video://https://yangshipin.cn/#/tv/home?pid=600004092
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-video://https://yangshipin.cn/#/tv/home?pid=600001803
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-video://https://yangshipin.cn/#/tv/home?pid=600004078
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-video://https://yangshipin.cn/#/tv/home?pid=600001805
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-video://https://yangshipin.cn/#/tv/home?pid=600001806
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-video://https://yangshipin.cn/#/tv/home?pid=600001807
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-video://https://yangshipin.cn/#/tv/home?pid=600001811
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-video://https://yangshipin.cn/#/tv/home?pid=600001809
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-video://https://yangshipin.cn/#/tv/home?pid=600001815
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
-video://https://yangshipin.cn/#/tv/home?pid=600098637
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-video://https://yangshipin.cn/#/tv/home?pid=600001810
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k
-video://https://yangshipin.cn/#/tv/home?pid=600002264
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
-https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
-https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
-https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
-#EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://epg.112114.xyz/logo/卫生健康.png" group-title="央视",CCTV卫生健康
-https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
-https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",CCTV风云足球
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-#EXTINF:-1,tvg-id="CCTV剧场第一" tvg-name="CCTV剧场第一" tvg-logo="https://epg.112114.xyz/logo/CCTV剧场第一.png" group-title="央视",CCTV剧场第一
-https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视",央视女性时尚
-https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
-#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
-http://218.29.135.5:4000/udp/225.1.4.162:1204
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-video://https://yangshipin.cn/#/tv/home?pid=600014550
-#EXTINF:-1 tvg-id="21" tvg-name="CGTN外语纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN外语纪录
-video://https://yangshipin.cn/#/tv/home?pid=600084781
-#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
-video://https://yangshipin.cn/#/tv/home?pid=600084704
-#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
-video://https://yangshipin.cn/#/tv/home?pid=600084758
-#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语
-video://https://yangshipin.cn/#/tv/home?pid=600084782
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
-video://https://yangshipin.cn/#/tv/home?pid=600002503
+.央视频道,#genre#
+爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
+CCTV1-综合,http://171.108.239.6:8181/tsfile/live/0001_1.m3u8
+CCTV2-财经,http://171.108.239.6:8181/tsfile/live/0002_1.m3u8
+CCTV3-综艺,http://171.108.239.6:8181/tsfile/live/0003_1.m3u8
+CCTV4-国际，http://171.108.239.6:8181/tsfile/live/0004_1.m3u8
+CCTV5-体育,http://171.108.239.6:8181/tsfile/live/0005_1.m3u8
+CCTV5+体育赛事,http://171.108.239.6:8181/tsfile/live/0016_1.m3u8
+CCTV6-电影,http://171.108.239.6:8181/tsfile/live/0006_1.m3u8
+CCTV7-军农,http://171.108.239.6:8181/tsfile/live/0007_1.m3u8
+CCTV8-电视剧,http://171.108.239.6:8181/tsfile/live/0008_1.m3u8
+CCTV9-纪录,http://171.108.239.6:8181/tsfile/live/0009_1.m3u8
+CCTV10-科教,http://171.108.239.6:8181/tsfile/live/0010_1.m3u8
+CCTV11-戏曲,http://171.108.239.6:8181/tsfile/live/0011_1.m3u8
+CCTV12-社会与法,http://171.108.239.6:8181/tsfile/live/0012_1.m3u8
+CCTV13-新闻,http://171.108.239.6:8181/tsfile/live/0013_1.m3u8
+CCTV14-少儿,http://171.108.239.6:8181/tsfile/live/0014_1.m3u8
+CCTV15-音乐,http://171.108.239.6:8181/tsfile/live/0015_1.m3u8
+CCTV17，http://171.108.239.6:8181/tsfile/live/0019_1.m3u8
+CCTV世界地理,https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+CCTV怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
+CCTV卫生健康,https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
+CCTV风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
+CCTV风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+CCTV剧场第一,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
+CGTN,https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
+央视女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 
 
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002520
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002475
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002483
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002521
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002309
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002503
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002525
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002508
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002513
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002485
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002509
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002531   
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002493  
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002490
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002532  
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002481
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002516
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002484  
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002506
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002505    
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002498
 
 
-#EXTINF:-1,tvg-id="巩义" tvg-name="巩义" tvg-logo="https://epg.112114.xyz/logo/巩义.png" group-title="地方",巩义
-http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-#EXTINF:-1,tvg-id="荥阳" tvg-name="荥阳" tvg-logo="https://epg.112114.xyz/logo/荥阳.png" group-title="地方",荥阳
-http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1,tvg-id="新密" tvg-name="新密" tvg-logo="https://epg.112114.xyz/logo/新密.png" group-title="地方",新密
-http://live.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1,tvg-id="新郑" tvg-name="新郑" tvg-logo="https://epg.112114.xyz/logo/新郑.png" group-title="地方",新郑
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1,tvg-id="杞县" tvg-name="杞县" tvg-logo="https://epg.112114.xyz/logo/杞县.png" group-title="地方",杞县
-http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-#EXTINF:-1,tvg-id="通许" tvg-name="通许" tvg-logo="https://epg.112114.xyz/logo/通许.png" group-title="地方",通许
-http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1,tvg-id="尉氏" tvg-name="尉氏" tvg-logo="https://epg.112114.xyz/logo/尉氏.png" group-title="地方",尉氏
-http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-#EXTINF:-1,tvg-id="兰考" tvg-name="兰考" tvg-logo="https://epg.112114.xyz/logo/兰考.png" group-title="地方",兰考
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1,tvg-id="新安" tvg-name="新安" tvg-logo="https://epg.112114.xyz/logo/新安.png" group-title="地方",新安
-http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1,tvg-id="汝阳" tvg-name="汝阳" tvg-logo="https://epg.112114.xyz/logo/汝阳.png" group-title="地方",汝阳
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1,tvg-id="宜阳" tvg-name="宜阳" tvg-logo="https://epg.112114.xyz/logo/宜阳.png" group-title="地方",宜阳
-http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1,tvg-id="宝丰，http://live.dxhmt.cn:9081/tv/10421-1.m3u8" tvg-name="宝丰，http://live.dxhmt.cn:9081/tv/10421-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/宝丰，HTTP://LIVE.DXHMT.CN:/TV/13U8.png" group-title="地方",宝丰，http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 
-#EXTINF:-1,tvg-id="叶县" tvg-name="叶县" tvg-logo="https://epg.112114.xyz/logo/叶县.png" group-title="地方",叶县
-http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1,tvg-id="鲁山" tvg-name="鲁山" tvg-logo="https://epg.112114.xyz/logo/鲁山.png" group-title="地方",鲁山
-http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-#EXTINF:-1,tvg-id="郏县，http://live.dxhmt.cn:9081/tv/10425-1.m3u8" tvg-name="郏县，http://live.dxhmt.cn:9081/tv/10425-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/郏县，HTTP://LIVE.DXHMT.CN:/TV/53U8.png" group-title="地方",郏县，http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+.卫视频道,#genre#
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+河南卫视,http://218.29.135.5:4000/udp/225.1.4.254:1300
+广西卫视,http://171.108.239.6:8181/tsfile/live/0113_1.m3u8
+广西综艺,http://171.108.239.6:8181/tsfile/live/1005_1.m3u8
+三沙卫视,http://171.108.239.6:8181/tsfile/live/1020_1.m3u8
+广西都市，http://171.108.239.6:8181/tsfile/live/1006_1.m3u8
+广西新闻,http://171.108.239.6:8181/tsfile/live/1007_1.m3u8
+足球,http://171.108.239.6:8181/tsfile/live/1008_1.m3u8
+广西影视，http://171.108.239.6:8181/tsfile/live/1032_1.m3u8
+广西国际，http://171.108.239.6:8181/tsfile/live/1018_1.m3u8
+广西移动,http://171.108.239.6:8181/tsfile/live/1019_1.m3u8
+中国气象，http://171.108.239.6:8181/tsfile/live/1027_1.m3u8
+中国教育,http://171.108.239.6:8181/tsfile/live/1000_1.m3u8
+珠江台(1),http://171.108.239.6:8181/tsfile/live/1010_1.m3u8
+广东卫视,http://171.108.239.6:8181/tsfile/live/1036_1.m3u8
+深圳卫视，http://171.108.239.6:8181/tsfile/live/0126_1.m3u8
+南方卫视,http://171.108.239.6:8181/tsfile/live/1028_1.m3u8
+湖南卫视,http://171.108.239.6:8181/tsfile/live/1035_1.m3u8
+湖北卫视,http://171.108.239.6:8181/tsfile/live/1034_1.m3u8
+江苏卫视，http://171.108.239.6:8181/tsfile/live/1037_1.m3u8
+北京卫视,http://171.108.239.6:8181/tsfile/live/0122_1.m3u8
+天津卫视,http://171.108.239.6:8181/tsfile/live/0135_1.m3u8
+重庆卫视,http://171.108.239.6:8181/tsfile/live/0142_1.m3u8
+浙江卫视,http://171.108.239.6:8181/tsfile/live/0124_1.m3u8
+安徽卫视，http://171.108.239.6:8181/tsfile/live/0130_1.m3u8
+江西卫视,http://171.108.239.6:8181/tsfile/live/0138_1.m3u8
+贵州卫视,http://171.108.239.6:8181/tsfile/live/0120_1.m3u8
+四川卫视,http://171.108.239.6:8181/tsfile/live/0123_1.m3u8
+河北卫视,http://171.108.239.6:8181/tsfile/live/1033_1.m3u8
+上海卫视,http://171.108.239.6:8181/tsfile/live/0107_1.m3u8
+黑龙江卫视,http://171.108.239.6:8181/tsfile/live/0143_1.m3u8
+东南卫视,http://171.108.239.6:8181/tsfile/live/0137_1.m3u8
+辽宁卫视,http://171.108.239.6:8181/tsfile/live/0121_1.m3u8
+金鹰纪实,http://171.108.239.6:8181/tsfile/live/1021_1.m3u8
+山东卫视,http://171.108.239.6:8181/tsfile/live/0131_1.m3u8
+家庭影院,http://171.108.239.6:8181/tsfile/live/1002_1.m3u8
+动作电影,http://171.108.239.6:8181/tsfile/live/1003_1.m3u8
+高清电影,http://171.108.239.6:8181/tsfile/live/1004_1.m3u8
+甘肃卫视,http://171.108.239.6:8181/tsfile/live/0141_1.m3u8
+河南卫视,http://171.108.239.6:8181/tsfile/live/0139_1.m3u8
+山西卫视,http://171.108.239.6:8181/tsfile/live/0118_1.m3u8
+陕西卫视,http://171.108.239.6:8181/tsfile/live/0136_1.m3u8
+西藏卫视,http://171.108.239.6:8181/tsfile/live/0111_1.m3u8
+青海卫视,http://171.108.239.6:8181/tsfile/live/0140_1.m3u8
+吉林卫视,http://171.108.239.6:8181/tsfile/live/0116_1.m3u8
+金鹰卡通，http://171.108.239.6:8181/tsfile/live/1024_1.m3u8
+佳嘉卡通,http://171.108.239.6:8181/tsfile/live/1025_1.m3u8
+哈哈炫动,http://171.108.239.6:8181/tsfile/live/1009_1.m3u8
+动漫秀场,http://171.108.239.6:8181/tsfile/live/1026_1.m3u8
+酷动漫,http://171.108.239.6:8181/tsfile/live/1023_1.m3u8
+优漫漫画,http://171.108.239.6:8181/tsfile/live/1039_1.m3u8
+少儿动画,http://171.108.239.6:8181/tsfile/live/1030_1.m3u8
+全纪实,http://171.108.239.6:8181/tsfile/live/1022_1.m3u8
+云南卫视,http://171.108.239.6:8181/tsfile/live/0119_1.m3u8
+内蒙古卫视,http://171.108.239.6:8181/tsfile/live/0109_1.m3u8
+宁夏卫视,http://171.108.239.6:8181/tsfile/live/0112_1.m3u8
+新疆卫视,http://171.108.239.6:8181/tsfile/live/0110_1.m3u8
+海南卫视,http://171.108.239.6:8181/tsfile/live/0114_1.m3u8
+贵港新闻,http://171.108.239.6:8181/tsfile/live/1013_1.m3u8
+平南综合,http://171.108.239.6:8181/tsfile/live/1014_1.m3u8
+星河电视台(2）,http://171.108.239.6:8181/tsfile/live/1011_1.m3u8
+中国新闻,http://171.108.239.6:8181/tsfile/live/1017_1.m3u8
+中国纪实,http://171.108.239.6:8181/tsfile/live/1038_1.m3u8
+星河电视台,http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
+安多卫视,http://171.108.239.6:8181/tsfile/live/1029_1.m3u8
+农林卫视,http://171.108.239.6:8181/tsfile/live/1040_1.m3u8
+四川康巴卫视,http://171.108.239.6:8181/tsfile/live/1041_1.m3u8
 
-#EXTINF:-1,tvg-id="舞钢，http://live.dxhmt.cn:9081/tv/10481-1.m3u8" tvg-name="舞钢，http://live.dxhmt.cn:9081/tv/10481-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/舞钢，HTTP://LIVE.DXHMT.CN:/TV/13U8.png" group-title="地方",舞钢，http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+.地方频道,#genre#
+巩义1080,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+荥阳1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+新密1080,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+新郑1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+杞县1080,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+通许1080,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+兰考1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+新安1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+汝阳1080,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+宜阳1080,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+宝丰1080，http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+叶县1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+鲁山1080,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+郏县1080，http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+舞钢1080，http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+汤阴1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+滑县1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+内黄1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+林州1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+浚县1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+淇县1080,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+新乡1080,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+嘉获1080,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+原阳1080，http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+封丘1080,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+长垣1080，http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+卫辉 1080,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+辉县1080,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+武陟1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+温县1080，http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+泌阳1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+孟州1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+南乐1080,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
+建安1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+鄢陵1080,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+襄城1080,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+禹州1080,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+舞阳1080,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
+渑池1080,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+义马1080,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+灵宝1080,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+方城1080,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+镇平1080,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
+淅川1080,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+唐河1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+新野1080,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+桐柏1080,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+邓州1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
+永城1080，http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+罗山1080,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+光山1080,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+新县1080，http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+商城1080，http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+其余川1080,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+西华1080,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+沉丘1080,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+郸城1080,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+鹿邑1080,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
+项城1080,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+西平1080,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
+平舆1080,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+确山1080,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
+泌阳1080,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+遂平1080，http://live.dxhmt.cn:9081/tv/11728-1.m3u8
+新蔡1080,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+济源1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+洛阳新闻,https://m.wuzhij.com/hnly.php?id=zh
+洛阳科教,https://m.wuzhij.com/hnly.php?id=kj
+洛阳文旅,https://m.wuzhij.com/hnly.php?id=wl
+崇县综合，https://m.wuzhij.com/hnly.php?id=cx
+洛宁综合，https://m.wuzhij.com/hnly.php?id=ln
+新安综合，https://m.wuzhij.com/hnly.php?id=xa
+周口新闻,https://m.wuzhij.com/hnzk.php?id=zkxwzh
+周口公共,https://m.wuzhij.com/hnzk.php?id=zkgg
+周口教育,https://m.wuzhij.com/hnzk.php?id=zkjy
+周口川汇,https://m.wuzhij.com/hnzk.php?id=zkch
+湖南电视剧,https://m.wuzhij.com/mg.php?id=hndsj
+湖南国际，https://m.wuzhij.com/mg.php?id=hngj
+湖南娱乐,https://m.wuzhij.com/mg.php?id=hnyl
+湖南都市，https://m.wuzhij.com/mg.php?id=hnds         
+金鹰纪实,https://m.wuzhij.com/mg.php?id=jyjs
+湖南公共，https://m.wuzhij.com/mg.php?id=hngg
+金鹰卡通，https://m.wuzhij.com/mg.php?id=jykt
+陕西卫视，https://m.wuzhij.com/sxxa.php?id=sxws
+农林卫视,https://m.wuzhij.com/sxxa.php?id=nlws
+陕西新闻，https://m.wuzhij.com/sxxa.php?id=sxxwzx
+陕西都市，https://m.wuzhij.com/sxxa.php?id=sxdsqc
+陕西生活，https://m.wuzhij.com/sxxa.php?id=sxsh
+陕西公共，https://m.wuzhij.com/sxxa.php?id=sxgg
+陕西体育,https://m.wuzhij.com/sxxa.php?id=sxtyxx
+百视通,http://180.107.88.32:9999/rtp/239.49.1.74:6000
+百视通,http://180.107.88.32:9999/rtp/239.49.1.183:6000
+欢笑剧场4K,http://180.107.88.32:9999/rtp/239.49.8.231:6000
+中教一个,http://180.107.88.32:9999/rtp/239.49.1.54:6000
+中教二台,http://180.107.88.32:9999/rtp/239.49.1.55:6000
+中教四台,http://180.107.88.32:9999/rtp/239.49.1.56:6000
+江苏城市,http://180.107.88.32:9999/rtp/239.49.9.35:6000
+江苏体育，http://180.107.88.32:9999/rtp/239.49.9.37:6000
+江苏新闻,http://180.107.88.32:9999/rtp/239.49.9.40:6000
+江苏城市,http://180.107.88.32:9999/rtp/239.49.1.17:6000
+江苏体育，http://180.107.88.32:9999/rtp/239.49.1.19:6000
+江苏影视，http://180.107.88.32:9999/rtp/239.49.1.20:6000
+江苏新闻,http://180.107.88.32:9999/rtp/239.49.1.22:6000
+南京生活，http://180.107.88.32:9999/rtp/239.49.1.28:6000
+南京新闻,http://180.107.88.32:9999/rtp/239.49.1.158:6000
+南京娱乐,http://180.107.88.32:9999/rtp/239.49.8.229:6000
+南京少儿，http://180.107.88.32:9999/rtp/239.49.8.230:6000
+南京新闻,http://180.107.88.32:9999/rtp/239.49.9.3:6000
+盱眙新闻,http://180.107.88.32:9999/rtp/239.49.9.18:6000
+沛县新闻,http://180.107.88.32:9999/rtp/239.49.9.19:6000
+泰州新闻,http://180.107.88.32:9999/rtp/239.49.9.20:6000
+徐州新闻,http://180.107.88.32:9999/rtp/239.49.9.45:6000
+东海新闻,http://180.107.88.32:9999/rtp/239.49.9.48:6000
+财富天下,http://180.107.88.32:9999/rtp/239.49.1.29:6000
+第一财经，http://180.107.88.32:9999/rtp/239.49.1.168:6000
+泰州影视，http://180.107.88.32:9999/rtp/239.49.1.101:6000
+沭阳综合，http://180.107.88.32:9999/rtp/239.49.1.117:6000
+宿迁公共，http://180.107.88.32:9999/rtp/239.49.1.123:6000
+常州生活,http://180.107.88.32:9999/rtp/239.49.1.132:6000
+常州都市,http://180.107.88.32:9999/rtp/239.49.1.133:6000
+常州新闻,http://180.107.88.32:9999/rtp/239.49.1.134:6000
+东海新闻,http://180.107.88.32:9999/rtp/239.49.1.136:6000
+金色频道,http://180.107.88.32:9999/rtp/239.49.1.169:6000
+连云公共,http://180.107.88.32:9999/rtp/239.49.1.245:6000
+睢宁综合，http://180.107.88.32:9999/rtp/239.49.1.246:6000
+赣榆综合,http://180.107.88.32:9999/rtp/239.49.1.247:6000
+全纪实台高清,http://180.107.88.32:9999/rtp/239.49.8.179:6000
+都市剧场高清,http://180.107.88.32:9999/rtp/239.49.8.180:6000
+金鹰纪实高清,http://180.107.88.32:9999/rtp/239.49.8.203:6000
 
-#EXTINF:-1,tvg-id="汤阴" tvg-name="汤阴" tvg-logo="https://epg.112114.xyz/logo/汤阴.png" group-title="地方",汤阴
-http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1,tvg-id="滑县" tvg-name="滑县" tvg-logo="https://epg.112114.xyz/logo/滑县.png" group-title="地方",滑县
-http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1,tvg-id="内黄" tvg-name="内黄" tvg-logo="https://epg.112114.xyz/logo/内黄.png" group-title="地方",内黄
-http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1,tvg-id="林州" tvg-name="林州" tvg-logo="https://epg.112114.xyz/logo/林州.png" group-title="地方",林州
-http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1,tvg-id="浚县" tvg-name="浚县" tvg-logo="https://epg.112114.xyz/logo/浚县.png" group-title="地方",浚县
-http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1,tvg-id="淇县" tvg-name="淇县" tvg-logo="https://epg.112114.xyz/logo/淇县.png" group-title="地方",淇县
-http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1,tvg-id="新乡" tvg-name="新乡" tvg-logo="https://epg.112114.xyz/logo/新乡.png" group-title="地方",新乡
-http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1,tvg-id="嘉获" tvg-name="嘉获" tvg-logo="https://epg.112114.xyz/logo/嘉获.png" group-title="地方",嘉获
-http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-#EXTINF:-1,tvg-id="原阳，http://live.dxhmt.cn:9081/tv/10725-1.m3u8" tvg-name="原阳，http://live.dxhmt.cn:9081/tv/10725-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/原阳，HTTP://LIVE.DXHMT.CN:/TV/53U8.png" group-title="地方",原阳，http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 
-#EXTINF:-1,tvg-id="封丘" tvg-name="封丘" tvg-logo="https://epg.112114.xyz/logo/封丘.png" group-title="地方",封丘
-http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1,tvg-id="长垣，http://live.dxhmt.cn:9081/tv/10728-1.m3u8" tvg-name="长垣，http://live.dxhmt.cn:9081/tv/10728-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/长垣，HTTP://LIVE.DXHMT.CN:/TV/83U8.png" group-title="地方",长垣，http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 
-#EXTINF:-1,tvg-id="卫辉 " tvg-name="卫辉 " tvg-logo="https://epg.112114.xyz/logo/卫辉.png" group-title="地方",卫辉 
-http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-#EXTINF:-1,tvg-id="辉县" tvg-name="辉县" tvg-logo="https://epg.112114.xyz/logo/辉县.png" group-title="地方",辉县
-http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1,tvg-id="武陟" tvg-name="武陟" tvg-logo="https://epg.112114.xyz/logo/武陟.png" group-title="地方",武陟
-http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1,tvg-id="温县，http://live.dxhmt.cn:9081/tv/10825-1.m3u8" tvg-name="温县，http://live.dxhmt.cn:9081/tv/10825-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/温县，HTTP://LIVE.DXHMT.CN:/TV/53U8.png" group-title="地方",温县，http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+.游戏直播,#genre#
+「虎牙」英雄联盟 1,https://yang-1989.eu.org/huya/660000
+「虎牙」英雄联盟 2,https://yang-1989.eu.org/huya/660001
+「斗鱼」英雄联盟 1,https://yang-1989.eu.org/douyu/288016
+「斗鱼」英雄联盟 2,https://yang-1989.eu.org/douyu/705690
+「虎牙」王者荣耀 1,https://yang-1989.eu.org/huya/660002
+「虎牙」王者荣耀 2,https://yang-1989.eu.org/huya/660164
+「斗鱼」王者荣耀 1,https://yang-1989.eu.org/douyu/1863767
+「斗鱼」王者荣耀 2,https://yang-1989.eu.org/douyu/1984839
+「斗鱼」王者荣耀 3,https://yang-1989.eu.org/douyu/2045445
+「斗鱼」王者荣耀 4,https://yang-1989.eu.org/douyu/3606468
+「斗鱼」王者荣耀 ♀,https://yang-1989.eu.org/douyu/667319
+「虎牙」绝地求生 1,https://yang-1989.eu.org/huya/660004
+「虎牙」绝地求生 2,https://yang-1989.eu.org/huya/660005
+「虎牙」绝地求生 3,https://yang-1989.eu.org/huya/660136
+「斗鱼」绝地求生,https://yang-1989.eu.org/douyu/100
+「虎牙」和平精英,https://yang-1989.eu.org/huya/660006
+「斗鱼」和平精英,https://yang-1989.eu.org/douyu/999
+「虎牙」金铲铲之战,https://yang-1989.eu.org/huya/660579
+「斗鱼」金铲铲之战,https://yang-1989.eu.org/douyu/9715241
+「虎牙」CSGO,https://yang-1989.eu.org/huya/eslcsgo
+「虎牙」DOTA2,https://yang-1989.eu.org/huya/660118
+「斗鱼」DOTA2,https://yang-1989.eu.org/douyu/30
+「斗鱼」云顶之弈,https://yang-1989.eu.org/douyu/522423
+「虎牙」永劫无间,https://yang-1989.eu.org/huya/660115
+「虎牙」使命召唤•手游,https://yang-1989.eu.org/huya/11718629
+「斗鱼」使命召唤•手游,https://yang-1989.eu.org/douyu/9223245
+「虎牙」穿越火线,https://yang-1989.eu.org/huya/660101
+「斗鱼」穿越火线 1,https://yang-1989.eu.org/douyu/605964
+「斗鱼」穿越火线 2,https://yang-1989.eu.org/douyu/5388537
+「虎牙」穿越火线•手游,https://yang-1989.eu.org/huya/660102
+「虎牙」第五人格,https://yang-1989.eu.org/huya/idvesports
+「斗鱼」第五人格 1,https://yang-1989.eu.org/douyu/3226194
+「斗鱼」第五人格 2,https://yang-1989.eu.org/douyu/11030737
+「虎牙」逆战,https://yang-1989.eu.org/huya/nsl2021
+「斗鱼」原神,https://yang-1989.eu.org/douyu/10853239
+「斗鱼」QQ飞车•手游,https://yang-1989.eu.org/douyu/5040227
+「虎牙」无畏契约-1,https://yang-1989.eu.org/huya/660679
+「斗鱼」无畏契约-2,https://yang-1989.eu.org/douyu/4585645
+「斗鱼」JJ斗地主,https://yang-1989.eu.org/douyu/488743
+「斗鱼」我的世界,https://yang-1989.eu.org/douyu/738878
+「斗鱼」FIFA,https://yang-1989.eu.org/douyu/7692166
+「斗鱼」火影忍者,https://yang-1989.eu.org/douyu/1997723
+「斗鱼」跑跑卡丁车,https://yang-1989.eu.org/douyu/7722576
+「斗鱼」跑跑卡丁车•手游,https://yang-1989.eu.org/douyu/6672862
+穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+和平精英•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+梦幻西游•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+QQ飞车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+跑跑卡丁车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-#EXTINF:-1,tvg-id="泌阳" tvg-name="泌阳" tvg-logo="https://epg.112114.xyz/logo/泌阳.png" group-title="地方",泌阳
-http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1,tvg-id="孟州" tvg-name="孟州" tvg-logo="https://epg.112114.xyz/logo/孟州.png" group-title="地方",孟州
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1,tvg-id="南乐" tvg-name="南乐" tvg-logo="https://epg.112114.xyz/logo/南乐.png" group-title="地方",南乐
-http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-#EXTINF:-1,tvg-id="建安" tvg-name="建安" tvg-logo="https://epg.112114.xyz/logo/建安.png" group-title="地方",建安
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1,tvg-id="鄢陵" tvg-name="鄢陵" tvg-logo="https://epg.112114.xyz/logo/鄢陵.png" group-title="地方",鄢陵
-http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1,tvg-id="襄城" tvg-name="襄城" tvg-logo="https://epg.112114.xyz/logo/襄城.png" group-title="地方",襄城
-http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-#EXTINF:-1,tvg-id="禹州" tvg-name="禹州" tvg-logo="https://epg.112114.xyz/logo/禹州.png" group-title="地方",禹州
-http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1,tvg-id="舞阳" tvg-name="舞阳" tvg-logo="https://epg.112114.xyz/logo/舞阳.png" group-title="地方",舞阳
-http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1,tvg-id="渑池" tvg-name="渑池" tvg-logo="https://epg.112114.xyz/logo/渑池.png" group-title="地方",渑池
-http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1,tvg-id="义马" tvg-name="义马" tvg-logo="https://epg.112114.xyz/logo/义马.png" group-title="地方",义马
-http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1,tvg-id="灵宝" tvg-name="灵宝" tvg-logo="https://epg.112114.xyz/logo/灵宝.png" group-title="地方",灵宝
-http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1,tvg-id="方城" tvg-name="方城" tvg-logo="https://epg.112114.xyz/logo/方城.png" group-title="地方",方城
-http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1,tvg-id="镇平" tvg-name="镇平" tvg-logo="https://epg.112114.xyz/logo/镇平.png" group-title="地方",镇平
-http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1,tvg-id="淅川" tvg-name="淅川" tvg-logo="https://epg.112114.xyz/logo/淅川.png" group-title="地方",淅川
-http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1,tvg-id="唐河" tvg-name="唐河" tvg-logo="https://epg.112114.xyz/logo/唐河.png" group-title="地方",唐河
-http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1,tvg-id="新野" tvg-name="新野" tvg-logo="https://epg.112114.xyz/logo/新野.png" group-title="地方",新野
-http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1,tvg-id="桐柏" tvg-name="桐柏" tvg-logo="https://epg.112114.xyz/logo/桐柏.png" group-title="地方",桐柏
-http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1,tvg-id="邓州" tvg-name="邓州" tvg-logo="https://epg.112114.xyz/logo/邓州.png" group-title="地方",邓州
-http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1,tvg-id="永城，http://live.dxhmt.cn:9081/tv/11481-1.m3u8" tvg-name="永城，http://live.dxhmt.cn:9081/tv/11481-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/永城，HTTP://LIVE.DXHMT.CN:/TV/13U8.png" group-title="地方",永城，http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+.休闲频道,#genre#
+生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
+百姓健康,https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
+快乐垂钓高清,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
+第一剧场高清,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+都市剧场高清,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+动漫秀场高清,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+魅力足球高清,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+风云剧场高清,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+求索纪录高清,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+兵器科技高清,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+游戏风云高清,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+怀旧剧场高清,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+风云音乐高清,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+央视台球高清,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+风云足球高清,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+央视文化精品高清,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+高尔夫网球高清,https://live.goodiptv.club/api/cqyx.php?id=golfHD
+书画,https://live.goodiptv.club/api/cqyx.php?id=shuhua
+新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
+国学频道,https://live.goodiptv.club/api/cqyx.php?id=guoxue
+优优宝贝,https://live.goodiptv.club/api/cqyx.php?id=youxi
+中华特产,https://live.goodiptv.club/api/cqyx.php?id=techan
+环球奇观,https://live.goodiptv.club/api/cqyx.php?id=car
+生态环境,https://live.goodiptv.club/api/cqyx.php?id=shengtai
+四海钓鱼,https://live.goodiptv.club/api/cqyx.php?id=diaoyu
+发现之旅,https://live.goodiptv.club/api/cqyx.php?id=faxian
+车迷,https://live.goodiptv.club/api/cqyx.php?id=doxtv
+法治天地,https://live.goodiptv.club/api/cqyx.php?id=fazhi
+金色学堂,https://live.goodiptv.club/api/cqyx.php?id=jinse
+收藏天下,https://live.goodiptv.club/api/cqyx.php?id=soucang
+财富天下,https://live.goodiptv.club/api/cqyx.php?id=caifu
+女性时尚,https://live.goodiptv.club/api/cqyx.php?id=nvxing
+中学生,https://live.goodiptv.club/api/cqyx.php?id=qicai
+天元围棋,https://live.goodiptv.club/api/cqyx.php?id=weiqi
+先锋乒羽,https://live.goodiptv.club/api/cqyx.php?id=xianfeng
+环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
+老故事,https://live.goodiptv.club/api/cqyx.php?id=gushi
+摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
+靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
-#EXTINF:-1,tvg-id="罗山" tvg-name="罗山" tvg-logo="https://epg.112114.xyz/logo/罗山.png" group-title="地方",罗山
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1,tvg-id="光山" tvg-name="光山" tvg-logo="https://epg.112114.xyz/logo/光山.png" group-title="地方",光山
-http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1,tvg-id="新县，http://live.dxhmt.cn:9081/tv/11523-1.m3u8" tvg-name="新县，http://live.dxhmt.cn:9081/tv/11523-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/新县，HTTP://LIVE.DXHMT.CN:/TV/33U8.png" group-title="地方",新县，http://live.dxhmt.cn:9081/tv/11523-1.m3u8
 
-#EXTINF:-1,tvg-id="商城，http://live.dxhmt.cn:9081/tv/11524-1.m3u8" tvg-name="商城，http://live.dxhmt.cn:9081/tv/11524-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/商城，HTTP://LIVE.DXHMT.CN:/TV/43U8.png" group-title="地方",商城，http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+.广播频道,#genre#
+Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
+Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+BBC Radio 1 Dance,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+BBC Radio 1 relax,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+BBC Radio 1Xtra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+BBC Radio 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+BBC Radio 3,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+BBC Radio 5 live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+BBC Radio 6,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+BBC World Service,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
+Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
+CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM|大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
+CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 经典广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR 乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+CRI HIT FM (北京),https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+CRI HIT FM (广州),https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI 环球信息广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 轻松调频,http://sk.cri.cn/915.m3u8
+CRI 外语教学广播 China Plus Radio,http://sk.cri.cn/am1008.m3u8
+CRI 英语环球广播 China Plus Radio,http://sk.cri.cn/am846.m3u8
+CRI 粤语国际,http://sk.cri.cn/hxfh.m3u8
+Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
+Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+Eclectic24,https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+Heart FM 乐动1056,http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
+Kiss Radio,http://api.kiss.com.tw/test/hichannel2.php?api=2
+LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+M-Radio全国广播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+MY,https://astro1.rastream.com/myfm
+My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
+News98 新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+one FM,https://mediaprima.rastream.com/mediaprima-onefm
+Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
+Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+Today's Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+VOCALO,https://stream.wbez.org/vocalolinear
+WHIZ Radio 海口广播,http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+阿拉善汉语广播,https://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+阿里郎电台(视频),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+安徽故事广播,https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+安徽广播,https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+安徽交通广播,https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+安徽经济广播,https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+安徽旅游广播•高速之声,https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+安徽生活广播•城市之声,https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+安徽戏曲广播•动听995,https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+安徽之声,https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+北京广播,http://live.xmcdn.com/live/95/64.m3u8
+北京经典969,http://live.funhillrm.com/4/sd/live.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+潮流音乐台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+楚天广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+楚天交通广播,https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+大象资讯台,https://stream.hndt.com/live/nongcun/playlist.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+法国国际广播电台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+法国国际广播电台,http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+房山电台,http://live.funhillrm.com/3/sd/live.m3u8
+飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+福建东南广播,https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+福建都市广播•私家车987,https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+福建汽车广播,https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+福州广播,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+福州交通之声,http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+福州左海之声,http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+甘肃都市调频,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+甘肃经济广播,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+广东广播,http://ls.qingting.fm/live/1260.m3u8
+广西北部湾之声,https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+广西广播,https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+广西广播,https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+广西交通广播,https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+广西教育广播,https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+广西经济广播•女主播电台,https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+贵州都市广播,https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+贵州故事广播,https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+贵州广播,https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+贵州广播,https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+贵州经济广播,https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+贵州旅游广播,https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+海南广播,https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+河北广播,https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+河北广播,https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+河北交通广播,https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+河北经济广播,https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+河北生活广播,https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+河北文艺广播,https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+河南广播,https://stream.hndt.com/live/yinyue/playlist.m3u8
+河南交通广播,https://stream.hndt.com/live/jiaotong/playlist.m3u8
+河南教育广播,https://stream.hndt.com/live/jiaoyu/playlist.m3u8
+河南经济广播,https://stream.hndt.com/live/jingji/playlist.m3u8
+河南戏曲广播,https://stream.hndt.com/live/yule/playlist.m3u8
+河南新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
+河南信息广播,https://stream.hndt.com/live/leling/playlist.m3u8
+黑龙江朝鲜语广播,https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+黑龙江都市女性广播,https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+黑龙江高校广播,https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+黑龙江广播,https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+黑龙江老年少儿广播•爱家调频,https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+呼伦贝尔汉语广播,https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+呼伦贝尔蒙语广播,https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+湖北城市之声,https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+湖北经典广播,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+湖北亲子广播,https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+湖北生活广播,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+湖北资讯广播,https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+湖南文艺广播•摩登音乐台,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+湖南音乐之声•芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+欢乐调频,http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
+惠州广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8
+惠州广播,http://stream.hztvmg.com/test17/playlist.m3u8
+江苏广播,https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+江苏文艺广播,https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+江西都市广播,https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+开州之声,http://183.64.174.171:10124/tlgb.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+辽宁交通广播,https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+辽宁经典广播,https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+辽宁经济广播,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+辽宁乡村广播,https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+辽宁之声,https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+旅游之声,http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+内蒙古经济生活广播,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+内蒙古蒙语对外广播草原之声,https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+内蒙古蒙语新闻广播,https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+内蒙古评书曲艺广播,https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+内蒙古新闻广播,https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+宁波广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+宁波交通广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+宁波经济广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+宁波老少广播•阳光904,http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
+宁波新闻广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+宁夏广播,https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+宁夏经济广播,https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+宁夏旅游广播,https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+宁夏新闻广播,https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+青岛摩登音乐调频,http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+青岛音体广播,http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
+青海交通广播,https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+青海经济广播,https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+青海新闻广播,https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+全国治安交通网,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+山东交通广播,https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+山东经典广播,https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+山东经济广播,https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+山东体育休闲广播,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+陕西都市广播•陕广新闻,https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+陕西广播,https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+陕西交通广播,https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+陕西经济广播•896汽车调频,https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+陕西农村广播,https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+陕西青少广播•好听1055,https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+陕西戏曲广播,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+陕西新闻广播,https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+上海第一财经广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+上海长三角之声,https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+绍兴交通广播,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+绍兴之声,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+深圳飞扬971,https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+私家车999,https://stream.hndt.com/live/sijiache/playlist.m3u8
+四川城市之音,https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+四川广播四川之声,https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+四川交通广播,https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+四川经济广播,https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+四川旅游生活广播,https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+四川岷江广播,http://ls.qingting.fm/live/1110.m3u8
+四川岷江音乐,https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+四川私家车广播,https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+四川文艺广播,https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+台北广播电台AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+台北广播电台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+台北国际小区广播电台,http://live.leanstream.co/ICRTFM-MP3
+台湾Lounge Radio音乐电台,http://streaming.radionomy.com/JamendoLounge
+台湾古典音乐台,http://59.120.88.155:8000/live.mp3
+台中广播电台,http://211.20.119.101:8081
+太阳电台,http://211.20.119.102:8081
+天津静海区广播•交通广播网,http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+武汉广播,http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+武汉交通广播,http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
+武汉经济广播,http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
+武汉青少广播•M-radio,http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+武汉新闻广播,http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
+锡林郭勒汉语广播,https://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+新疆私家车广播,https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+延边文艺生活广播,https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+云南广播,https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+云南国际广播,https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+云南交通之声,https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+云南教育广播•知道分子频道,https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+云南经济广播•私家车电台,https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+云南旅游广播•香格里拉之声,https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+云南民族广播,https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+云南新闻广播,https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+长沙城市之声,http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
+长沙广播,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+长沙交通广播,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
+浙江城市之声,https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+浙江交通之声,https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+浙江经济广播,https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+浙江旅游之声,https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+浙江民生资讯广播,https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+浙江音乐调频•动听968,https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+正义电台,http://211.20.119.103:8081
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+重庆广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
 
-#EXTINF:-1,tvg-id="其余川" tvg-name="其余川" tvg-logo="https://epg.112114.xyz/logo/其余川.png" group-title="地方",其余川
-http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1,tvg-id="西华" tvg-name="西华" tvg-logo="https://epg.112114.xyz/logo/西华.png" group-title="地方",西华
-http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1,tvg-id="沉丘" tvg-name="沉丘" tvg-logo="https://epg.112114.xyz/logo/沉丘.png" group-title="地方",沉丘
-http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1,tvg-id="郸城" tvg-name="郸城" tvg-logo="https://epg.112114.xyz/logo/郸城.png" group-title="地方",郸城
-http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1,tvg-id="鹿邑" tvg-name="鹿邑" tvg-logo="https://epg.112114.xyz/logo/鹿邑.png" group-title="地方",鹿邑
-http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-#EXTINF:-1,tvg-id="项城" tvg-name="项城" tvg-logo="https://epg.112114.xyz/logo/项城.png" group-title="地方",项城
-http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1,tvg-id="西平" tvg-name="西平" tvg-logo="https://epg.112114.xyz/logo/西平.png" group-title="地方",西平
-http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1,tvg-id="平舆" tvg-name="平舆" tvg-logo="https://epg.112114.xyz/logo/平舆.png" group-title="地方",平舆
-http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1,tvg-id="确山" tvg-name="确山" tvg-logo="https://epg.112114.xyz/logo/确山.png" group-title="地方",确山
-http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1,tvg-id="泌阳" tvg-name="泌阳" tvg-logo="https://epg.112114.xyz/logo/泌阳.png" group-title="地方",泌阳
-http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-#EXTINF:-1,tvg-id="遂平，http://live.dxhmt.cn:9081/tv/11728-1.m3u8" tvg-name="遂平，http://live.dxhmt.cn:9081/tv/11728-1.m3u8" tvg-logo="https://epg.112114.xyz/logo/遂平，HTTP://LIVE.DXHMT.CN:/TV/83U8.png" group-title="地方",遂平，http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 
-#EXTINF:-1,tvg-id="新蔡" tvg-name="新蔡" tvg-logo="https://epg.112114.xyz/logo/新蔡.png" group-title="地方",新蔡
-http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1,tvg-id="济源" tvg-name="济源" tvg-logo="https://epg.112114.xyz/logo/济源.png" group-title="地方",济源
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1,tvg-id="洛阳新闻" tvg-name="洛阳新闻" tvg-logo="https://epg.112114.xyz/logo/洛阳新闻.png" group-title="地方",洛阳新闻
-https://m.wuzhij.com/hnly.php?id=zh
-#EXTINF:-1,tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://epg.112114.xyz/logo/洛阳科教.png" group-title="地方",洛阳科教
-https://m.wuzhij.com/hnly.php?id=kj
-#EXTINF:-1,tvg-id="洛阳文旅" tvg-name="洛阳文旅" tvg-logo="https://epg.112114.xyz/logo/洛阳文旅.png" group-title="地方",洛阳文旅
-https://m.wuzhij.com/hnly.php?id=wl
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",崇县综合，https://m.wuzhij.com/hnly.php?id=cx
 
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",洛宁综合，https://m.wuzhij.com/hnly.php?id=ln
+.电影频道-,#genre#
+邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
+邵氏影院@代,https://www.goodiptv.club/douyu/4246519
+邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
+经典功夫@代,http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
+真武侠台@代,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
+CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCtv6台组播,http://home4.kmo.ink:8888/udp/239.3.1.174:8001
+黑莓电影@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+黑莓动画@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
+星爷影院@代,http://mmitv.top:80/test/douyu.php?id=122402&u=4654622&cate
+豆瓣高分@代,http://43.138.170.29:35455/douyu/8770422
+下饭神剧@代,http://43.138.170.29:35455/douyu/276200
+CHC动作移动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清移动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭移动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC高清移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC家庭移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+林正英台✔原,http://epg.112114.xyz/douyu/218859
+吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
+冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
+星爷影院✔原,http://159.75.85.63:35455/douyu/508118
+凌儿影院✔原,http://159.75.85.63:35455/douyu/1377142
+麓山迷踪✔原,http://159.75.85.63:35455/douyu/4505431
+瑶瑶恐怖✔原,http://159.75.85.63:35455/douyu/2935323
+怡寶影院✔原,http://159.75.85.63:35455/douyu/434971
+小黛兮影✔原,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
+神乐剧场✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐剧院✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影剧✔原,http://159.75.85.63:35455/douyu/122402
+可乐影院✔原,http://159.75.85.63:35455/douyu/20415
+小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
+恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
+電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
+漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
+鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+鬼片恐怖✔原,http://159.75.85.63:35455/douyu/2935323
+小u*鬼片✔原,http://159.75.85.63:35455/douyu/96577
+小u*鬼片✔原,http://mmitv.top/test/douyu.php?id=96577&u=4150734&cate
+吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
+变种人片✔原,http://159.75.85.63:35455/douyu/9651304
+喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
+女神电影✔原,http://159.75.85.63:35455/douyu/747764
+华语经典✔原,http://159.75.85.63:35455/douyu/434971
+避风影院✔原,http://159.75.85.63:35455/douyu/9826611
+欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
+贝爷max✔原,http://159.75.85.63:35455/douyu/4332
+贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+小猪优版剧院,https://www.goodiptv.club/douyu/10297898
+绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",新安综合，https://m.wuzhij.com/hnly.php?id=xa
 
-#EXTINF:-1,tvg-id="周口新闻" tvg-name="周口新闻" tvg-logo="https://epg.112114.xyz/logo/周口新闻.png" group-title="地方",周口新闻
-https://m.wuzhij.com/hnzk.php?id=zkxwzh
-#EXTINF:-1,tvg-id="周口公共" tvg-name="周口公共" tvg-logo="https://epg.112114.xyz/logo/周口公共.png" group-title="地方",周口公共
-https://m.wuzhij.com/hnzk.php?id=zkgg
-#EXTINF:-1,tvg-id="周口教育" tvg-name="周口教育" tvg-logo="https://epg.112114.xyz/logo/周口教育.png" group-title="地方",周口教育
-https://m.wuzhij.com/hnzk.php?id=zkjy
-#EXTINF:-1,tvg-id="周口川汇" tvg-name="周口川汇" tvg-logo="https://epg.112114.xyz/logo/周口川汇.png" group-title="地方",周口川汇
-https://m.wuzhij.com/hnzk.php?id=zkch
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",湖南都市，https://m.wuzhij.com/mg.php?id=hnds         
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",金鹰纪实
-https://m.wuzhij.com/mg.php?id=jyjs
-#EXTINF:-1,tvg-id="Z" tvg-name="湖南公共" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",湖南公共，https://m.wuzhij.com/mg.php?id=hngg
-#EXTINF:-1,tvg-id="Z" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="地方",金鹰卡通，https://m.wuzhij.com/mg.php?id=jykt
-#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://epg.112114.xyz/logo/百视通.png" group-title="地方",百视通
-http://180.107.88.32:9999/rtp/239.49.1.74:6000
-#EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://epg.112114.xyz/logo/百视通.png" group-title="地方",百视通
-http://180.107.88.32:9999/rtp/239.49.1.183:6000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="地方",欢笑剧场
-http://180.107.88.32:9999/rtp/239.49.8.231:6000
-#EXTINF:-1,tvg-id="东海新闻" tvg-name="东海新闻" tvg-logo="https://epg.112114.xyz/logo/东海新闻.png" group-title="地方",东海新闻
-http://180.107.88.32:9999/rtp/239.49.1.136:6000
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="地方",金色频道
-http://180.107.88.32:9999/rtp/239.49.1.169:6000
-#EXTINF:-1,tvg-id="连云公共" tvg-name="连云公共" tvg-logo="https://epg.112114.xyz/logo/连云公共.png" group-title="地方",连云公共
-http://180.107.88.32:9999/rtp/239.49.1.245:6000
-#EXTINF:-1,tvg-id="赣榆综合" tvg-name="赣榆综合" tvg-logo="https://epg.112114.xyz/logo/赣榆综合.png" group-title="地方",赣榆综合
-http://180.107.88.32:9999/rtp/239.49.1.247:6000
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="地方",全纪实台高清
-http://180.107.88.32:9999/rtp/239.49.8.179:6000
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="地方",都市剧场高清
-http://180.107.88.32:9999/rtp/239.49.8.180:6000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",金鹰纪实高清
-http://180.107.88.32:9999/rtp/239.49.8.203:6000
+
+
+
+.斗鱼轮播,#genre#
+林正英 1,http://43.138.170.29:35455/douyu/7356023
+林正英 2,http://43.138.170.29:35455/douyu/218859
+斗鱼频道,http://epg.112114.xyz/douyu/8770422
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
+斗鱼频道,http://epg.112114.xyz/douyu/2436390
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=2436390
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
+斗鱼频道,http://epg.112114.xyz/douyu/413573
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
+斗鱼频道,http://epg.112114.xyz/douyu/9292492
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
+斗鱼频道,http://43.138.170.29:35455/douyu/1274132
+
+
+.电影轮播,#genre#
+鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
+恐怖故事,http://43.138.170.29:35455/douyu/2337939
+科幻动作,http://43.138.170.29:35455/douyu/4332
+怡寳影院,http://43.138.170.29:35455/douyu/434971
+粤语电影,http://43.138.170.29:35455/douyu/6566671
+苹果影院,http://43.138.170.29:35455/douyu/2793084
+午夜故事,http://43.138.170.29:35455/douyu/8722254
+译制国语,http://43.138.170.29:35455/douyu/2436390
+蚂蚱影院,http://43.138.170.29:35455/douyu/6079455
+纪录片,http://43.138.170.29:35455/douyu/4360438
+贝爷求生,http://43.138.170.29:35455/douyu/454867
+恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
+荒野建造者,http://43.138.170.29:35455/douyu/9611578
+邦德影院,http://43.138.170.29:35455/douyu/9292499
+特辑影院,http://43.138.170.29:35455/douyu/3637778
+惊悚影院,http://43.138.170.29:35455/douyu/96577
+吃米滴虫,http://43.138.170.29:35455/douyu/315457
+漫威影片,http://43.138.170.29:35455/douyu/6140589
+刘德华电影1,http://43.138.170.29:35455/douyu/2516864
+豆瓣高分,http://43.138.170.29:35455/douyu/8770422
+林正英电影2,http://43.138.170.29:35455/douyu/7356023
+宇哥电影,http://43.138.170.29:35455/douyu/413573
+贝爷影厅2,http://43.138.170.29:35455/douyu/36337
+霍格影片,http://43.138.170.29:35455/douyu/8814650
+冰冰经典电影,http://43.138.170.29:35455/douyu/74374
+避风港影院,http://43.138.170.29:35455/douyu/9826611
+恐怖经典,http://43.138.170.29:35455/douyu/1165374
+华语电影,http://43.138.170.29:35455/douyu/3928
+喜剧电影,http://43.138.170.29:35455/douyu/9292492
+一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
+片荒的日子,http://43.138.170.29:35455/douyu/4258555
+大胡子魏,http://43.138.170.29:35455/douyu/8792763
+童年回忆,http://43.138.170.29:35455/douyu/8915074
+下饭神剧,http://43.138.170.29:35455/douyu/276200
+悬疑犯罪,http://43.138.170.29:35455/douyu/9171887
+不一样的电影,http://43.138.170.29:35455/douyu/2632223
+开心锤锤,http://43.138.170.29:35455/douyu/9018297
+凛冬之地,http://43.138.170.29:35455/douyu/8945323
+看美剧,http://43.138.170.29:35455/douyu/8869614
+动漫直播,http://43.138.170.29:35455/douyu/1487654
+斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影10,http://43.138.170.29:35455/douyu/2935323
+斗鱼电影22,http://43.138.170.29:35455/douyu/1979257
+斗鱼电影26,http://43.138.170.29:35455/douyu/8413092
+斗鱼电影71,http://43.138.170.29:35455/douyu/2987100
+斗鱼电影81,http://43.138.170.29:35455/douyu/3870925
+斗鱼电影97,http://43.138.170.29:35455/douyu/8867878
+斗鱼电影105,http://43.138.170.29:35455/douyu/4290711
+斗鱼电影108,http://43.138.170.29:35455/douyu/6566671
+斗鱼电影110,http://43.138.170.29:35455/douyu/8415464
+斗鱼电影111,http://43.138.170.29:35455/douyu/8475821
+斗鱼电影113,http://43.138.170.29:35455/douyu/5522351
+斗鱼电影114,http://43.138.170.29:35455/douyu/562225
+斗鱼电影116,http://43.138.170.29:35455/douyu/8651489
+斗鱼电影117,http://43.138.170.29:35455/douyu/338759
+斗鱼电影120,http://43.138.170.29:35455/douyu/5354713
+斗鱼电影124,http://43.138.170.29:35455/douyu/2793084
+斗鱼电影125,http://43.138.170.29:35455/douyu/5067952
+斗鱼电影129,http://43.138.170.29:35455/douyu/413573
+斗鱼电影130,http://43.138.170.29:35455/douyu/8014467
+斗鱼电影134,http://43.138.170.29:35455/douyu/6725858
+斗鱼电影135,http://43.138.170.29:35455/douyu/7476264
+斗鱼电影137,http://43.138.170.29:35455/douyu/1274132
+斗鱼电影141,http://43.138.170.29:35455/douyu/7623292
+斗鱼电影145,http://43.138.170.29:35455/douyu/5033502
+斗鱼电影151,http://43.138.170.29:35455/douyu/426517
+斗鱼电影153,http://43.138.170.29:35455/douyu/8799435
+斗鱼电影155,http://43.138.170.29:35455/douyu/4258555
+斗鱼电影158,http://43.138.170.29:35455/douyu/8788687
+斗鱼电影165,http://43.138.170.29:35455/douyu/8705754
+斗鱼电影169,http://43.138.170.29:35455/douyu/7528160
+
+
+
+
+
+.动物世界,#genre#
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+爱吃鱼的棕熊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
+爱的奉献1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
+爱的奉献2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
+爱的奉献3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
+爱你我的宝宝(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
+爱你我的宝宝(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
+爱与狗相伴,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
+遨游海底两万里,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31d0363fb3714ce4b916790aa7da22db/1200.m3u8
+白狮的荒野故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/649a0df6bc394fde973b2e8ef12ef3d6/1200.m3u8
+白狮的荒野故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
+白狮归来1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/199ab14f5ba44a208371a3eef0029a09/1200.m3u8
+白狮归来2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3b36e52d0bc4a0a851a1bd3fa181365/1200.m3u8
+白狮归来4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffda5e0584b64e0d9dc3cc43783900cf/1200.m3u8
+豹妈当家(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/984cda8d35d544658fbd96b417bdea1f/1200.m3u8
+豹妈当家(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
+北极熊的冒险之旅(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1b4b7a8beb3459bbd44f505a3fcc99c/1200.m3u8
+北极熊的冒险之旅(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9ab29267ff5b4b2b99fdb74d1b9fec55/1200.m3u8
+北极熊路在何方,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38321222144945faa76d79c7785346a6/1200.m3u8
+北极熊之光(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
+北极熊之光(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
+被母狮拯救的小角马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba95e1a983584925887c11306f83ccf8/1200.m3u8
+被母狮拯救的小角马(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e655ba0c751468b9d18f3020133571f/1200.m3u8
+变形记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c88fd67847314d1ab20524c9fd94d555/1200.m3u8
+冰天雪地北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15dd2029621a498d9c4d3eb2982285e7/1200.m3u8
+冰天雪地北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/360e77812fc84a8198e85a60f087b049/1200.m3u8
+冰雪王国里的童话,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
+捕猎刹那间1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
+捕猎刹那间2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
+捕猎刹那间3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
+捕食奇谋(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
+捕食奇谋(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
+捕食一瞬间(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
+捕食一瞬间(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
+捕食者大观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
+捕食者身体构造,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
+捕食者追猎现场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
+捕食者追猎现场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
+彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
+草原三巨头,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
+草原上的大猫王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e98eed67d3164ec0a2f5a9215693f7a8/1200.m3u8
+草原狮子的戏剧舞台(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
+草原狮子的戏剧舞台(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c5b600bcb2c44c44b56e9afdb5243a07/1200.m3u8
+草原之王上战场,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bfb6917b29ea413c89e8ed8fa6e2a6ab/1200.m3u8
+超凡猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/77d5ca903f0948ad8c5ec57e49b3cc95/1200.m3u8
+超凡猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
+超级猫行动,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8d952bbdd6cc4e6abf9df153bc18e927/1200.m3u8
+超级狮子家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f689bc846e93479898d8dcbdffad9744/1200.m3u8
+超级狮子群的故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
+超级狮子群的故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8986640e9a3f43be9ffe66f0feb41f72/1200.m3u8
+充满爱的象家族1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4bd5e30e25244ef1a622142a1053d8c0/1200.m3u8
+充满爱的象家族2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
+穿越森林的迷宫,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/52bf33932d1646529b95b044f187d4d3/1200.m3u8
+穿越狮子的领地,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
+传奇母狮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
+聪明的建筑师,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
+丛林勇士之战(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2550722b92464a749fa7aceb52e22895/1200.m3u8
+丛林勇士之战(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c02959d3f2b14d3abf05ec017179c964/1200.m3u8
+丛林之王美洲豹,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
+打造一只超级猫,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
+大地骄子,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b08d6ad2f22047bd93af89955db5ce46/1200.m3u8
+大力士捕鱼记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
+大猫榜中榜(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
+大猫榜中榜(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f813ed35c264d4ea10e57516dafe5d6/1200.m3u8
+大猫传奇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
+大猫归来,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
+大猫和邻居们(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84359a09aab544b184a40865454e0b0a/1200.m3u8
+大猫和邻居们(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c4bc4b10e7d408a8de9c9e3012f64ca/1200.m3u8
+大猫猎手训练营,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a08d9451f00a451682973c99b503dd6a/1200.m3u8
+大猫们的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
+大水獭回归的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0e114c18fa084fe58238307c66506675/1200.m3u8
+大水獭桑丘的故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffea8bb4f0a04e53a82dab943e32bfb1/1200.m3u8
+大水獭桑丘的故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9934a6c232264addaf109ac76f21e7da/1200.m3u8
+大象的别样生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
+大象的别样生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
+大象的秘密生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
+大象的秘密生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
+大象与羊的快乐生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
+大象与羊的神奇友情(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
+大象与羊的神奇友情(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
+冬季传说雪鸮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e76b2116c4514daea844fbdd1b56ab5d/1200.m3u8
+冬日雪鸮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
+动物宝宝闯天涯(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
+动物宝宝闯天涯(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
+动物搏击赛,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
+动物搏击运动会,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
+动物的海底宫殿,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
+动物父母有梦想(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
+动物父母有梦想(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
+动物冠军竞技场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
+动物冠军竞技场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
+动物冠军俱乐部,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
+动物界捕食奇观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
+动物霓裳羽衣之妙,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
+动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+动物与计谋,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
+都市里的丛林(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
+都市里的丛林(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f79dac568844de8813e682b280efb4f/1200.m3u8
+都市里的野生家园(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/03770b0594d44f289ce91022fe37a7bf/1200.m3u8
+都市里的野生家园(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
+鳄鱼出海,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
+鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
+非同一般的友谊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
+非洲水牛战狮群(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/945ab75be37f46c984dade1efb742b00/1200.m3u8
+非洲水牛战狮群(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
+非洲野放计划2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/21ff76c2151743f983d8f67d3cc7231d/1200.m3u8
+非洲野放计划3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
+非洲野放计划4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
+非洲野狗家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e64ec647a314b74b27ebc7f6bb985f2/1200.m3u8
+疯狂的爱,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35b481b5e27a4fa2b2c03f42596b68ba/1200.m3u8
+高个子幸运儿,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ea3dbe589a34258b6109229223de234/1200.m3u8
+古老的活化石恒河鳄(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
+古老的活化石恒河鳄(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/966f8103448c4dcdabee095eeb340451/1200.m3u8
+海的呼唤,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
+海底生存战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
+海鬣蜥的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
+海鬣蜥的幸福生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
+海豚的奇妙生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
+海豚的奇妙生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
+海洋宫殿的守护者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
+海洋里的神奇家族(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
+海洋里的神奇家族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
+海洋里的神奇家族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
+海洋猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
+旱季极限生存战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
+旱季冒险故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
+旱季生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
+呵护,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
+河里的捕食大师(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
+河里的捕食大师(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
+河龙王出海,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
+黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
+猴子的智慧,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef01d6b79fe74daf9bd63ff0469713d2/1200.m3u8
+虎妈妈爱(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6855ee238c9c4e9893ff342b7dbe5a2b/1200.m3u8
+虎妈妈爱(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
+花豹柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/96712ee30d144f21a0566f3c1b2fbc56/1200.m3u8
+荒野里的呼唤,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
+家有萌宝(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/496e4c0e2de74aaf968651d447eeb12a/1200.m3u8
+家有萌宝1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
+家有萌宝2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
+家有萌宝3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fe463d857de5415daa72441ab0cdab7f/1200.m3u8
+家有萌宝4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15d2240bbfc34785bfc2ab8147244466/1200.m3u8
+家有萌狗,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0fb39f83b1764305bd0216f15b8ab88a/1200.m3u8
+角马幸运儿(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/40c883e3f4c441d08422ce49aec61644/1200.m3u8
+角马幸运儿(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
+金豺夫妇的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b71afacb8eb442d9d4a5844d3ceca15/1200.m3u8
+进化中的北极熊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
+镜头里的真相1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/df70034b3a4243bd888d18b8b877787d/1200.m3u8
+巨兽来了,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
+巨藻林的守卫者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
+凯门鳄的奇妙旅程,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
+看得见的远方1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
+看得见的远方3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/255a802e924a44f381318db92a32431e/1200.m3u8
+可爱的海獭(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/340266a6b3ff421fa174208845f56fef/1200.m3u8
+可爱的海獭(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
+辣妈带娃记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8fd303fc08454c3497673fa40ced6284/1200.m3u8
+来到这个美丽的世界(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
+来到这个美丽的世界(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
+冷静与柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
+猎豹妈妈奋斗记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
+猎豹妈妈育儿记(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
+猎豹妈妈育儿记(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
+猎食计划1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
+猎食计划2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
+猎食计划3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
+猎手求生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
+猎手生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
+鬣蜥生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
+林间潜伏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
+领养一只宠物狗,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
+龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+猫科动物谁为王者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
+猫科动物谁为王者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
+美食的,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
+萌狗诞生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f68b16f162c493c8d82a57135f16da0/1200.m3u8
+猛虎柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
+秘境里的动物王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
+秘境里的奇观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38ba9675721d4259b3dd327b7e212a39/1200.m3u8
+秘境之蛇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
+母爱的呵护,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
+母爱之路,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
+南美野生世界1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
+南美野生世界2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
+南美野生世界3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
+螃蟹岛海战(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d0137f4e9adc44a7856c7288fe8ca3d2/1200.m3u8
+螃蟹岛海战(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
+奇迹发生的时刻,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1dbbdbb87b8f410cbc0f3c742201cd7d/1200.m3u8
+奇特动物的奇特遭遇(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
+奇特动物的奇特遭遇(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
+奇异世界的动物们2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
+奇异世界的动物们3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
+棋逢对手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
+潜水大师的岛上生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
+潜水大师的岛上生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
+抢滩勇士(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
+勤奋的捕食者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
+情满大草原1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
+情满大草原2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
+情满大草原3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
+如履薄冰的北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f31953326cca4b5e9c5f7e285a5cddb7/1200.m3u8
+如履薄冰的北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b6576aa2cd4e43a9a5ddc4af16695a28/1200.m3u8
+森林是我家1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
+森林是我家2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
+森林是我家3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
+沙滩上的盛宴,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
+蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
+深海潜伏的猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
+神秘的眼睛王蛇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cb73d16a9e02484ab4708b0268b63bcf/1200.m3u8
+生存的望(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
+生存的望(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
+生存极限大挑战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
+盛宴的旅程,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbcd61c318c34e08854c3911086a7406/1200.m3u8
+狮口余生的小角马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
+狮群的家园生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
+狮群的荣耀,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+狮子捕猎计划,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
+狮子的荣耀回归之路1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
+狮子的荣耀回归之路2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
+狮子的荣耀回归之路3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
+狮子的荣耀回归之路4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
+狮子和鬣狗(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
+狮子和鬣狗(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
+狮族迷踪1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
+狮族迷踪2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
+狮族迷踪3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
+湿地小萌兽,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
+湿地有萌兽,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
+湿地之争豹与鳄鱼,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
+兽语如歌,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
+水牛向前冲(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
+水牛向前冲(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
+水牛与狮子的争战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
+水獭奇缘,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
+水豚爱湿地,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
+速度大比拼(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2746acf40172425180162fc3a316416b/1200.m3u8
+速度大比拼(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
+速度与生存(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9953caf767b04ae782540c8ac53eaaa4/1200.m3u8
+速度与生存1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
+速度与生存2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31abc302978f45df9c4e8aaa3972d599/1200.m3u8
+速度与生存3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
+速度与生存4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f37b1966271f4527a581ed9275c34f7c/1200.m3u8
+探秘冰上的北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
+探秘冰上的北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
+探秘雨林利爪族(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
+探秘雨林利爪族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
+天生野长生命课程(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/95839705cfdc471aa67a09b7cfd6f52d/1200.m3u8
+天生野长生命延续(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87be5f0e1fb14d139fe696081a787914/1200.m3u8
+天生野长生命延续(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95e26a16f664da498ef421f74ad3006/1200.m3u8
+童话般的雨林(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a1672972c0b742239237bb1686ba0745/1200.m3u8
+童话般的雨林(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
+团结的水豚家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/51e9c38303624369a0ba257163a5528f/1200.m3u8
+蜥蜴安身火山岛(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0c3c388b10ad4cf78f312c6d6620f1e0/1200.m3u8
+蜥蜴安身火山岛(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
+险境求生,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
+险境求生的小河马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4b24374adc24487db8c9d5ac5d037079/1200.m3u8
+险境求生的小河马(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5c22e195021d49b8bc5868147fdc3139/1200.m3u8
+小动物大猎手(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
+小动物大猎手(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
+小动物大英雄,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+小动物的森林童话,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
+小角马历险记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
+小鼠奇遇记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
+小象和绵羊朋友(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
+小象和绵羊朋友(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
+小熊的故事1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
+小熊的故事2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
+小熊的故事3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
+小熊的梦幻森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
+小熊的梦幻森林2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
+小熊的梦幻森林3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
+小勇士闯天下,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
+新狮王诞生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
+兄弟捕猎联盟,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0b85d990df5c4f7fae663dc595a084bd/1200.m3u8
+兄弟情深(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0700de47ebc74232bc9f5c5c178aa488/1200.m3u8
+兄弟情深(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30a35b521af54f1a88d74f7215ece1d3/1200.m3u8
+雄风再起,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b9176a8a35c94c37ade29708eed40190/1200.m3u8
+熊的王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
+熊在旅途(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
+熊在旅途(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
+雪鸮的风中芭蕾,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4ee145f174a8464fb624c4ae62992b1c/1200.m3u8
+雪鸮的生存之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
+耀眼的白狮家族1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/07c3395ee5da4f789937372657ab980a/1200.m3u8
+耀眼的白狮家族2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
+耀眼的白狮家族3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e0efcf1181234f2dabef87db65bcdec0/1200.m3u8
+野狗家族传世之爱,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
+野生白狮(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
+野生白狮(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1e405a3890d3497d80df5351ad30f169/1200.m3u8
+野生白狮(中),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
+野生世界竞技场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/11ac06bbb4f0426fbc4c7b3bfd864b3f/1200.m3u8
+野生世界竞技场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
+一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
+一片住着熊的森林2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
+一片住着熊的森林3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
+隐秘的海鬣蜥王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7af80d20f06401989879c44eaf865e8/1200.m3u8
+隐秘王国里的奇迹1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
+隐秘王国里的奇迹2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cee8d6ac393418e887420a6e1d54b6e/1200.m3u8
+隐秘王国里的奇迹3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fe654a3cadf4838bb34ea18441378e8/1200.m3u8
+隐秘王国里的奇迹4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/953467196a854ed786f7e3521579f1f6/1200.m3u8
+勇闯包围圈,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
+勇闯都市丛林,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
+勇闯螃蟹岛,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3bba8da0b6c54771aa02b579ba75f8e7/1200.m3u8
+勇敢的王者之心,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
+勇敢的长颈鹿(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8a9d50517baa443b82b3e4c9e0078351/1200.m3u8
+勇敢的长颈鹿(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
+勇挑重担的矮獴(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ef930c154a446d0a831d2dd93698fd2/1200.m3u8
+勇挑重担的矮獴(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9ffce5e83824939ab9bb66502778bd9/1200.m3u8
+有一只美丽的大水獭,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
+与野生动物为邻,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
+雨季狮踪,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
+雨林守护的秘密(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18aecd7b1b064f3692f80ce6906895d5/1200.m3u8
+雨林守护的秘密(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/084be96dbd124ac499afc25eb1e4d63d/1200.m3u8
+原野逐梦记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
+绽放的生命(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2f3f0f3b4c242b4983ee62034f85608/1200.m3u8
+绽放的生命1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87145268893a47cd8fc9cda530eee111/1200.m3u8
+绽放的生命2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b6ed77c03224d298a72a8311fcf10a7/1200.m3u8
+绽放的生命3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aea0ef5ea21c40dea948d723d823a5fb/1200.m3u8
+绽放的生命4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbb3d1d6ae37458e84f574881778ac7c/1200.m3u8
+植物王国漫游记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
+植物王国漫游记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
+追逐的游戏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/34459ad5d340461daab2f453d485833d/1200.m3u8
+追踪兽王,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
+自然界奥运冠军,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
+棕熊把守的水上要塞(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
+棕熊把守的水上要塞(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
+棕熊捕鱼季(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
+棕熊的捕鱼生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
+棕熊的捕鱼生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
+走出包围圈,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
+走进狗的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
+足球超级猎食者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
+足球超级猎食者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
+
+.景点频道,#genre#
+直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+湖南张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+浙江杭州云栖小镇,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+重庆石柱华溪村,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
+安徽金寨大湾村,https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
+山西苛岚宋家沟新村,https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
+河北张北德胜村,https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
+新疆天山(海西平台),https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
+新疆天山(定海神针),https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+新疆天山(马牙山),https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+新疆天山(灯杆山),https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+湖南张家界天门山天门洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+湖南张家界天门山天空步道,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+湖南张家界天门山云梦仙顶,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
+厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+汶川映秀新城,https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
+十八洞村,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
+趵突泉,https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+安徽池州九华山风景区拜经台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
+安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+安徽池州九华山风景区花台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+浙江杭州千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+云南丽江玉液湖,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+云南丽江一滴水过丽江,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+云南丽江玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+云南丽江白水台,https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
+云南丽江高尔夫,https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+福建漳州六鳌翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+四川西昌邛海景区,https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
+普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+河南郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+四川四姑娘山幺妹峰,https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
+四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+宁夏沙坡头长河落日,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+宁夏沙坡头大漠孤烟,https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
+丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+丽江古城大水车,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+狮子山鸟瞰丽江古城,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+云台山小寨沟,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
+云台山百家岩,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
+云台山红石峡,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+雪乡梦幻家园观景台,https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+黄花城水长城04,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+鸣沙山山门,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+洗身洞,https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+泰山经石峪,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
+泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+泰山龙潭水库,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+泰山白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+泰山扇子崖,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+泰山太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+泰山玉皇顶东,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+泰山玉皇顶西,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
+黄山卧云峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u
+黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+福建宁德太姥山景区,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
+陕西洋县国宝朱鹮01,https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
+陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+陕西洋县国宝朱鹮03,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+陕西洋县国宝朱鹮04,https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
+安徽黟县西递半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+安徽黟县宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+深圳世界之窗文化主题公园,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
+八达岭长城南七楼,https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+中央电视塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+恒山悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+黄果树银链坠潭瀑布,https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+黄果树六角亭瀑布,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+天涯鸟瞰,https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
+天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+南天一柱,https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+桂林象山公园,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
+六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+华山,https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
+贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+贵州省贞丰市双乳峰景区,https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
+云南大理崇圣寺三塔中景,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔湖面,https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+青岛崂山太清,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+青岛崂山灵旗峰,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+三亚南山文化旅游区海上观音,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+仙都风景区,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+宁夏黄河大峡谷,https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
+张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+嵩山少林寺广场,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
+婺源01,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+神农架金丝猴01,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+丹霞山韶音亭,https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+云南红河哈尼梯田多依树景点,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+云南红河哈尼梯田普高老寨,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
+江西龙虎山中间水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+
+
+
+
+
+.经典电影，#流派#
+地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+跟踪追击，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+预告兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+战上海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+红孩子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+宝葫芦的秘密,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+董存瑞,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+祖国的鹦鹉，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
+神秘的旅伴，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+赛虎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
+犬王,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+特别攻击队，http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+举起手来-追击阿多丸,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
+鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
+羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+渡江预告记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+墙头一下,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
+野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
+红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
+追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
+穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
+王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
+孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
+魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
+桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+
+.历届春晚，#genre#
+春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1990,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+春晚2012,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+春晚2016,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
