@@ -18,6 +18,7 @@ CCTV14,http://www.8700956.top:18888/rtp/239.81.1.015:4056
 CCTV15,http://www.8700956.top:18888/rtp/239.81.1.016:4056
 CCTV16,http://www.8700956.top:18888/rtp/239.81.1.017:4056
 CCTV17,http://www.8700956.top:18888/rtp/239.81.1.019:4056
+CCTV4K超高清,http://www.8700956.top:18888/rtp/239.81.1.078:4056
 CCTV世界地理,https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
@@ -91,7 +92,6 @@ CETV4,http://www.8700956.top:18888/rtp/239.81.0.188:4056
 老故事,http://www.8700956.top:18888/rtp/239.81.1.075:4056
 中华美食,http://www.8700956.top:18888/rtp/239.81.1.076:4056
 置业频道,http://www.8700956.top:18888/rtp/239.81.1.077:4056
-CCTV4K超高清,http://www.8700956.top:18888/rtp/239.81.1.078:4056
 纪实人文,http://www.8700956.top:18888/rtp/239.81.1.079:4056
 南宁文旅,http://www.8700956.top:18888/rtp/239.81.0.139:4056
 吉林卫视,http://www.8700956.top:18888/rtp/239.81.0.143:4056
