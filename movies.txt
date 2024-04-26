@@ -17,7 +17,7 @@
             "name": "💛影视4💛"
         },
         {
-            "url": "http://home.jundie.top:81/top98.json",
+            "url": "http://live.nctv.top/X.json",
             "name": "💛影视5💛"
         },
         {
