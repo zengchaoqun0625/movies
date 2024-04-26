@@ -5,11 +5,11 @@
             "name": "💛曾江涛资源💛"
         },
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
             "name": "💛推荐使用💛"
         },
         {
-            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "url": "http://饭太硬.top/tv",
             "name": "💛影视3💛"
         },
         {
@@ -17,11 +17,11 @@
             "name": "💛影视4💛"
         },
         {
-            "url": "http://live.nctv.top/X.json",
+            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
             "name": "💛影视5💛"
         },
         {
-            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "url": "http://live.nctv.top/X.json",
             "name": "💛影视6💛"
         },
         {
