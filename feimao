@@ -799,6 +799,14 @@
     "url":"http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfigByPath/txt/%2Bd3Xw95ENdIUPRHcoYuQ6Q%3D%3D/2",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+    "name": "直播IPV6",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "type": 0,
+    "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ipv6.txt",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "rules":[
