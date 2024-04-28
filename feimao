@@ -18,26 +18,6 @@
       "ext":"http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
-      "key":"相声小品",
-      "name":"💡┃相声┃小品",
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"
-    },
-    {
-      "key":"戏曲",
-      "name":"🧲┃豫剧┃戏曲",
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"
-    },
-    {
       "key":"csp_Dm84",
       "name":"🤣┃巴士┃动漫",
       "type":3,
@@ -785,8 +765,8 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name": "直播2",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "name":"直播2",
+    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
     "type": 0,
     "url":"http://nctv.top/tv/gt.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -794,7 +774,7 @@
     },
 {
     "name": "直播3",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
     "type": 0,
     "url":"http://iptv.yjxfz.com/ShenQiHelper/tv/getVideoConfigByPath/txt/%2Bd3Xw95ENdIUPRHcoYuQ6Q%3D%3D/2",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -802,7 +782,7 @@
     },
 {
     "name": "直播4",
-    "ua": "AptvPlayer/1.3.3",
+    "User-Agent":"AptvPlayer/1.3.3",
     "type": 0,
     "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ipv4.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -810,7 +790,7 @@
     },
 {
     "name": "直播IPV6",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
     "type": 0,
     "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ipv6.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
