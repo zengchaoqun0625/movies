@@ -21,11 +21,11 @@
             "name": "💛影视5💛"
         },
         {
-            "url": "http://live.nctv.top/X.json",
+            "url": "https://盒子迷.top/春盈天下",
             "name": "💛影视6💛"
         },
         {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "url": "http://xzweb.top/祥子影视",
             "name": "💛影视7💛"
         },
         {
