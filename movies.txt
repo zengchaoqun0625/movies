@@ -25,7 +25,7 @@
             "name": "💛影视6💛"
         },
         {
-            "url": "http://xzweb.top/祥子影视",
+            "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "💛影视7💛"
         },
         {
