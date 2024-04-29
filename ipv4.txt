@@ -238,7 +238,261 @@ CGTN,https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c
 摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
 靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
+台灣頻道,#genre#
+民視,https://tang.serv00.net/zb/99.php?id=26&token=235b2292
+民視,https://tang.serv00.net/zb/99.php?id=336&token=235b2292
+民視,https://tang.serv00.net/zb/99.php?id=2805&token=235b2292
+台視,https://tang.serv00.net/zb/99.php?id=326&token=235b2292
+台視,https://tang.serv00.net/zb/99.php?id=312&token=235b2292
+中視,https://tang.serv00.net/zb/99.php?id=333&token=235b2292
+中視,https://tang.serv00.net/zb/99.php?id=1041&token=235b2292
+華視,https://tang.serv00.net/zb/99.php?id=32&token=235b2292
+華視,https://tang.serv00.net/zb/99.php?id=2282&token=235b2292
+公視,https://tang.serv00.net/zb/99.php?id=86&token=235b2292
+公視,https://tang.serv00.net/zb/99.php?id=28&token=235b2292
+好消息,https://tang.serv00.net/zb/99.php?id=104&token=235b2292
+客家電視,https://tang.serv00.net/zb/99.php?id=76&token=235b2292
+緯來綜合,https://tang.serv00.net/zb/99.php?id=2726&token=235b2292
+八大第一,https://tang.serv00.net/zb/99.php?id=318&token=235b2292
+八大綜合,https://tang.serv00.net/zb/99.php?id=2286&token=235b2292
+三立臺灣,https://tang.serv00.net/zb/99.php?id=35&token=235b2292
+三立臺灣,https://tang.serv00.net/zb/99.php?id=21&token=235b2292
+三立臺灣,https://tang.serv00.net/zb/99.php?id=2436&token=235b2292
+三立都會,https://tang.serv00.net/zb/99.php?id=2435&token=235b2292
+三立都會,https://tang.serv00.net/zb/99.php?id=1001&token=235b2292
+三立都會,https://tang.serv00.net/zb/99.php?id=38&token=235b2292
+華藝綜合,https://tang.serv00.net/zb/99.php?id=342&token=235b2292
+東森綜合,https://tang.serv00.net/zb/99.php?id=372&token=235b2292
+東森超視,https://tang.serv00.net/zb/99.php?id=80&token=235b2292
+東森購物2,https://tang.serv00.net/zb/99.php?id=1156&token=235b2292
+中天綜合,https://tang.serv00.net/zb/99.php?id=54&token=235b2292
+中天綜合,https://tang.serv00.net/zb/99.php?id=3072&token=235b2292
+中天娛樂,https://tang.serv00.net/zb/99.php?id=324&token=235b2292
+TVBS歡樂,https://tang.serv00.net/zb/99.php?id=40&token=235b2292
+JET綜合,https://tang.serv00.net/zb/99.php?id=41&token=235b2292
+東森購物1,https://tang.serv00.net/zb/99.php?id=1155&token=235b2292
+TVBS,https://tang.serv00.net/zb/99.php?id=2273&token=235b2292
+TVBS,https://tang.serv00.net/zb/99.php?id=16&token=235b2292
+緯來育樂,https://tang.serv00.net/zb/99.php?id=338&token=235b2292
+緯來育樂（測試）,https://tang.serv00.net/zb/99.php?id=2772&token=235b2292
+緯來日本,https://tang.serv00.net/zb/99.php?id=337&token=235b2292
+緯來日本,https://tang.serv00.net/zb/99.php?id=46&token=235b2292
+國興衛視,https://tang.serv00.net/zb/99.php?id=65&token=235b2292
+信大電視,https://tang.serv00.net/zb/99.php?id=422&token=235b2292
+八大娱乐,https://tang.serv00.net/zb/99.php?id=105&token=235b2292
+公視3台,https://tang.serv00.net/zb/99.php?id=1340&token=235b2292
+好消息2,https://tang.serv00.net/zb/99.php?id=363&token=235b2292
+高點綜合,https://tang.serv00.net/zb/99.php?id=99&token=235b2292
+中天亞洲,https://tang.serv00.net/zb/99.php?id=2277&token=235b2292
+中天亞洲,https://tang.serv00.net/zb/99.php?id=322&token=235b2292
+民視綜藝,https://tang.serv00.net/zb/99.php?id=98&token=235b2292
+民視第一台,https://tang.serv00.net/zb/99.php?id=34&token=235b2292
+民視台灣,https://tang.serv00.net/zb/99.php?id=36&token=235b2292
+龍華日韓,https://tang.serv00.net/zb/99.php?id=382&token=235b2292
+豬哥亮歌廳秀,https://tang.serv00.net/zb/99.php?id=75&token=235b2292
+豬哥會社,https://tang.serv00.net/zb/99.php?id=103&token=235b2292
+ELTA娛樂台,https://tang.serv00.net/zb/99.php?id=351&token=235b2292
+韓國娛樂,https://tang.serv00.net/zb/99.php?id=73&token=235b2292
+靖天國際,https://tang.serv00.net/zb/99.php?id=345&token=235b2292
+靖天育樂,https://tang.serv00.net/zb/99.php?id=1029&token=235b2292
+靖天日本,https://tang.serv00.net/zb/99.php?id=108&token=235b2292
+靖天歡樂,https://tang.serv00.net/zb/99.php?id=51&token=235b2292
+三立綜合,https://tang.serv00.net/zb/99.php?id=315&token=235b2292
+三立綜合,https://tang.serv00.net/zb/99.php?id=2815&token=235b2292
+靖天資訊,https://tang.serv00.net/zb/99.php?id=49&token=235b2292
+靖天綜合,https://tang.serv00.net/zb/99.php?id=308&token=235b2292
+中視經典,https://tang.serv00.net/zb/99.php?id=185&token=235b2292
+中視菁采,https://tang.serv00.net/zb/99.php?id=74&token=235b2292
+TVBS精采,https://tang.serv00.net/zb/99.php?id=66&token=235b2292
+TVBS精采,https://tang.serv00.net/zb/99.php?id=117&token=235b2292
+年代much,https://tang.serv00.net/zb/99.php?id=1359&token=235b2292
+ELTA綜合,https://tang.serv00.net/zb/99.php?id=1137&token=235b2292
+TVN台湾版,https://tang.serv00.net/zb/99.php?id=2288&token=235b2292
+東森購物3,https://tang.serv00.net/zb/99.php?id=1584&token=235b2292
+MOMO購物1,https://tang.serv00.net/zb/99.php?id=1585&token=235b2292
+MOMO購物2,https://tang.serv00.net/zb/99.php?id=1586&token=235b2292
+美好購物1,https://tang.serv00.net/zb/99.php?id=1591&token=235b2292
+美好購物2,https://tang.serv00.net/zb/99.php?id=1592&token=235b2292
+大立電視,https://tang.serv00.net/zb/99.php?id=1593&token=235b2292
+國會頻道１,https://tang.serv00.net/zb/99.php?id=2614&token=235b2292
+國會頻道2,https://tang.serv00.net/zb/99.php?id=420&token=235b2292
+海豚綜合,https://tang.serv00.net/zb/99.php?id=262&token=235b2292
+台灣地震監視,https://tang.serv00.net/zb/99.php?id=2637&token=235b2292
+誠心電視,https://tang.serv00.net/zb/99.php?id=495&token=235b2292
+第一名電視,https://tang.serv00.net/zb/99.php?id=216&token=235b2292
+中視經典綜藝,https://tang.serv00.net/zb/99.php?id=2773&token=235b2292
+三立新聞,https://tang.serv00.net/zb/99.php?id=43&token=235b2292
+三立新聞,https://tang.serv00.net/zb/99.php?id=2794&token=235b2292
+三立新聞,https://tang.serv00.net/zb/99.php?id=2392&token=235b2292
+三立新聞+,https://tang.serv00.net/zb/99.php?id=320&token=235b2292
+東森新聞,https://tang.serv00.net/zb/99.php?id=1025&token=235b2292
+東森新聞4,https://tang.serv00.net/zb/99.php?id=2766&token=235b2292
+東森新聞,https://tang.serv00.net/zb/99.php?id=1358&token=235b2292
+東森新聞,https://tang.serv00.net/zb/99.php?id=2393&token=235b2292
+東森亞洲,https://tang.serv00.net/zb/99.php?id=3&token=235b2292
+中天新聞2台,https://tang.serv00.net/zb/99.php?id=152&token=235b2292
+中天新聞,https://tang.serv00.net/zb/99.php?id=2420&token=235b2292
+民視新聞,https://tang.serv00.net/zb/99.php?id=2395&token=235b2292
+民視新聞,https://tang.serv00.net/zb/99.php?id=13&token=235b2292
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2736&token=235b2292
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2&token=235b2292
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2396&token=235b2292
+東森財經,https://tang.serv00.net/zb/99.php?id=2397&token=235b2292
+東森財經,https://tang.serv00.net/zb/99.php?id=12&token=235b2292
+華視新聞,https://tang.serv00.net/zb/99.php?id=2424&token=235b2292
+華視新聞,https://tang.serv00.net/zb/99.php?id=1171&token=235b2292
+三立iNEWS,https://tang.serv00.net/zb/99.php?id=6&token=235b2292
+台視新聞,https://tang.serv00.net/zb/99.php?id=2399&token=235b2292
+台視新聞,https://tang.serv00.net/zb/99.php?id=1&token=235b2292
+中視新聞,https://tang.serv00.net/zb/99.php?id=2400&token=235b2292
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=2401&token=235b2292
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=304&token=235b2292
+寰宇財經,https://tang.serv00.net/zb/99.php?id=2536&token=235b2292
+公視新聞,https://tang.serv00.net/zb/99.php?id=20&token=235b2292
+寰宇臺灣,https://tang.serv00.net/zb/99.php?id=87&token=235b2292
+年代新聞,https://tang.serv00.net/zb/99.php?id=2719&token=235b2292
+年代新聞,https://tang.serv00.net/zb/99.php?id=1099&token=235b2292
+壹新聞,https://tang.serv00.net/zb/99.php?id=2777&token=235b2292
+壹新聞,https://tang.serv00.net/zb/99.php?id=494&token=235b2292
+鏡新聞mnews,https://tang.serv00.net/zb/99.php?id=463&token=235b2292
+三立国際,https://tang.serv00.net/zb/99.php?id=2285&token=235b2292
+CBN News,https://tang.serv00.net/zb/99.php?id=499&token=235b2292
+東森戲劇,https://tang.serv00.net/zb/99.php?id=2825&token=235b2292
+東森戲劇,https://tang.serv00.net/zb/99.php?id=321&token=235b2292
+八大戲劇,https://tang.serv00.net/zb/99.php?id=81&token=235b2292
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=2727&token=235b2292
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=339&token=235b2292
+東森電影,https://tang.serv00.net/zb/99.php?id=350&token=235b2292
+東森電影,https://tang.serv00.net/zb/99.php?id=2720&token=235b2292
+緯來電影,https://tang.serv00.net/zb/99.php?id=2728&token=235b2292
+HBO HD,https://tang.serv00.net/zb/99.php?id=332&token=235b2292
+HBO HD,https://tang.serv00.net/zb/99.php?id=2823&token=235b2292
+東森洋片,https://tang.serv00.net/zb/99.php?id=1128&token=235b2292
+壹電影,https://tang.serv00.net/zb/99.php?id=2284&token=235b2292
+好萊塢電影,https://tang.serv00.net/zb/99.php?id=37&token=235b2292
+愛爾達影劇,https://tang.serv00.net/zb/99.php?id=500&token=235b2292
+CineMAX,https://tang.serv00.net/zb/99.php?id=346&token=235b2292
+靖天映畫,https://tang.serv00.net/zb/99.php?id=349&token=235b2292
+靖洋戲劇,https://tang.serv00.net/zb/99.php?id=319&token=235b2292
+緯來精彩,https://tang.serv00.net/zb/99.php?id=2280&token=235b2292
+EYE戲劇,https://tang.serv00.net/zb/99.php?id=191&token=235b2292
+三立戲劇,https://tang.serv00.net/zb/99.php?id=64&token=235b2292
+三立戲劇,https://tang.serv00.net/zb/99.php?id=2819&token=235b2292
+龍華偶像,https://tang.serv00.net/zb/99.php?id=385&token=235b2292
+霹靂臺灣,https://tang.serv00.net/zb/99.php?id=1339&token=235b2292
+靖天電影,https://tang.serv00.net/zb/99.php?id=110&token=235b2292
+美亞電影,https://tang.serv00.net/zb/99.php?id=375&token=235b2292
+民視影劇,https://tang.serv00.net/zb/99.php?id=1023&token=235b2292
+HBOSignature,https://tang.serv00.net/zb/99.php?id=329&token=235b2292
+HBOSignature,https://tang.serv00.net/zb/99.php?id=2824&token=235b2292
+HBO Hits,https://tang.serv00.net/zb/99.php?id=330&token=235b2292
+采昌影劇,https://tang.serv00.net/zb/99.php?id=62&token=235b2292
+采昌影劇,https://tang.serv00.net/zb/99.php?id=2804&token=235b2292
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=497&token=235b2292
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=2800&token=235b2292
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=365&token=235b2292
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=2796&token=235b2292
+龍華經典,https://tang.serv00.net/zb/99.php?id=100&token=235b2292
+龍翔時代,https://tang.serv00.net/zb/99.php?id=373&token=235b2292
+AXN臺灣,https://tang.serv00.net/zb/99.php?id=2816&token=235b2292
+天映經典,https://tang.serv00.net/zb/99.php?id=2289&token=235b2292
+公視戲劇,https://tang.serv00.net/zb/99.php?id=69&token=235b2292
+AXN亞洲,https://tang.serv00.net/zb/99.php?id=1066&token=235b2292
+Trill恐怖電影,https://tang.serv00.net/zb/99.php?id=18&token=235b2292
+龍華電影,https://tang.serv00.net/zb/99.php?id=311&token=235b2292
+華納電影,https://tang.serv00.net/zb/99.php?id=83&token=235b2292
+靖天戲劇,https://tang.serv00.net/zb/99.php?id=109&token=235b2292
+龍華洋片,https://tang.serv00.net/zb/99.php?id=341&token=235b2292
+緯來體育,https://tang.serv00.net/zb/99.php?id=118&token=235b2292
+緯來體育,https://tang.serv00.net/zb/99.php?id=2732&token=235b2292
+Eleven Sport 1,https://tang.serv00.net/zb/99.php?id=3224&token=235b2292
+Eleven Sport 2,https://tang.serv00.net/zb/99.php?id=301&token=235b2292
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=192&token=235b2292
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=2729&token=235b2292
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=193&token=235b2292
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=2730&token=235b2292
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=194&token=235b2292
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=2731&token=235b2292
+ELTA體育3台,https://tang.serv00.net/zb/99.php?id=2722&token=235b2292
+ELTA體育4,https://tang.serv00.net/zb/99.php?id=2820&token=235b2292
+Z頻道,https://tang.serv00.net/zb/99.php?id=1130&token=235b2292
+博斯無限,https://tang.serv00.net/zb/99.php?id=381&token=235b2292
+博斯無限,https://tang.serv00.net/zb/99.php?id=2797&token=235b2292
+博斯無限2,https://tang.serv00.net/zb/99.php?id=426&token=235b2292
+博斯無限2,https://tang.serv00.net/zb/99.php?id=2798&token=235b2292
+博斯運動1,https://tang.serv00.net/zb/99.php?id=379&token=235b2292
+博斯運動2,https://tang.serv00.net/zb/99.php?id=380&token=235b2292
+亞洲旅遊,https://tang.serv00.net/zb/99.php?id=2299&token=235b2292
+探索頻道,https://tang.serv00.net/zb/99.php?id=2817&token=235b2292
+探索頻道,https://tang.serv00.net/zb/99.php?id=1035&token=235b2292
+大陸尋奇,https://tang.serv00.net/zb/99.php?id=102&token=235b2292
+動物星球,https://tang.serv00.net/zb/99.php?id=367&token=235b2292
+民視旅遊,https://tang.serv00.net/zb/99.php?id=78&token=235b2292
+探索亞洲,https://tang.serv00.net/zb/99.php?id=306&token=235b2292
+探索科學,https://tang.serv00.net/zb/99.php?id=343&token=235b2292
+國家野生（英）,https://tang.serv00.net/zb/99.php?id=1038&token=235b2292
+探索EVE,https://tang.serv00.net/zb/99.php?id=1036&token=235b2292
+TaiwanPlus,https://tang.serv00.net/zb/99.php?id=327&token=235b2292
+視納華仁紀實,https://tang.serv00.net/zb/99.php?id=91&token=235b2292
+美食星球,https://tang.serv00.net/zb/99.php?id=3073&token=235b2292
+美食星球,https://tang.serv00.net/zb/99.php?id=1360&token=235b2292
+EYE旅遊,https://tang.serv00.net/zb/99.php?id=1494&token=235b2292
+探索動力DMAX,https://tang.serv00.net/zb/99.php?id=335&token=235b2292
+Globetrotter 環遊旅行家,https://tang.serv00.net/zb/99.php?id=114&token=235b2292
+MOMO親子,https://tang.serv00.net/zb/99.php?id=2767&token=235b2292
+MOMO親子,https://tang.serv00.net/zb/99.php?id=1126&token=235b2292
+東森幼幼（備）,https://tang.serv00.net/zb/99.php?id=2771&token=235b2292
+東森幼幼,https://tang.serv00.net/zb/99.php?id=371&token=235b2292
+東森亞洲呦呦,https://tang.serv00.net/zb/99.php?id=293&token=235b2292
+CN卡通,https://tang.serv00.net/zb/99.php?id=107&token=235b2292
+靖洋卡通,https://tang.serv00.net/zb/99.php?id=348&token=235b2292
+靖天卡通,https://tang.serv00.net/zb/99.php?id=344&token=235b2292
+大愛一臺,https://tang.serv00.net/zb/99.php?id=11&token=235b2292
 
+港澳頻道,#genre#
+TVB翡翠,https://tang.serv00.net/zb/99.php?id=390&token=235b2292
+TVB翡翠,https://tang.serv00.net/zb/99.php?id=30&token=235b2292
+TVB明珠,https://tang.serv00.net/zb/99.php?id=2437&token=235b2292
+TVB明珠,https://tang.serv00.net/zb/99.php?id=391&token=235b2292
+TVB plus,https://tang.serv00.net/zb/99.php?id=45&token=235b2292
+TVB plus,https://tang.serv00.net/zb/99.php?id=394&token=235b2292
+HOY资讯台,https://tang.serv00.net/zb/99.php?id=395&token=235b2292
+Viu TV,https://tang.serv00.net/zb/99.php?id=2334&token=235b2292
+Viutv,https://tang.serv00.net/zb/99.php?id=72&token=235b2292
+TVB直播,https://tang.serv00.net/zb/99.php?id=2743&token=235b2292
+TVB J2,https://tang.serv00.net/zb/99.php?id=392&token=235b2292
+TVB J2,https://tang.serv00.net/zb/99.php?id=2834&token=235b2292
+NOWTV,https://tang.serv00.net/zb/99.php?id=1246&token=235b2292
+鳳凰香港,https://tang.serv00.net/zb/99.php?id=2810&token=235b2292
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2291&token=235b2292
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2812&token=235b2292
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2811&token=235b2292
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2292&token=235b2292
+星空衛視,https://tang.serv00.net/zb/99.php?id=56&token=235b2292
+HKIBC,https://tang.serv00.net/zb/99.php?id=354&token=235b2292
+HOY,https://tang.serv00.net/zb/99.php?id=401&token=235b2292
+18台,https://tang.serv00.net/zb/99.php?id=2813&token=235b2292
+廣東珠江,https://tang.serv00.net/zb/99.php?id=1034&token=235b2292
+18台,https://tang.serv00.net/zb/99.php?id=44&token=235b2292
+澳門蓮花,https://tang.serv00.net/zb/99.php?id=70&token=235b2292
+鳳凰電影,https://tang.serv00.net/zb/99.php?id=2814&token=235b2292
+Viutv 6,https://tang.serv00.net/zb/99.php?id=176&token=235b2292
+創世電視,https://tang.serv00.net/zb/99.php?id=1317&token=235b2292
+澳亞衛視,https://tang.serv00.net/zb/99.php?id=85&token=235b2292
+Euronews English,https://tang.serv00.net/zb/99.php?id=2342&token=235b2292
+TVB亞洲劇,https://tang.serv00.net/zb/99.php?id=1048&token=235b2292
+TVB粵語片,https://tang.serv00.net/zb/99.php?id=1589&token=235b2292
+TVB功夫台,https://tang.serv00.net/zb/99.php?id=168&token=235b2292
+亞美卫视,https://tang.serv00.net/zb/99.php?id=8&token=235b2292
+TVB1,https://tang.serv00.net/zb/99.php?id=1242&token=235b2292
+TVB DRAMA,https://tang.serv00.net/zb/99.php?id=1243&token=235b2292
+TVBJ1,https://tang.serv00.net/zb/99.php?id=1244&token=235b2292
+TVBE,https://tang.serv00.net/zb/99.php?id=1245&token=235b2292
+新時代東部,https://tang.serv00.net/zb/99.php?id=1286&token=235b2292
+新時代2,https://tang.serv00.net/zb/99.php?id=1288&token=235b2292
+城��電視,https://tang.serv00.net/zb/99.php?id=1289&token=235b2292
+TVB星河,https://tang.serv00.net/zb/99.php?id=1079&token=235b2292
+TVB經典,https://tang.serv00.net/zb/99.php?id=1083&token=235b2292
 
 
 新聞頻道,#genre#
@@ -698,7 +952,7 @@ EBS PLUS1,https://tang.serv00.net/zb/99.php?id=3008&token=235b2292
 EBS PLUS2,https://tang.serv00.net/zb/99.php?id=3009&token=235b2292
 EBSe,https://tang.serv00.net/zb/99.php?id=3010&token=235b2292
 
-美国頻道,#genre#
+美国,#genre#
 Sinovision,https://tang.serv00.net/zb/99.php?id=1101&token=235b2292
 TLC,https://tang.serv00.net/zb/99.php?id=1206&token=235b2292
 FOX,https://tang.serv00.net/zb/99.php?id=1218&token=235b2292
@@ -895,7 +1149,7 @@ CTV News,https://tang.serv00.net/zb/99.php?id=1249&token=235b2292
 CBC News,https://tang.serv00.net/zb/99.php?id=1248&token=235b2292
 Crave 4,https://tang.serv00.net/zb/99.php?id=1272&token=235b2292
 
-英国頻道,#genre#
+英国,#genre#
 GB News,https://tang.serv00.net/zb/99.php?id=77&token=235b2292
 bt espn hd,https://tang.serv00.net/zb/99.php?id=2790&token=235b2292
 TalkTV,https://tang.serv00.net/zb/99.php?id=309&token=235b2292
@@ -965,7 +1219,7 @@ sky sports action,https://tang.serv00.net/zb/99.php?id=2785&token=235b2292
 sky sports cricket,https://tang.serv00.net/zb/99.php?id=2786&token=235b2292
 sky sports main event,https://tang.serv00.net/zb/99.php?id=2787&token=235b2292
 
-法國頻道,#genre#
+法國,#genre#
 FRANCE 24,https://tang.serv00.net/zb/99.php?id=1042&token=235b2292
 Franceinfo,https://tang.serv00.net/zb/99.php?id=376&token=235b2292
 Euronews français,https://tang.serv00.net/zb/99.php?id=1017&token=235b2292
@@ -995,7 +1249,7 @@ Deejay TV,https://tang.serv00.net/zb/99.php?id=1601&token=235b2292
 Rai Sport,https://tang.serv00.net/zb/99.php?id=1613&token=235b2292
 Italia 1,https://tang.serv00.net/zb/99.php?id=1616&token=235b2292
 
-新馬頻道,#genre#
+新馬,#genre#
 CNA 24,https://tang.serv00.net/zb/99.php?id=15&token=235b2292
 AEC,https://tang.serv00.net/zb/99.php?id=433&token=235b2292
 AEC,https://tang.serv00.net/zb/99.php?id=2745&token=235b2292
@@ -1047,7 +1301,7 @@ BNC,https://tang.serv00.net/zb/99.php?id=1045&token=235b2292
 DZRH TV,https://tang.serv00.net/zb/99.php?id=1425&token=235b2292
 UNTV,https://tang.serv00.net/zb/99.php?id=1501&token=235b2292
 
-泰國頻道,#genre#
+泰国,#genre#
 Channel 3,https://tang.serv00.net/zb/99.php?id=2315&token=235b2292
 Channel 5,https://tang.serv00.net/zb/99.php?id=2316&token=235b2292
 Channel 7,https://tang.serv00.net/zb/99.php?id=2317&token=235b2292
@@ -1294,7 +1548,7 @@ TV CENTR,https://tang.serv00.net/zb/99.php?id=2451&token=235b2292
 
 
 
-.广播频道,#genre#
+.广播,#genre#
 Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
 Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
 BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
