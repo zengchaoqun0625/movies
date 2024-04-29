@@ -1388,7 +1388,7 @@ RT News,https://tang.serv00.net/zb/99.php?id=2564&token=235b2292
 RT Documentary,https://tang.serv00.net/zb/99.php?id=2611&token=235b2292
 5 KANAL,https://tang.serv00.net/zb/99.php?id=2444&token=235b2292
 TV CENTR,https://tang.serv00.net/zb/99.php?id=2451&token=235b2292
-私密頻道_062666,#genre#
+私密頻道_0626,#genre#
 松視1,https://tang.serv00.net/zb/99.php?id=402&token=235b2292
 松视1台,https://tang.serv00.net/zb/99.php?id=2905&token=235b2292
 松视2台,https://tang.serv00.net/zb/99.php?id=2906&token=235b2292
