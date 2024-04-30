@@ -197,46 +197,7 @@ CGTN,https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c
 
 
 
-.休闲频道,#genre#
-生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
-百姓健康,https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
-快乐垂钓高清,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-第一剧场高清,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-都市剧场高清,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-动漫秀场高清,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-魅力足球高清,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-风云剧场高清,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-求索纪录高清,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-兵器科技高清,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-游戏风云高清,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-怀旧剧场高清,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-风云音乐高清,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-央视台球高清,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-风云足球高清,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-央视文化精品高清,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
-高尔夫网球高清,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-书画,https://live.goodiptv.club/api/cqyx.php?id=shuhua
-新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
-国学频道,https://live.goodiptv.club/api/cqyx.php?id=guoxue
-优优宝贝,https://live.goodiptv.club/api/cqyx.php?id=youxi
-中华特产,https://live.goodiptv.club/api/cqyx.php?id=techan
-环球奇观,https://live.goodiptv.club/api/cqyx.php?id=car
-生态环境,https://live.goodiptv.club/api/cqyx.php?id=shengtai
-四海钓鱼,https://live.goodiptv.club/api/cqyx.php?id=diaoyu
-发现之旅,https://live.goodiptv.club/api/cqyx.php?id=faxian
-车迷,https://live.goodiptv.club/api/cqyx.php?id=doxtv
-法治天地,https://live.goodiptv.club/api/cqyx.php?id=fazhi
-金色学堂,https://live.goodiptv.club/api/cqyx.php?id=jinse
-收藏天下,https://live.goodiptv.club/api/cqyx.php?id=soucang
-财富天下,https://live.goodiptv.club/api/cqyx.php?id=caifu
-女性时尚,https://live.goodiptv.club/api/cqyx.php?id=nvxing
-中学生,https://live.goodiptv.club/api/cqyx.php?id=qicai
-天元围棋,https://live.goodiptv.club/api/cqyx.php?id=weiqi
-先锋乒羽,https://live.goodiptv.club/api/cqyx.php?id=xianfeng
-环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
-老故事,https://live.goodiptv.club/api/cqyx.php?id=gushi
-摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
-靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
+
 
 .台灣頻道,#genre#
 民視,https://tang.serv00.net/zb/99.php?id=26&token=235b2292
