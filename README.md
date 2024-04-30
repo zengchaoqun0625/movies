@@ -26,4 +26,4 @@
 * 👀️ 电影内容来源详情查看[点击跳转](https://xn--z7x900a.live/)
 * 👀️ 直播内容来源详情查看[点击跳转](https://github.com/fanmingming/live)
 * 🚀️ 代理配置来源查看[点击跳转](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
-* ❤️ 更多内容(Lives/movies/epg/wallpaper)来源查看[点击复制](https://github.com/mengzehe/TVBox/tree/main?tab=readme-ov-file)
+* ❤️ 更多内容(Lives/movies/epg/wallpaper)来源查看[点击跳转](https://github.com/mengzehe/TVBox/tree/main?tab=readme-ov-file)
