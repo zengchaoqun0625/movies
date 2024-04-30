@@ -5759,7 +5759,7 @@ Fox News(B),mitv://generationnexxxt.com:19806/f995b6bf60d241828966663608f77e2b
 Mediacorp U(B),mitv://generationnexxxt.com:19806/bcf807b5e6e549b4aa970c8f1c160a5b
 Mediacorp 8(B),mitv://generationnexxxt.com:19806/009ed3c76b6e4a0cb514213b944e3b1b
 
-.日本,#genre#
+.日本频道,#genre#
 
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
@@ -5800,7 +5800,7 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
-.韩国,#genre#
+.韩国频道,#genre#
 
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
@@ -5851,7 +5851,7 @@ TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 
-.北美,#genre#
+.北美频道,#genre#
 
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
@@ -5950,7 +5950,7 @@ beIN Sports 2(B),mitv://generationnexxxt.com:19806/54acc624548a4ac1be80ee2ae0ad2
 爱尔达体育2台(B),mitv://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
 爱尔达体育3台(B),mitv://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
 
-.知识,#genre#
+.知识频道,#genre#
 
 BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 Lifetime,mitv://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
