@@ -807,8 +807,9 @@
 {
     "name": "斗鱼虎牙",
     "User-Agent":"AptvPlayer/1.3.3",
+    "Accpet":"*/*",
     "type": 0,
-    "Connection":"http://cfss.cc/cdn/hy/660000.flv",
+    "Connection":"keep-alive",
     "url":"https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/ya.m3u",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
