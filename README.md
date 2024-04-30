@@ -23,8 +23,7 @@
 * 自用宣传请勿传播
 * 所有数据全部收集于网络，不保证可用性
 * 本次自动更新时间为：2024-04-30 05:11:34
-* 👀️ 电影内容来源详情查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/movies.txt)
-* 👀️ 直播内容来源详情查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt)
+* 👀️ 电影内容来源详情查看[点击复制](https://xn--z7x900a.live/)
+* 👀️ 直播内容来源详情查看[点击复制](https://github.com/fanmingming/live)
 * 🚀️ 代理配置来源查看[点击复制](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
-* ❤️ 更多内容来源查看[Ftindy
-  ](https://github.com/Ftindy/IPTV-URL)
+* ❤️ 更多内容(Lives/movies/epg/wallpaper)来源查看[点击复制](https://github.com/mengzehe/TVBox/tree/main?tab=readme-ov-file)
