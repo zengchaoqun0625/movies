@@ -238,7 +238,7 @@ CGTN,https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c
 摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
 靓妆,https://live.goodiptv.club/api/cqyx.php?id=liang
 
-台灣頻道,#genre#
+.台灣頻道,#genre#
 民視,https://tang.serv00.net/zb/99.php?id=26&token=235b2292
 民視,https://tang.serv00.net/zb/99.php?id=336&token=235b2292
 民視,https://tang.serv00.net/zb/99.php?id=2805&token=235b2292
@@ -449,7 +449,7 @@ CN卡通,https://tang.serv00.net/zb/99.php?id=107&token=235b2292
 靖天卡通,https://tang.serv00.net/zb/99.php?id=344&token=235b2292
 大愛一臺,https://tang.serv00.net/zb/99.php?id=11&token=235b2292
 
-港澳頻道,#genre#
+.港澳頻道,#genre#
 TVB翡翠,https://tang.serv00.net/zb/99.php?id=390&token=235b2292
 TVB翡翠,https://tang.serv00.net/zb/99.php?id=30&token=235b2292
 TVB明珠,https://tang.serv00.net/zb/99.php?id=2437&token=235b2292
@@ -495,7 +495,7 @@ TVB星河,https://tang.serv00.net/zb/99.php?id=1079&token=235b2292
 TVB經典,https://tang.serv00.net/zb/99.php?id=1083&token=235b2292
 
 
-新聞頻道,#genre#
+.新聞頻道,#genre#
 HOY资讯台,https://tang.serv00.net/zb/99.php?id=395&token=235b2292
 HKIBC,https://tang.serv00.net/zb/99.php?id=354&token=235b2292
 三立新聞,https://tang.serv00.net/zb/99.php?id=43&token=235b2292
@@ -564,7 +564,7 @@ ABC News Australia,https://tang.serv00.net/zb/99.php?id=2769&token=235b2292
 FRANCE 24,https://tang.serv00.net/zb/99.php?id=1042&token=235b2292
 CNN Indonesia,https://tang.serv00.net/zb/99.php?id=1145&token=235b229
 
-影視頻道,#genre#
+.影視頻道,#genre#
 龍華日韓,https://tang.serv00.net/zb/99.php?id=382&token=235b2292
 東森戲劇,https://tang.serv00.net/zb/99.php?id=2825&token=235b2292
 東森戲劇,https://tang.serv00.net/zb/99.php?id=321&token=235b2292
@@ -628,7 +628,7 @@ TVB功夫台,https://tang.serv00.net/zb/99.php?id=168&token=235b2292
 藍色水玲瓏,https://tang.serv00.net/zb/99.php?id=1690&token=235b2292
 新玫瑰瞳鈴眼,https://tang.serv00.net/zb/99.php?id=2555&token=235b2292
 
-体育頻道,#genre#
+.体育頻道,#genre#
 緯來體育,https://tang.serv00.net/zb/99.php?id=118&token=235b2292
 緯來體育,https://tang.serv00.net/zb/99.php?id=2732&token=235b2292
 NBA(TW),https://tang.serv00.net/zb/99.php?id=71&token=235b2292
@@ -740,7 +740,7 @@ Sport TV 1,https://tang.serv00.net/zb/99.php?id=1779&token=235b2292
 Sport TV 2,https://tang.serv00.net/zb/99.php?id=1785&token=235b2292
 Sport TV 3,https://tang.serv00.net/zb/99.php?id=2135&token=235b2292
 
-记录頻道,#genre#
+.记录頻道,#genre#
 亞洲旅遊,https://tang.serv00.net/zb/99.php?id=2299&token=235b2292
 探索頻道,https://tang.serv00.net/zb/99.php?id=2817&token=235b2292
 探索頻道,https://tang.serv00.net/zb/99.php?id=1035&token=235b2292
@@ -780,7 +780,7 @@ Food Network Canada,https://tang.serv00.net/zb/99.php?id=1265&token=235b2292
 History,https://tang.serv00.net/zb/99.php?id=1413&token=235b2292
 Food Network 英,https://tang.serv00.net/zb/99.php?id=1421&token=235b2292
 
-亲子頻道,#genre#
+.亲子頻道,#genre#
 Leigha Marina,https://tang.serv00.net/zb/99.php?id=313&token=235b2292
 MOMO親子,https://tang.serv00.net/zb/99.php?id=2767&token=235b2292
 MOMO親子,https://tang.serv00.net/zb/99.php?id=1126&token=235b2292
@@ -826,7 +826,7 @@ Bebefinn,https://tang.serv00.net/zb/99.php?id=489&token=235b2292
 
 
 
-日本,#genre#
+.日本频道,#genre#
 JapaNews24,https://tang.serv00.net/zb/99.php?id=425&token=235b2292
 スカイA,https://tang.serv00.net/zb/99.php?id=2433&token=235b2292
 ANN/テレ朝,https://tang.serv00.net/zb/99.php?id=1502&token=235b2292
@@ -895,7 +895,7 @@ Disney チャンネル,https://tang.serv00.net/zb/99.php?id=290&token=235b2292
 日テレG＋,https://tang.serv00.net/zb/99.php?id=2434&token=235b2292
 兵庫県の最新,https://tang.serv00.net/zb/99.php?id=1142&token=235b2292
 
-韩国,#genre#
+.韩国频道,#genre#
 KBS드라마1,https://tang.serv00.net/zb/99.php?id=2348&token=235b2292
 MBC드라마넷,https://tang.serv00.net/zb/99.php?id=2349&token=235b2292
 I.NET,https://tang.serv00.net/zb/99.php?id=2351&token=235b2292
@@ -952,7 +952,7 @@ EBS PLUS1,https://tang.serv00.net/zb/99.php?id=3008&token=235b2292
 EBS PLUS2,https://tang.serv00.net/zb/99.php?id=3009&token=235b2292
 EBSe,https://tang.serv00.net/zb/99.php?id=3010&token=235b2292
 
-美国,#genre#
+.美国频道,#genre#
 Sinovision,https://tang.serv00.net/zb/99.php?id=1101&token=235b2292
 TLC,https://tang.serv00.net/zb/99.php?id=1206&token=235b2292
 FOX,https://tang.serv00.net/zb/99.php?id=1218&token=235b2292
@@ -1104,7 +1104,7 @@ ksat12,https://tang.serv00.net/zb/99.php?id=2428&token=235b2292
 National Geographic,https://tang.serv00.net/zb/99.php?id=294&token=235b2292
 Syfy,https://tang.serv00.net/zb/99.php?id=1537&token=235b2292
 
-加拿大,#genre#
+.加拿大,#genre#
 The Weather Network,https://tang.serv00.net/zb/99.php?id=1251&token=235b2292
 CP 24 Canada,https://tang.serv00.net/zb/99.php?id=1247&token=235b2292
 CBC,https://tang.serv00.net/zb/99.php?id=1252&token=235b2292
@@ -1149,7 +1149,7 @@ CTV News,https://tang.serv00.net/zb/99.php?id=1249&token=235b2292
 CBC News,https://tang.serv00.net/zb/99.php?id=1248&token=235b2292
 Crave 4,https://tang.serv00.net/zb/99.php?id=1272&token=235b2292
 
-英国,#genre#
+.英国频道,#genre#
 GB News,https://tang.serv00.net/zb/99.php?id=77&token=235b2292
 bt espn hd,https://tang.serv00.net/zb/99.php?id=2790&token=235b2292
 TalkTV,https://tang.serv00.net/zb/99.php?id=309&token=235b2292
@@ -1219,7 +1219,7 @@ sky sports action,https://tang.serv00.net/zb/99.php?id=2785&token=235b2292
 sky sports cricket,https://tang.serv00.net/zb/99.php?id=2786&token=235b2292
 sky sports main event,https://tang.serv00.net/zb/99.php?id=2787&token=235b2292
 
-法國,#genre#
+.法国频道,#genre#
 FRANCE 24,https://tang.serv00.net/zb/99.php?id=1042&token=235b2292
 Franceinfo,https://tang.serv00.net/zb/99.php?id=376&token=235b2292
 Euronews français,https://tang.serv00.net/zb/99.php?id=1017&token=235b2292
@@ -1238,18 +1238,8 @@ Paramount,https://tang.serv00.net/zb/99.php?id=2233&token=235b2292
 Paris premiere,https://tang.serv00.net/zb/99.php?id=2235&token=235b2292
 TF1 HD,https://tang.serv00.net/zb/99.php?id=2236&token=235b2292
 Toute Lhistoire,https://tang.serv00.net/zb/99.php?id=2238&token=235b2292
-意大利,#genre#
-Sky Calcio,https://tang.serv00.net/zb/99.php?id=2737&token=235b2292
-SKY SPORT NBA,https://tang.serv00.net/zb/99.php?id=2738&token=235b2292
-SKY SPORT ARENA,https://tang.serv00.net/zb/99.php?id=2739&token=235b2292
-SKY F1,https://tang.serv00.net/zb/99.php?id=2740&token=235b2292
-Sky sport uno,https://tang.serv00.net/zb/99.php?id=1597&token=235b2292
-Inter TV,https://tang.serv00.net/zb/99.php?id=1599&token=235b2292
-Deejay TV,https://tang.serv00.net/zb/99.php?id=1601&token=235b2292
-Rai Sport,https://tang.serv00.net/zb/99.php?id=1613&token=235b2292
-Italia 1,https://tang.serv00.net/zb/99.php?id=1616&token=235b2292
 
-新馬,#genre#
+.新馬频道,#genre#
 CNA 24,https://tang.serv00.net/zb/99.php?id=15&token=235b2292
 AEC,https://tang.serv00.net/zb/99.php?id=433&token=235b2292
 AEC,https://tang.serv00.net/zb/99.php?id=2745&token=235b2292
@@ -1297,11 +1287,10 @@ Suria,https://tang.serv00.net/zb/99.php?id=1076&token=235b2292
 OKEY,https://tang.serv00.net/zb/99.php?id=1075&token=235b2292
 AXN,https://tang.serv00.net/zb/99.php?id=1044&token=235b2292
 BNC,https://tang.serv00.net/zb/99.php?id=1045&token=235b2292
-菲律賓,#genre#
-DZRH TV,https://tang.serv00.net/zb/99.php?id=1425&token=235b2292
-UNTV,https://tang.serv00.net/zb/99.php?id=1501&token=235b2292
 
-泰国,#genre#
+
+
+.泰国频道,#genre#
 Channel 3,https://tang.serv00.net/zb/99.php?id=2315&token=235b2292
 Channel 5,https://tang.serv00.net/zb/99.php?id=2316&token=235b2292
 Channel 7,https://tang.serv00.net/zb/99.php?id=2317&token=235b2292
@@ -1462,7 +1451,7 @@ BeritaSatu,https://tang.serv00.net/zb/99.php?id=1488&token=235b2292
 TVMU,https://tang.serv00.net/zb/99.php?id=1490&token=235b2292
 DAAI TV,https://tang.serv00.net/zb/99.php?id=2936&token=235b2292
 
-越南頻道,#genre#
+.越南頻道,#genre#
 HTV7 HD,https://tang.serv00.net/zb/99.php?id=2251&token=235b2292
 HTV9 HD,https://tang.serv00.net/zb/99.php?id=2253&token=235b2292
 HTV1,https://tang.serv00.net/zb/99.php?id=2254&token=235b2292
@@ -1477,7 +1466,7 @@ HBTV,https://tang.serv00.net/zb/99.php?id=1302&token=235b2292
 KienGiangTV,https://tang.serv00.net/zb/99.php?id=1309&token=235b2292
 KienGiangTV1,https://tang.serv00.net/zb/99.php?id=1310&token=235b2292
 
-土耳其,#genre#
+.土耳其,#genre#
 A SPOR,https://tang.serv00.net/zb/99.php?id=2367&token=235b2292
 TRT 1 HD,https://tang.serv00.net/zb/99.php?id=2368&token=235b2292
 SHOW TV HD,https://tang.serv00.net/zb/99.php?id=2369&token=235b2292
@@ -1503,21 +1492,10 @@ TRT SPOR HD,https://tang.serv00.net/zb/99.php?id=2388&token=235b2292
 BEIN SPORTS 1 HD,https://tang.serv00.net/zb/99.php?id=2389&token=235b2292
 BEIN SPORTS 2 HD,https://tang.serv00.net/zb/99.php?id=2390&token=235b2292
 ULUSAL TV,https://tang.serv00.net/zb/99.php?id=2391&token=235b2292
-巴西,#genre#
-Globo RBS TV,https://tang.serv00.net/zb/99.php?id=1668&token=235b2292
-Gloobinho,https://tang.serv00.net/zb/99.php?id=1684&token=235b2292
-Globo RJ,https://tang.serv00.net/zb/99.php?id=1688&token=235b2292
-GNT,https://tang.serv00.net/zb/99.php?id=1689&token=235b2292
-Mais Globosat,https://tang.serv00.net/zb/99.php?id=1704&token=235b2292
-Rede TV,https://tang.serv00.net/zb/99.php?id=1728&token=235b2292
-Record,https://tang.serv00.net/zb/99.php?id=1746&token=235b2292
-SBT,https://tang.serv00.net/zb/99.php?id=1747&token=235b2292
-Sport TV 1,https://tang.serv00.net/zb/99.php?id=1779&token=235b2292
-Sport TV 2,https://tang.serv00.net/zb/99.php?id=1785&token=235b2292
-Sport TV 3,https://tang.serv00.net/zb/99.php?id=2135&token=235b2292
-Globo News,https://tang.serv00.net/zb/99.php?id=1489&token=235b2292
 
-भारत,#genre#
+
+
+.俄罗斯,#genre#
 WION,https://tang.serv00.net/zb/99.php?id=303&token=235b2292
 ZeeNews,https://tang.serv00.net/zb/99.php?id=465&token=235b2292
 ABP Majha,https://tang.serv00.net/zb/99.php?id=1782&token=235b2292
@@ -1539,16 +1517,9 @@ Picture,https://tang.serv00.net/zb/99.php?id=1470&token=235b2292
 Asianet,https://tang.serv00.net/zb/99.php?id=1471&token=235b2292
 Times Now,https://tang.serv00.net/zb/99.php?id=1472&token=235b2292
 
-俄罗斯,#genre#
-RT News,https://tang.serv00.net/zb/99.php?id=2564&token=235b2292
-Москва 24,https://tang.serv00.net/zb/99.php?id=2574&token=235b2292
-RT Documentary,https://tang.serv00.net/zb/99.php?id=2611&token=235b2292
-5 KANAL,https://tang.serv00.net/zb/99.php?id=2444&token=235b2292
-TV CENTR,https://tang.serv00.net/zb/99.php?id=2451&token=235b2292
 
 
-
-.广播,#genre#
+.广播频道,#genre#
 Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
 Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
 BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
