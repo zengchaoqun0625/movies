@@ -758,7 +758,7 @@
   "lives":[
     {
     "name": "直播1",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "ua": "AptvPlayer/1.3.3",
     "type": 0,
     "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/aptv-lives.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
