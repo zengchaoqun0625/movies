@@ -22,9 +22,9 @@
 
 * 自用宣传请勿传播
 * 所有数据全部收集于网络，不保证可用性
-* 因电视对GitHub访问问题，所以将配置中的GitHub换成镜像源
 * 本次自动更新时间为：2024-04-30 05:11:34
-* 电影内容来源详情请查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/movies.txt)
-* 直播内容来源详情请查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt)
-* 代理配置来源请查看[点击复制](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
-* 如果感兴趣，请复制项目后续自行研究使用
+* 👀️ 电影内容来源详情查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/movies.txt)
+* 👀️ 直播内容来源详情查看[点击复制](https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt)
+* 🚀️ 代理配置来源查看[点击复制](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+* ❤️ 更多内容来源查看[Ftindy
+  ](https://github.com/Ftindy/IPTV-URL)
