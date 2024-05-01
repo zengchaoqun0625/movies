@@ -769,7 +769,7 @@
     "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
     "type": 0,
     "url":"http://nctv.top/tv/gt.txt",
-    "https://github.com/fanmingming/live/blob/24134416dfc7c314a08a07d6e1e7fe5e230c7102/tv/m3u/ipv6.m3u":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
 {
