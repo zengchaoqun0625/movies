@@ -31,9 +31,9 @@ CGTN纪录,http://221.219.66.252:18888/rtp/239.3.1.216:4220
 中文国际,http://221.219.66.252:18888/rtp/239.3.1.214:4220
 
 卫视频道,#genre#
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
+凤凰中文,https://tv.iill.top/jd/fhzw
+凤凰资讯,https://tv.iill.top/jd/fhzx
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
