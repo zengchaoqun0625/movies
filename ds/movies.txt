@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/feimao",
+            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/feimao",
             "name": "💛曾江涛资源💛"
         },
         {
