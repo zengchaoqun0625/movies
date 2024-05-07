@@ -723,7 +723,7 @@
     "name": "直播综合",
     "ua": "AptvPlayer/1.3.3",
     "type": 0,
-    "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/aptv-lives.txt",
+    "url":"https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/aptv-lives.txt",
     "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
     "logo":"https://live.fanmingming.com/tv/{name}.png"
 },
@@ -731,7 +731,7 @@
     "name": "直播备用",
     "ua":"AptvPlayer/1.3.3",
     "type": 0,
-    "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt",
+    "url":"https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv4.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
@@ -747,7 +747,7 @@
     "name": "直播IPV6",
     "ua":"AptvPlayer/1.3.3",
     "type": 0,
-    "url":"https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv6.txt",
+    "url":"https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv6.txt",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
