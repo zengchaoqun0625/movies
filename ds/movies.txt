@@ -25,7 +25,7 @@
             "name": "💛影视6💛"
         },
         {
-            "url": "http://tvbox.王二小放牛娃.xyz",
+            "url": "http://live.nctv.top/X.json",
             "name": "💛影视7💛"
         },
         {
