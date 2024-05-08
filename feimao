@@ -766,7 +766,7 @@
     "url":"https://tang.serv00.net/zb/tv?type=169&token=235b2292",
     "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
   ],
   "rules": [
     {
