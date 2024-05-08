@@ -21,7 +21,8 @@
 
 直接复制下方链接👇
 
-**http://mtw.so/5Fibbq*** ![avatar]([https://sourl.cn/kEFj6L))
+**http://mtw.so/5Fibbq**
+![Aaron Swartz]([https://sourl.cn/kEFj6L))
 
 复制后配置方法：
 1.打开电视或手机所安装的“影视”
