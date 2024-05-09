@@ -744,10 +744,10 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
 {
-    "name": "直播IPV6",
+    "name": "直播全球",
     "ua":"okhttp/3.15",
     "type": 0,
-    "url":"https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv6.txt",
+    "url":"https://tang.serv00.net/zb/tv?type=169&token=235b2292",
     "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
@@ -760,10 +760,34 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
 {
-    "name": "直播全球",
+    "name": "直播斗鱼",
+    "ua":"AptvPlayer/1.3.3",
+    "type": 0,
+    "url":"https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/yu.m3u",
+    "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+    "name": "直播B站",
+    "ua":"AptvPlayer/1.3.3",
+    "type": 0,
+    "url":"https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/bi.m3u",
+    "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+    "name": "直播V6",
     "ua":"okhttp/3.15",
     "type": 0,
-    "url":"https://tang.serv00.net/zb/tv?type=169&token=235b2292",
+    "url":"https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv6.txt",
+    "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+    "name": "直播Youtube",
+    "ua":"okhttp/3.15",
+    "type": 0,
+    "url":"https://already.free.hr/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
     "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
