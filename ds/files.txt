@@ -59,7 +59,9 @@ https://epg.pw/test_channels_taiwan.m3u #台湾频道
 https://iptv-org.github.io/iptv/countries/tw.m3u #台湾频道
 https://epg.pw/test_channels_singapore.m3u #新加坡频道
 https://epg.pw/test_channels_malaysia.m3u #马来西亚频道
-
+http://8.210.232.168/ygbh.txt   月光
+https://pan.shangui.cc/f/0d0jFj/%E7%8C%95%E7%8C%B4%E6%A1%83%E7%9B%B4%E6%92%AD.txt   猕猴桃
+http://wp.wadg.pro/down.php/e9cb42ff397b1a725c9db5e9a71a9e7d.txt 好人
 
 
 http://152.32.170.60/alanchaotang/if/src/commit/a451929a1480848f0276e6acaed94f03bdc43f7c/X.json
