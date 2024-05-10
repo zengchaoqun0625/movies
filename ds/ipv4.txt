@@ -19,7 +19,7 @@ CCTV15,http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8
 CCTV16,http://iptv123.msns.cn:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://iptv123.msns.cn:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K超高清,http://www.8700956.top:18888/rtp/239.81.1.078:4056
-CCTV4K,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV4K超高清,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
