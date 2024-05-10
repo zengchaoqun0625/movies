@@ -20,17 +20,26 @@ CCTV16,http://iptv123.msns.cn:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1
 CCTV17,http://iptv123.msns.cn:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K超高清,http://www.8700956.top:18888/rtp/239.81.1.078:4056
 CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
-世界地理,https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8
-卫生健康,https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
-风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-剧场第一,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
-女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
 
 
 
+CCTV1,http://live.nctv.top/666/bfgd.php?id=488
+CCTV2,http://live.nctv.top/666/bfgd.php?id=061
+CCTV3,http://live.nctv.top/666/bfgd.php?id=062
+CCTV4,http://live.nctv.top/666/bfgd.php?id=063
+CCTV5,http://live.nctv.top/666/bfgd.php?id=064
+CCTV5+,http://live.nctv.top/666/bfgd.php?id=246
+CCTV6,http://live.nctv.top/666/bfgd.php?id=065
+CCTV7,http://live.nctv.top/666/bfgd.php?id=127
+CCTV8,http://live.nctv.top/666/bfgd.php?id=066
+CCTV9,http://live.nctv.top/666/bfgd.php?id=128
+CCTV10,http://live.nctv.top/666/bfgd.php?id=129
+CCTV11,http://live.nctv.top/666/bfgd.php?id=130
+CCTV12,http://live.nctv.top/666/bfgd.php?id=131
+CCTV13,http://live.nctv.top/666/bfgd.php?id=067
+CCTV14,http://live.nctv.top/666/bfgd.php?id=132
+CCTV15,http://live.nctv.top/666/bfgd.php?id=133
+CCTV17,http://live.nctv.top/666/bfgd.php?id=204
 
 
 .卫视频道,#genre#
@@ -60,6 +69,51 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 宁夏卫视,http://1.24.190.98:10080/hls/93/index.m3u8
 吉林卫视,http://1.24.190.98:10080/hls/71/index.m3u8
 青海卫视,http://1.24.190.98:10080/hls/96/index.m3u8
+
+
+
+
+
+
+
+辽宁卫视,http://live.nctv.top/666/bfgd.php?id=058
+江苏卫视,http://live.nctv.top/666/bfgd.php?id=085
+天津卫视,http://live.nctv.top/666/bfgd.php?id=084
+湖南卫视,http://live.nctv.top/666/bfgd.php?id=086
+北京卫视,http://live.nctv.top/666/bfgd.php?id=083
+黑龙江卫视,http://live.nctv.top/666/bfgd.php?id=095
+广东卫视,http://live.nctv.top/666/bfgd.php?id=092
+东方卫视,http://live.nctv.top/666/bfgd.php?id=093
+浙江卫视,http://live.nctv.top/666/bfgd.php?id=094
+吉林卫视,http://live.nctv.top/666/bfgd.php?id=097
+安徽卫视,http://live.nctv.top/666/bfgd.php?id=096
+江西卫视,http://live.nctv.top/666/bfgd.php?id=098
+山东卫视,http://live.nctv.top/666/bfgd.php?id=099
+贵州卫视,http://live.nctv.top/666/bfgd.php?id=101
+深圳卫视,http://live.nctv.top/666/bfgd.php?id=100
+湖北卫视,http://live.nctv.top/666/bfgd.php?id=102
+四川卫视,http://live.nctv.top/666/bfgd.php?id=103
+河南卫视,http://live.nctv.top/666/bfgd.php?id=104
+重庆卫视,http://live.nctv.top/666/bfgd.php?id=107
+山西卫视,http://live.nctv.top/666/bfgd.php?id=109
+河北卫视,http://live.nctv.top/666/bfgd.php?id=108
+河南卫视,http://live.nctv.top/666/bfgd.php?id=339
+海南卫视,http://live.nctv.top/666/bfgd.php?id=473
+云南卫视,http://live.nctv.top/666/bfgd.php?id=482
+东南卫视,http://live.nctv.top/666/bfgd.php?id=483
+陕西卫视,http://live.nctv.top/666/bfgd.php?id=512
+青海卫视,http://live.nctv.top/666/bfgd.php?id=111
+内蒙古卫视,http://live.nctv.top/666/bfgd.php?id=110
+广西卫视,http://live.nctv.top/666/bfgd.php?id=116
+云南卫视,http://live.nctv.top/666/bfgd.php?id=115
+宁夏卫视,http://live.nctv.top/666/bfgd.php?id=118
+陕西卫视,http://live.nctv.top/666/bfgd.php?id=114
+延边卫视,http://live.nctv.top/666/bfgd.php?id=117
+甘肃卫视,http://live.nctv.top/666/bfgd.php?id=119
+西藏卫视,http://live.nctv.top/666/bfgd.php?id=121
+农林卫视,http://live.nctv.top/666/bfgd.php?id=122
+兵团卫视,http://live.nctv.top/666/bfgd.php?id=124
+
 
 
 .地方频道,#genre#
