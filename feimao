@@ -385,12 +385,26 @@
             "ext": "https://www.voflix.me/"
         },
         {
-            "key": "csp_Duanju",
-            "name": "🎭┃短剧┃视频",
+            "key": "短剧1",
+            "name": "🐞短剧1┃短剧",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧"
+            ]
+        },
+        {
+            "key": "短剧2",
+            "name": "🐞短剧2┃短剧",
             "type": 3,
-            "api": "csp_Duanju",
-            "playerType": "2",
-            "searchable": 0
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "短剧$42",
+                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
+            }
         },
         {
             "key": "alist",
@@ -641,18 +655,138 @@
             },
             "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
         },
-    {
-      "key": "应用商店",
-      "name": "🆗【影视应用商店】",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
-    },
+        {
+            "key": "小灯塔科学",
+            "name": "🌏小灯塔科学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔科学.json"
+        },
+        {
+            "key": "小灯塔地理",
+            "name": "🌏小灯塔地理",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔地理.json"
+        },
+        {
+            "key": "小灯塔百科",
+            "name": "🌏小灯塔百科",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔百科.json"
+        },
+        {
+            "key": "小灯塔国学",
+            "name": "🌏小灯塔国学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔国学.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": " 🧒儿童｜口才",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童口才.json"
+        },
+        {
+            "key": "儿童拼音",
+            "name": " 🧒儿童｜拼音",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": " 🧒儿童｜识字",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童识字.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": " 🧒儿童｜思维",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童思维.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": " 🧒儿童｜英语",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": " 🧒儿童｜硬笔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童硬笔.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": " 🧒儿童｜编程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": " 🧒儿童｜武术",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童武术.json"
+        },
+        {
+            "key": "应用商店",
+            "name": "🆗【影视应用商店】",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
         {
             "key": "push_agent",
-            "name": "关注公众号：肥猫宝贝",
+            "name": "温馨提示：个人使用",
             "type": 3,
             "api": "csp_Push",
             "playerType": "1",
