@@ -1,6 +1,7 @@
 {
-    "spider": "https://cloud.lxweb.cn/f/kJJVip/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3",
+    "spider": "http://dt.xn--yety82d.love/jar/PandaQ240509.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+    "warningText": "观影愉快，天天开心哦♥",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -19,7 +20,7 @@
         },
         {
             "key": "相声小品",
-            "name": "🅱️相声小品",
+            "name": "🍓相声小品",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -29,7 +30,7 @@
         },
         {
             "key": "戏曲",
-            "name": "🅱️戏曲",
+            "name": "🌤戏曲大全",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -109,6 +110,20 @@
             "ext": "http://api2.rinhome.com"
         },
         {
+            "key": "荐片弹幕版",
+            "name": "👍️荐片┃蓝光┃弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 20
+        },
+        {
             "key": "csp_Vidhub2",
             "name": "🎼┃Vid┃影视",
             "type": 3,
@@ -116,6 +131,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "素白白",
+            "name": "🐻‍❄️素白┃秒播",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "🪁明日┃蓝光",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "厂长",
@@ -213,13 +246,6 @@
             "type": 3,
             "api": "csp_GanFan",
             "playerType": 2
-        },
-        {
-            "key": "白嫖",
-            "name": "🌅┃白嫖┃影视",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": "2"
         },
         {
             "key": "saohuo",
@@ -392,41 +418,35 @@
             "ext": "https://www.voflix.me/"
         },
         {
-            "key": "csp_Duanju",
-            "name": "🎭┃短剧┃视频",
+            "key": "秒播短剧",
+            "name": "🧀秒播┃短剧",
             "type": 3,
-            "api": "csp_Duanju",
-            "playerType": "2",
-            "searchable": 0
+            "api": "csp_Wexduanjuvop",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
         },
         {
-            "key": "csp_Duanju",
-            "name": "🎭短剧",
-            "type": 3,
-            "api": "csp_Duanju",
+            "key": "短剧1",
+            "name": "🐞短剧1┃短剧",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": "http://aiduanju.vip/"
+            "categories": [
+                "短剧"
+            ]
         },
         {
-            "key": "世界",
-            "name": "分享世界短剧",
+            "key": "短剧2",
+            "name": "🐞短剧2┃短剧",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://106.52.241.21:83/api.php/app/"
-        },
-        {
-            "key": "种子短剧",
-            "name": "🍒┃短剧┃种子",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-            "playerType": 2
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "短剧$42",
+                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
+            }
         },
         {
             "key": "alist",
@@ -501,19 +521,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_FirstAid",
-            "name": "🚑┃急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            },
-            "gridview": "0-0-4.1"
-        },
-        {
             "key": "在线┃直播1",
             "name": "📺┃竞技┃直播",
             "type": 3,
@@ -551,45 +558,6 @@
             "ext": "http://dt.xn--yety82d.love/js/310直播.js"
         },
         {
-            "key": "七夜",
-            "name": "🌖┃七夜┃网盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_Pansou",
-            "name": "🚢┃盘搜┃网盘",
-            "type": 3,
-            "api": "csp_Pansou",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_PanSearch",
-            "name": "🚃┃盘搜┃网盘2",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_UpYun",
-            "name": "🍒┃Up搜┃网盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_aisou",
-            "name": "🔭┃爱搜┃夸克",
-            "type": 3,
-            "api": "csp_AiPanSo",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
             "key": "drpy_哔哩",
             "name": "🅱┃哔哩┃合集",
             "type": 3,
@@ -598,7 +566,20 @@
             "ext": "http://dt.xn--yety82d.love/js/B站.js"
         },
         {
-            "key": "dr_兔小贝",
+            "key": "csp_FirstAid",
+            "name": "🚑┃急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
+        },
+        {
+            "key": "🐇┃兔小贝",
             "name": "兔小贝",
             "type": 3,
             "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
@@ -678,8 +659,176 @@
             "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
         },
         {
+            "key": "小灯塔科学",
+            "name": "🌏小灯塔科学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔科学.json"
+        },
+        {
+            "key": "小灯塔地理",
+            "name": "🌏小灯塔地理",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔地理.json"
+        },
+        {
+            "key": "小灯塔百科",
+            "name": "🌏小灯塔百科",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔百科.json"
+        },
+        {
+            "key": "小灯塔国学",
+            "name": "🌏小灯塔国学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/小灯塔国学.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": " 🧒儿童｜口才",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童口才.json"
+        },
+        {
+            "key": "儿童拼音",
+            "name": " 🧒儿童｜拼音",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": " 🧒儿童｜识字",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童识字.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": " 🧒儿童｜思维",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童思维.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": " 🧒儿童｜英语",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": " 🧒儿童｜硬笔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童硬笔.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": " 🧒儿童｜编程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": " 🧒儿童｜武术",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://o.nxog.top/m/Bilibili/儿童武术.json"
+        },
+        {
+            "key": "应用商店",
+            "name": "🆗【影视应用商店】",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
+        {
+            "key": "七夜",
+            "name": "🌖┃七夜┃网盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_Pansou",
+            "name": "🚢┃盘搜┃网盘",
+            "type": 3,
+            "api": "csp_Pansou",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_PanSearch",
+            "name": "🚃┃盘搜┃网盘2",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_UpYun",
+            "name": "🍒┃Up搜┃网盘",
+            "type": 3,
+            "api": "csp_UpYun",
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_aisou",
+            "name": "🔭┃爱搜┃夸克",
+            "type": 3,
+            "api": "csp_AiPanSo",
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
             "key": "push_agent",
-            "name": "关注公众号：肥猫宝贝",
+            "name": "温馨提示：个人使用",
             "type": 3,
             "api": "csp_Push",
             "playerType": "1",
@@ -783,14 +932,6 @@
             "ua": "okhttp/3.15",
             "type": 0,
             "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv4.txt",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "直播备用2",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://wzsvip.github.io/ipv4.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
