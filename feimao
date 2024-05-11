@@ -215,13 +215,6 @@
             "playerType": 2
         },
         {
-            "key": "白嫖",
-            "name": "🌅┃白嫖┃影视",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": "2"
-        },
-        {
             "key": "saohuo",
             "name": "👗┃骚火┃影视",
             "type": 3,
@@ -398,35 +391,6 @@
             "api": "csp_Duanju",
             "playerType": "2",
             "searchable": 0
-        },
-        {
-            "key": "csp_Duanju",
-            "name": "🎭短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://aiduanju.vip/"
-        },
-        {
-            "key": "世界",
-            "name": "分享世界短剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://106.52.241.21:83/api.php/app/"
-        },
-        {
-            "key": "种子短剧",
-            "name": "🍒┃短剧┃种子",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-            "playerType": 2
         },
         {
             "key": "alist",
@@ -677,6 +641,15 @@
             },
             "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
         },
+    {
+      "key": "应用商店",
+      "name": "🆗【影视应用商店】",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+    },
         {
             "key": "push_agent",
             "name": "关注公众号：肥猫宝贝",
