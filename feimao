@@ -418,20 +418,6 @@
             "ext": "https://www.voflix.me/"
         },
         {
-            "key": "无忧短剧",
-            "name": "🌈无忧┃短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "timeout": 10
-        },
-        {
             "key": "秒播短剧",
             "name": "🧀秒播┃短剧",
             "type": 3,
@@ -593,7 +579,7 @@
             "gridview": "0-0-4.1"
         },
         {
-            "key": "dr_兔小贝",
+            "key": "🐇┃兔小贝",
             "name": "兔小贝",
             "type": 3,
             "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
