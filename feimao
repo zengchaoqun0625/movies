@@ -109,6 +109,20 @@
             "ext": "http://api2.rinhome.com"
         },
         {
+            "key": "荐片弹幕版",
+            "name": "👍️荐片┃蓝光┃弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 20
+        },
+        {
             "key": "csp_Vidhub2",
             "name": "🎼┃Vid┃影视",
             "type": 3,
@@ -116,6 +130,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "素白白",
+            "name": "🐻‍❄️素白┃秒播",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "🪁明日┃蓝光",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "厂长",
@@ -385,6 +417,29 @@
             "ext": "https://www.voflix.me/"
         },
         {
+            "key": "无忧短剧",
+            "name": "🌈无忧┃短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "timeout": 10
+        },
+        {
+            "key": "秒播短剧",
+            "name": "🧀秒播┃短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "短剧1",
             "name": "🐞短剧1┃短剧",
             "type": 1,
@@ -479,19 +534,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_FirstAid",
-            "name": "🚑┃急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            },
-            "gridview": "0-0-4.1"
-        },
-        {
             "key": "在线┃直播1",
             "name": "📺┃竞技┃直播",
             "type": 3,
@@ -529,51 +571,25 @@
             "ext": "http://dt.xn--yety82d.love/js/310直播.js"
         },
         {
-            "key": "七夜",
-            "name": "🌖┃七夜┃网盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_Pansou",
-            "name": "🚢┃盘搜┃网盘",
-            "type": 3,
-            "api": "csp_Pansou",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_PanSearch",
-            "name": "🚃┃盘搜┃网盘2",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_UpYun",
-            "name": "🍒┃Up搜┃网盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
-            "key": "csp_aisou",
-            "name": "🔭┃爱搜┃夸克",
-            "type": 3,
-            "api": "csp_AiPanSo",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-        },
-        {
             "key": "drpy_哔哩",
             "name": "🅱┃哔哩┃合集",
             "type": 3,
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "playerType": 1,
             "ext": "http://dt.xn--yety82d.love/js/B站.js"
+        },
+        {
+            "key": "csp_FirstAid",
+            "name": "🚑┃急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
         },
         {
             "key": "dr_兔小贝",
@@ -783,6 +799,45 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
+        {
+            "key": "七夜",
+            "name": "🌖┃七夜┃网盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_Pansou",
+            "name": "🚢┃盘搜┃网盘",
+            "type": 3,
+            "api": "csp_Pansou",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_PanSearch",
+            "name": "🚃┃盘搜┃网盘2",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_UpYun",
+            "name": "🍒┃Up搜┃网盘",
+            "type": 3,
+            "api": "csp_UpYun",
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "csp_aisou",
+            "name": "🔭┃爱搜┃夸克",
+            "type": 3,
+            "api": "csp_AiPanSo",
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
         },
         {
             "key": "push_agent",
