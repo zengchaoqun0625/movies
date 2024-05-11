@@ -787,14 +787,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播备用2",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://wzsvip.github.io/ipv4.txt",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "直播全球",
             "ua": "okhttp/3.15",
             "type": 0,
