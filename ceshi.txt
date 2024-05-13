@@ -25,7 +25,7 @@
             "api": "csp_Wexduanjuvop",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt"
         },
         {
             "key": "Wexduanjuvmp",
@@ -34,7 +34,7 @@
             "api": "csp_Wexduanjuvmp",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt"
         },
         {
             "key": "Wexhanjutv",
@@ -43,7 +43,7 @@
             "api": "csp_Wexhanjutv",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt"
         },
         {
             "key": "相声小品",
