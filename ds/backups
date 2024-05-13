@@ -923,7 +923,7 @@
             "name": "直播综合",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/aptv-lives.txt",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/aptv-lives.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -931,7 +931,7 @@
             "name": "直播备用",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv4.txt",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -939,7 +939,7 @@
             "name": "直播全球",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://tang.serv00.net/zb/tv?type=169&token=235b2292",
+            "url": "https://tang.hz.cz/zb/tv?type=169&token=235b2292",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -971,7 +971,7 @@
             "name": "直播V6",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv6.txt",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv6.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
