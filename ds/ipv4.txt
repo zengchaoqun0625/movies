@@ -1,5 +1,4 @@
 .央视频道,#genre#
-爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
 CCTV1,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
 CCTV2,http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8
 CCTV3,http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8
@@ -58,6 +57,7 @@ CCTV15,http://live.nctv.top/8/bfgd.php?id=133
 CCTV17,http://live.nctv.top/8/bfgd.php?id=204
 
 .卫视频道,#genre#
+爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 河南卫视,http://218.29.135.5:4000/udp/225.1.4.254:1300
 北京卫视,http://1.24.190.98:10080/hls/68/index.m3u8
