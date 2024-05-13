@@ -18,38 +18,33 @@
             "playerType": 2,
             "searchable": 0
         },
-          {
-      "key": "Wexduanjuvop",
-      "name": "🌸短劇┃秒播┃直连",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuvmp",
-      "name": "🌸短劇┃极品┃直连",
-      "type": 3,
-      "api": "csp_Wexduanjuvmp",
-      "searchable": 1,
-      "changeable": 1
-    },
-       {
-      "key": "Wexhanjutv",
-      "name": "🇰🇷韩剧┃TV┃App",
-      "type": 3,
-      "api": "csp_Wexhanjutv",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Fangniu4k",
-      "name": "👎放牛┃TV┃App",
-      "type": 3,
-      "api": "csp_WexFangniu4k",
-      "searchable": 1,
-      "changeable": 1
-    },
+        {
+            "key": "Wexduanjuvop",
+            "name": "🌸短劇┃秒播┃直连",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+        },
+        {
+            "key": "Wexduanjuvmp",
+            "name": "🌸短劇┃极品┃直连",
+            "type": 3,
+            "api": "csp_Wexduanjuvmp",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+        },
+        {
+            "key": "Wexhanjutv",
+            "name": "🇰🇷韩剧┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexhanjutv",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"
+        },
         {
             "key": "相声小品",
             "name": "🍓相声小品",
