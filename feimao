@@ -6,14 +6,14 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "彭哈哈",
+            "name": "🌕️彭哈哈",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣",
-            "name": "🐼┃豆瓣┃预告",
+            "name": "🌕️┃豆瓣┃预告",
             "type": 3,
             "api": "csp_YGP",
             "playerType": 2,
@@ -38,6 +38,15 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"
+        },
+        {
+            "key": "秒播短剧",
+            "name": "🧀秒播┃短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "nangua",
@@ -171,13 +180,6 @@
             "ext": "http://rzys.xyz/"
         },
         {
-            "key": "csp_Freeok",
-            "name": "️️👌┃FreeOK┃影视",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_Freeok"
-        },
-        {
             "key": "csp_Nmys",
             "name": "🌾┃农民┃影视",
             "type": 3,
@@ -205,13 +207,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "FreeOK",
-            "name": "️️👌┃Fre┃影视",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
         },
         {
             "key": "哔嘀",
@@ -337,6 +332,28 @@
             "ext": "http://我不是.肥猫.live/json/虎虎.json"
         },
         {
+            "key": "天天开心",
+            "name": "😆天天开心┃4K纯净",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.摸鱼儿.top/by/api/天天开心.php"
+        },
+        {
+            "key": "影探蓝光",
+            "name": "🕵️影探┃蓝光┃纯净",
+            "type": 3,
+            "api": "csp_App",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
+        },
+        {
             "key": "黑狐",
             "name": "🦊┃黑狐┃影视",
             "type": 3,
@@ -419,15 +436,6 @@
             "ext": "https://www.voflix.me/"
         },
         {
-            "key": "秒播短剧",
-            "name": "🧀秒播┃短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "短剧1",
             "name": "🐞短剧1┃短剧",
             "type": 1,
@@ -448,16 +456,6 @@
                 "分类": "短剧$42",
                 "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
             }
-        },
-        {
-            "key": "alist",
-            "name": "🍰┃小鸭┃网盘",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://alist.xn--z7x900a.live/alist.json"
         },
         {
             "key": "csp_BookTing",
@@ -780,13 +778,45 @@
             "ext": "http://o.nxog.top/m/Bilibili/儿童武术.json"
         },
         {
-            "key": "应用商店",
-            "name": "🆗【影视应用商店】",
+            "key": "登录",
+            "name": "☁️云盘┃登录┃设置",
             "type": 3,
-            "api": "csp_Market",
+            "api": "csp_AliYunPan",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+        },
+        {
+            "key": "弹幕配置",
+            "name": "⚙️弹幕┃高级┃设置",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
+            "key": "doudouxie",
+            "name": "🐋玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_Wogg",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "wogg": true,
+                "danmu": true
+            },
+            "timeout": 30
         },
         {
             "key": "七夜",
@@ -826,6 +856,25 @@
             "timeout": 30,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+        },
+        {
+            "key": "alist",
+            "name": "🍰┃小鸭┃网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://alist.xn--z7x900a.live/alist.json"
+        },
+        {
+            "key": "应用商店",
+            "name": "🆗【影视应用商店】",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
             "key": "push_agent",
