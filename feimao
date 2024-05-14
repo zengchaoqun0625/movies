@@ -2,6 +2,7 @@
     "spider": "http://dt.xn--yety82d.love/jar/PandaQ240509.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "warningText": "观影愉快，天天开心哦♥",
+    "logo": "https://gitee.com/huaitingpeng/movies/raw/main/logo/haiwa.png",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -37,15 +38,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"
-        },
-        {
-            "key": "秒播短剧",
-            "name": "🧀秒播┃短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "nangua",
@@ -425,6 +417,15 @@
             "api": "csp_Voflix",
             "playerType": "2",
             "ext": "https://www.voflix.me/"
+        },
+        {
+            "key": "秒播短剧",
+            "name": "🧀秒播┃短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "短剧1",
