@@ -874,7 +874,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+            "ext": "https://gitee.com/huaitingpeng/movies/raw/main/app/apks.json"
         },
         {
             "key": "push_agent",
