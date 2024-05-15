@@ -1,10 +1,26 @@
 [
     {
-        "name": "推薦",
+        "name": "推荐",
         "list": [
             {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/fenhongmao.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/fenhongmao.png"
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/1.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/1.png"
+            },
+            {
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/2.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/2.png"
+            },
+            {
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/3.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/3.png"
+            },
+            {
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/4.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/4.png"
+            },
+            {
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/5.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/5.png"
             }
         ]
     },
