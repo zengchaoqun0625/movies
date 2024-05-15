@@ -1,0 +1,193 @@
+[
+    {
+        "name": "推薦",
+        "list": [
+            {
+                "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
+                "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+            }
+        ]
+    },
+    {
+        "name": "OK正式版",
+        "list": [
+            {
+                "name": "电视-java",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            }
+        ]
+    },
+    {
+        "name": "OK测试版",
+        "list": [
+            {
+                "name": "电视-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            }
+        ]
+    },
+    {
+        "name": "蜂蜜版",
+        "list": [
+            {
+                "name": "电视-java",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            }
+        ]
+    },
+    {
+        "name": "辅助工具",
+        "list": [
+            {
+                "name": "欢视助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/huanshi.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "抓包工具",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "我的电视",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/mytv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            }
+        ]
+    }
+]
