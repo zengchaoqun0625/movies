@@ -3,8 +3,8 @@
         "name": "推薦",
         "list": [
             {
-                "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
-                "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/fenhongmao.png",
+                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/fenhongmao.png"
             }
         ]
     },
@@ -177,6 +177,12 @@
                 "version": "v2.0"
             },
             {
+                "name": "当贝桌面",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/dangbei_4.1.7.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
                 "name": "抓包工具",
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
@@ -186,7 +192,7 @@
                 "name": "影视-海信版",
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/ok-haixin-2.3.3.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v2.0"
+                "version": "v2.3"
             }
         ]
     }
