@@ -183,8 +183,8 @@
                 "version": "v2.0"
             },
             {
-                "name": "我的电视",
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/mytv.apk",
+                "name": "影视-海信版",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/ok-haixin-2.3.3.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "v2.0"
             }
