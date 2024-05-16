@@ -50,7 +50,7 @@
         },
         {
             "key": "应用商店",
-            "name": "🍥彭的┃应用商店",
+            "name": "🐏彭的┃应用商店",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -209,7 +209,7 @@
             "filterable": 1
         },
         {
-            "key": "T4-安博",
+            "key": "🐏安博┃影视",
             "name": "安博(T4)",
             "type": 4,
             "api": "https://tang.hz.cz/power/ub1818?token=8726be0d",
@@ -220,7 +220,7 @@
             "ext": true
         },
         {
-            "key": "4KHDR",
+            "key": "🐐4K┃HDR",
             "name": "4KHDR",
             "type": 3,
             "api": "csp_XYQHiker",
