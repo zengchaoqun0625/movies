@@ -132,6 +132,18 @@
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "v2.0"
             },
+			{
+                "name": "clash-meta",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+			{
+                "name": "SmartTube-tv",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/SmartTube-tv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
             {
                 "name": "抓包工具",
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
