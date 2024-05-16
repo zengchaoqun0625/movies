@@ -271,7 +271,7 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 
 
 
-.港澳台,#genre#
+.港澳频道,#genre#
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
