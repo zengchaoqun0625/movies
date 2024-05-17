@@ -1,4 +1,24 @@
 .央视频道,#genre#
+
+CCTV1,http://live.nctv.top/8/bfgd.php?id=488
+CCTV2,http://live.nctv.top/8/bfgd.php?id=061
+CCTV3,http://live.nctv.top/8/bfgd.php?id=062
+CCTV4,http://live.nctv.top/8/bfgd.php?id=063
+CCTV5,http://live.nctv.top/8/bfgd.php?id=064
+CCTV5+,http://live.nctv.top/8/bfgd.php?id=246
+CCTV6,http://live.nctv.top/8/bfgd.php?id=065
+CCTV7,http://live.nctv.top/8/bfgd.php?id=127
+CCTV8,http://live.nctv.top/8/bfgd.php?id=066
+CCTV9,http://live.nctv.top/8/bfgd.php?id=128
+CCTV10,http://live.nctv.top/8/bfgd.php?id=129
+CCTV11,http://live.nctv.top/8/bfgd.php?id=130
+CCTV12,http://live.nctv.top/8/bfgd.php?id=131
+CCTV13,http://live.nctv.top/8/bfgd.php?id=067
+CCTV14,http://live.nctv.top/8/bfgd.php?id=132
+CCTV15,http://live.nctv.top/8/bfgd.php?id=133
+CCTV17,http://live.nctv.top/8/bfgd.php?id=204
+
+
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
 CCTV2,http://www.8700956.top:18888/rtp/239.81.1.003:4056
 CCTV3,http://www.8700956.top:18888/rtp/239.81.1.004:4056
@@ -31,25 +51,6 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 
 
-CCTV1,http://61.52.212.221:8181/udp/225.1.4.73:1102
-CCTV2,http://61.52.212.221:8181/udp/225.1.4.74:1103
-CCTV3,http://61.52.212.221:8181/udp/225.1.4.158:1194
-CCTV4,http://61.52.212.221:8181/udp/225.1.5.30:1333
-CCTV5,http://61.52.212.221:8181/udp/225.1.4.159:1195
-CCTV5+,http://61.52.212.221:8181/udp/225.1.4.75:1104
-CCTV6,http://61.52.212.221:8181/udp/225.1.4.160:1196
-CCTV7,http://61.52.212.221:8181/udp/225.1.4.76:1105
-CCTV8,http://61.52.212.221:8181/udp/225.1.4.161:1197
-CCTV9,http://61.52.212.221:8181/udp/225.1.4.77:1106
-CCTV10,http://61.52.212.221:8181/udp/225.1.4.78:1107
-CCTV11,http://61.52.212.221:8181/udp/225.1.4.215:1268
-CCTV12,http://61.52.212.221:8181/udp/225.1.4.79:1108
-CCTV13,http://61.52.212.221:8181/udp/225.1.4.113:1293
-CCTV14,http://61.52.212.221:8181/udp/225.1.4.80:1109
-CCTV15,http://61.52.212.221:8181/udp/225.1.4.216:1269
-CCTV16,http://61.52.212.221:8181/udp/225.1.5.46:1356
-CCTV17,http://61.52.212.221:8181/udp/225.1.4.226:2506
-
 
 CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
 CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
@@ -66,10 +67,49 @@ CCTV-11 戏曲,http://183.92.4.163:4000/udp/228.0.0.242:6108
 CCTV-12 社会与法,http://183.92.4.163:4000/udp/228.0.0.12:6108
 CCTV-13 新闻,http://183.92.4.163:4000/udp/228.0.0.202:6108
 CCTV-14 少儿,http://183.92.4.163:4000/udp/228.0.0.14:6108
-CCTV-15 音乐,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV-16 奥林匹克,http://183.92.4.163:4000/udp/228.0.0.249:6108
 CCTV-17 农业农村,http://183.92.4.163:4000/udp/228.0.0.161:7161
 
+CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
+CCTV2,http://live.nctv.top/8/bestv.php?id=cctv2
+CCTV3,http://live.nctv.top/8/bestv.php?id=cctv3
+CCTV4,http://live.nctv.top/8/bestv.php?id=cctv4
+CCTV5,http://live.nctv.top/8/bestv.php?id=cctv5
+CCTV5+,http://live.nctv.top/8/bestv.php?id=cctv5p
+CCTV5+,http://live.nctv.top/8/bestv.php?id=cctv5p2
+CCTV6,http://live.nctv.top/8/bestv.php?id=cctv6
+CCTV7,http://live.nctv.top/8/bestv.php?id=cctv7
+CCTV8,http://live.nctv.top/8/bestv.php?id=cctv8
+CCTV9,http://live.nctv.top/8/bestv.php?id=cctv9
+CCTV10,http://live.nctv.top/8/bestv.php?id=cctv10
+CCTV11,http://live.nctv.top/8/bestv.php?id=cctv11
+CCTV12,http://live.nctv.top/8/bestv.php?id=cctv12
+CCTV13,http://live.nctv.top/8/bestv.php?id=cctv13
+CCTV14,http://live.nctv.top/8/bestv.php?id=cctv14
+CCTV15,http://live.nctv.top/8/bestv.php?id=cctv15
+CCTV16,http://live.nctv.top/8/bestv.php?id=cctv16
+CCTV164k,http://live.nctv.top/8/bestv.php?id=cctv164k
+CCTV17,http://live.nctv.top/8/bestv.php?id=cctv17
+CCTV4K,http://live.nctv.top/8/bestv.php?id=cctv4k
+
+CCTV1,http://live.nctv.top/8/cqyx.php?id=cctv1
+CCTV2,http://live.nctv.top/8/cqyx.php?id=cctv2
+CCTV3,http://live.nctv.top/8/cqyx.php?id=cctv3
+CCTV4,http://live.nctv.top/8/cqyx.php?id=cctv4
+CCTV5,http://live.nctv.top/8/cqyx.php?id=cctv5
+CCTV5+,http://live.nctv.top/8/cqyx.php?id=cctv5p
+CCTV6,http://live.nctv.top/8/cqyx.php?id=cctv6
+CCTV7,http://live.nctv.top/8/cqyx.php?id=cctv7
+CCTV8,http://live.nctv.top/8/cqyx.php?id=cctv8
+CCTV9,http://live.nctv.top/8/cqyx.php?id=cctv9
+CCTV10,http://live.nctv.top/8/cqyx.php?id=cctv10
+CCTV11,http://live.nctv.top/8/cqyx.php?id=cctv11
+CCTV12,http://live.nctv.top/8/cqyx.php?id=cctv12
+CCTV13,http://live.nctv.top/8/cqyx.php?id=cctv13
+CCTV14,http://live.nctv.top/8/cqyx.php?id=cctv14
+CCTV15,http://live.nctv.top/8/cqyx.php?id=cctv15
+CCTV16,http://live.nctv.top/8/cqyx.php?id=cctv16
+CCTV17,http://live.nctv.top/8/cqyx.php?id=cctv17
 
 
 CCTV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000489
