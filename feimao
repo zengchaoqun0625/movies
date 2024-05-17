@@ -57,6 +57,42 @@
             "changeable": 0,
             "ext": "https://gitee.com/huaitingpeng/movies/raw/main/app/apks.json"
         },
+		{
+      "key": "Wexhanxiaoquan",
+      "name": "🇰🇷韩圈┃TV┃App",
+      "type": 3,
+      "api": "csp_Wexhanxiaoquan",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+    },
+    {
+      "key": "Wexhanjutv",
+      "name": "🇰🇷韩剧┃TV┃App",
+      "type": 3,
+      "api": "csp_Wexhanjutv",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+    },
+	    {
+      "key": "Wexxiongdiys",
+      "name": "👬基友┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+    },
+    {
+      "key": "Wexhuayang",
+      "name": "🌺花花┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexhuayang",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+    },
         {
             "key": "nangua",
             "name": "🎃┃南瓜┃影视",
@@ -509,28 +545,26 @@
             "playerType": "2",
             "ext": "https://www.voflix.me/"
         },
-        {
-            "key": "短剧1",
-            "name": "🐞短剧1┃短剧",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧"
-            ]
-        },
-        {
-            "key": "短剧2",
-            "name": "🐞短剧2┃短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类": "短剧$42",
-                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
-            }
-        },
+		{
+			"key": "Wexduanjuvop",
+			"name": "🌸短剧┃秒播",
+			"type": 3,
+			"api": "csp_Wexduanjuvop",
+			"jar": "./jar/wex-5-14.txt",
+			"searchable": 1,
+			"changeable": 1,
+			"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+		},
+		{
+			"key": "Wexduanjuvmp",
+			"name": "🌸短剧┃极品",
+			"jar": "./jar/wex-5-14.txt",
+			"type": 3,
+			"api": "csp_Wexduanjuvmp",
+			"searchable": 1,
+			"changeable": 1,
+			"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+		},
         {
             "key": "csp_BookTing",
             "name": "📚┃听书┃音频",
