@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/feimao",
+            "url": "https://gitee.com/huaitingpeng/movies/raw/main/feimao",
             "name": "💛曾江涛💛"
         },
         {
@@ -39,14 +39,14 @@
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "💛神器💛"
-       },
-       {
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "💛巧儿💛"
-       },
-       {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "💛云星💛"
-       }
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "💛摸鱼💛"
+        }
     ]
 }
