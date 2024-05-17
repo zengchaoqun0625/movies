@@ -1,4 +1,15 @@
 
+
+
+
+
+https://github.com/cutethotw/ClashRule?tab=readme-ov-file   配置转换
+
+
+
+
+
+
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
 https://agit.ai/Yoursmile7/TVBox/src/branch/master/live.txt
 
