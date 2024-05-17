@@ -68,18 +68,9 @@
     },
     {
       "key": "Wexhanjutv",
-      "name": "🇰🇷韩剧┃TV┃App",
+      "name": "🇰🇷韩剧┃TV",
       "type": 3,
       "api": "csp_Wexhanjutv",
-      "searchable": 1,
-      "changeable": 1,
-	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
-    },
-	    {
-      "key": "Wexxiongdiys",
-      "name": "👬基友┃影视┃App",
-      "type": 3,
-      "api": "csp_Wexxiongdiys",
       "searchable": 1,
       "changeable": 1,
 	  "jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
