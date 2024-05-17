@@ -51,7 +51,6 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 
 
-
 CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
 CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
 CCTV-3 综艺,http://183.92.4.163:4000/udp/228.0.0.156:7156
@@ -110,6 +109,14 @@ CCTV14,http://live.nctv.top/8/cqyx.php?id=cctv14
 CCTV15,http://live.nctv.top/8/cqyx.php?id=cctv15
 CCTV16,http://live.nctv.top/8/cqyx.php?id=cctv16
 CCTV17,http://live.nctv.top/8/cqyx.php?id=cctv17
+怀旧剧场,http://live.nctv.top/8/cqyx.php?id=hjjc
+风云剧场,http://live.nctv.top/8/cqyx.php?id=fyjc
+风云音乐,http://live.nctv.top/8/cqyx.php?id=fyyy
+风云足球,http://live.nctv.top/8/cqyx.php?id=fyzq
+央视文化精品,http://live.nctv.top/8/cqyx.php?id=whjp
+女性时尚,http://live.nctv.top/8/cqyx.php?id=nxss
+高尔夫网球,http://live.nctv.top/8/cqyx.php?id=gefwq
+央视台球,http://live.nctv.top/8/cqyx.php?id=ystq
 
 
 CCTV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6239DD00U319F204BK783FF8A8I5469B86EP2BF4M3640F28V0Z339C9W16DEBA3F9A6203F0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000489
