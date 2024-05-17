@@ -3,7 +3,7 @@
 
 
 
-https://github.com/cutethotw/ClashRule?tab=readme-ov-file   配置转换
+https://github.com/cutethotw/ClashRule?tab=readme-ov-file   clash配置转换
 
 
 
@@ -182,9 +182,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/qq1719
 
 
 https://github.com/wokaotianshi123/tvtg   牛逼借鉴
-
-
-
+https://github.com/aa123jg/tvbox/blob/a9437d2f05b145b09b76dd4977128c56af6f05fd/wyyk/wyyk.json
+https://github.com/ZZVIP/pg/blob/690b939f259b4c8c00cbc2e81b83cd29fac96b03/jsm.json
+https://github.com/mcp2016/TVBox/blob/c173c1680fc6585671b8ce0ca8164ee93db561c5/backup/%E5%A4%9A%E5%A4%9A%E2%94%83%E6%94%BE%E7%89%9B%E7%BA%BF%E8%B7%AF.json
 
 
 {
