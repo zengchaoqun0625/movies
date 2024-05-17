@@ -1,22 +1,5 @@
 .央视频道,#genre#
 
-CCTV1,http://live.nctv.top/8/bfgd.php?id=488
-CCTV2,http://live.nctv.top/8/bfgd.php?id=061
-CCTV3,http://live.nctv.top/8/bfgd.php?id=062
-CCTV4,http://live.nctv.top/8/bfgd.php?id=063
-CCTV5,http://live.nctv.top/8/bfgd.php?id=064
-CCTV5+,http://live.nctv.top/8/bfgd.php?id=246
-CCTV6,http://live.nctv.top/8/bfgd.php?id=065
-CCTV7,http://live.nctv.top/8/bfgd.php?id=127
-CCTV8,http://live.nctv.top/8/bfgd.php?id=066
-CCTV9,http://live.nctv.top/8/bfgd.php?id=128
-CCTV10,http://live.nctv.top/8/bfgd.php?id=129
-CCTV11,http://live.nctv.top/8/bfgd.php?id=130
-CCTV12,http://live.nctv.top/8/bfgd.php?id=131
-CCTV13,http://live.nctv.top/8/bfgd.php?id=067
-CCTV14,http://live.nctv.top/8/bfgd.php?id=132
-CCTV15,http://live.nctv.top/8/bfgd.php?id=133
-CCTV17,http://live.nctv.top/8/bfgd.php?id=204
 
 
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
@@ -50,24 +33,46 @@ CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 
+CCTV1,http://live.nctv.top/8/bfgd.php?id=488
+CCTV2,http://live.nctv.top/8/bfgd.php?id=061
+CCTV3,http://live.nctv.top/8/bfgd.php?id=062
+CCTV4,http://live.nctv.top/8/bfgd.php?id=063
+CCTV5,http://live.nctv.top/8/bfgd.php?id=064
+CCTV5+,http://live.nctv.top/8/bfgd.php?id=246
+CCTV6,http://live.nctv.top/8/bfgd.php?id=065
+CCTV7,http://live.nctv.top/8/bfgd.php?id=127
+CCTV8,http://live.nctv.top/8/bfgd.php?id=066
+CCTV9,http://live.nctv.top/8/bfgd.php?id=128
+CCTV10,http://live.nctv.top/8/bfgd.php?id=129
+CCTV11,http://live.nctv.top/8/bfgd.php?id=130
+CCTV12,http://live.nctv.top/8/bfgd.php?id=131
+CCTV13,http://live.nctv.top/8/bfgd.php?id=067
+CCTV14,http://live.nctv.top/8/bfgd.php?id=132
+CCTV15,http://live.nctv.top/8/bfgd.php?id=133
+CCTV17,http://live.nctv.top/8/bfgd.php?id=204
 
-CCTV-1 综合,http://183.92.4.163:4000/udp/228.0.0.1:6108
-CCTV-2 财经,http://183.92.4.163:4000/udp/228.0.0.2:6108
-CCTV-3 综艺,http://183.92.4.163:4000/udp/228.0.0.156:7156
-CCTV-4 中文国际,http://183.92.4.163:4000/udp/228.0.0.143:7143
-CCTV-5 体育,http://183.92.4.163:4000/udp/228.0.0.112:6108
-CCTV-5+ 体育赛事,http://183.92.4.163:4000/udp/228.0.0.17:6108
-CCTV-6 电影,http://183.92.4.163:4000/udp/228.0.0.157:7157
-CCTV-7 国防军事,http://183.92.4.163:4000/udp/228.0.0.7:6108
-CCTV-8 电视剧,http://183.92.4.163:4000/udp/228.0.0.158:7158
-CCTV-9 纪录,http://183.92.4.163:4000/udp/228.0.0.9:6108
-CCTV-10 科教,http://183.92.4.163:4000/udp/228.0.0.10:6108
-CCTV-11 戏曲,http://183.92.4.163:4000/udp/228.0.0.242:6108
-CCTV-12 社会与法,http://183.92.4.163:4000/udp/228.0.0.12:6108
-CCTV-13 新闻,http://183.92.4.163:4000/udp/228.0.0.202:6108
-CCTV-14 少儿,http://183.92.4.163:4000/udp/228.0.0.14:6108
-CCTV-16 奥林匹克,http://183.92.4.163:4000/udp/228.0.0.249:6108
-CCTV-17 农业农村,http://183.92.4.163:4000/udp/228.0.0.161:7161
+
+
+
+CCTV1,http://183.92.4.163:4000/udp/228.0.0.1:6108
+CCTV2,http://183.92.4.163:4000/udp/228.0.0.2:6108
+CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
+CCTV4,http://183.92.4.163:4000/udp/228.0.0.143:7143
+CCTV5,http://183.92.4.163:4000/udp/228.0.0.112:6108
+CCTV5+,http://183.92.4.163:4000/udp/228.0.0.17:6108
+CCTV6,http://183.92.4.163:4000/udp/228.0.0.157:7157
+CCTV7,http://183.92.4.163:4000/udp/228.0.0.7:6108
+CCTV8,http://183.92.4.163:4000/udp/228.0.0.158:7158
+CCTV9,http://183.92.4.163:4000/udp/228.0.0.9:6108
+CCTV10,http://183.92.4.163:4000/udp/228.0.0.10:6108
+CCTV11,http://183.92.4.163:4000/udp/228.0.0.242:6108
+CCTV12,http://183.92.4.163:4000/udp/228.0.0.12:6108
+CCTV13,http://183.92.4.163:4000/udp/228.0.0.202:6108
+CCTV14儿,http://183.92.4.163:4000/udp/228.0.0.14:6108
+CCTV16,http://183.92.4.163:4000/udp/228.0.0.249:6108
+CCTV17,http://183.92.4.163:4000/udp/228.0.0.161:7161
+
+
 
 CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
 CCTV2,http://live.nctv.top/8/bestv.php?id=cctv2
