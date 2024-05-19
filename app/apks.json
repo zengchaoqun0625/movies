@@ -197,6 +197,18 @@
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "v2.0"
+            },
+			{
+                "name": "K歌-IKTV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/iktv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+			{
+                "name": "哔哩哔哩-TV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/bilibilitv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
             }
         ]
     }
