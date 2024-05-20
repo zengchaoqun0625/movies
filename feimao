@@ -1,5 +1,5 @@
 {
-    "spider": "http://dt.xn--yety82d.love/jar/PandaQ240509.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
+    "spider": "https://cloud.lxweb.cn/f/PqLDfb/PandaQ240520.jar;md5;A54D8706E2F3965271EB8503BD8EBE82",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "warningText": "观影愉快，天天开心哦♥",
     "logo": "https://gitee.com/huaitingpeng/movies/raw/main/logo/20240514105448.gif",
@@ -71,6 +71,24 @@
             "name": "🇰🇷韩剧┃影视",
             "type": 3,
             "api": "csp_Wexhanjutv",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+        },
+        {
+            "key": "Wexciyuancheng",
+            "name": "🤡元城┃番剧",
+            "type": 3,
+            "api": "csp_Wexciyuancheng",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
+        },
+        {
+            "key": "Wexxifan",
+            "name": "🤡喜翻┃番剧",
+            "type": 3,
+            "api": "csp_Wexxifan",
             "searchable": 1,
             "changeable": 1,
             "jar": "https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"
@@ -379,14 +397,6 @@
             "ext": "http://dt.xn--yety82d.love/js/爱看.js"
         },
         {
-            "key": "云播影视",
-            "name": "☁️┃云播┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
-        },
-        {
             "key": "小蚂蚁",
             "name": "🐜┃蚂蚁┃影视",
             "type": 3,
@@ -444,11 +454,13 @@
             "ext": "http://dt.xn--yety82d.love/js/奇优.js"
         },
         {
-            "key": "虎虎",
-            "name": "🐯┃虎虎┃影视",
+            "key": "胖虎",
+            "name": "🐯┃胖虎┃影视",
             "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://我不是.肥猫.live/json/虎虎.json"
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "天天开心",
