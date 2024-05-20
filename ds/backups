@@ -139,13 +139,6 @@
             "ext": "https://www.80yy3.com/"
         },
         {
-            "key": "csp_Nkdy",
-            "name": "🏔┃耐看┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Nkdy"
-        },
-        {
             "key": "csp_Czys",
             "name": "🍊┃橙汁┃影视",
             "type": 3,
@@ -356,15 +349,6 @@
             "playerType": "1"
         },
         {
-            "key": "毛驴",
-            "name": "🦙┃毛驴┃影视",
-            "type": 3,
-            "api": "csp_MaoLv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "兄弟",
             "name": "👯┃兄弟┃影视",
             "type": 3,
@@ -372,13 +356,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_GanFan",
-            "name": "🍙┃干饭┃影视",
-            "type": 3,
-            "api": "csp_GanFan",
-            "playerType": 2
         },
         {
             "key": "saohuo",
@@ -397,13 +374,6 @@
             "ext": "http://dt.xn--yety82d.love/js/爱看.js"
         },
         {
-            "key": "小蚂蚁",
-            "name": "🐜┃蚂蚁┃影视",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/小蚂蚁2.js"
-        },
-        {
             "key": "csp_Xb6v",
             "name": "🐤┃6V磁力┃影视",
             "type": 3,
@@ -420,58 +390,12 @@
             "filterable": 0
         },
         {
-            "key": "开心",
-            "name": "🥰️┃开心┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rihou.vip:55/lib/开心HK影视.json"
-        },
-        {
-            "key": "小胡",
-            "name": "🍈️┃小胡┃影视",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/小胡.js",
-            "playerType": 2
-        },
-        {
             "key": "低端",
             "name": "🛣┃低端┃影视",
             "type": 3,
             "playerType": "2",
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/ddys.js"
-        },
-        {
-            "key": "奇优",
-            "name": "🍩┃奇优┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/奇优.js"
-        },
-        {
-            "key": "胖虎",
-            "name": "🐯┃胖虎┃影视",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "天天开心",
-            "name": "😆天天开心┃4K纯净",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://我不是.摸鱼儿.top/by/api/天天开心.php"
         },
         {
             "key": "影探蓝光",
@@ -485,46 +409,11 @@
             "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
         },
         {
-            "key": "黑狐",
-            "name": "🦊┃黑狐┃影视",
+            "key": "FreeOK",
+            "name": "️️👌┃Fre┃影视",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext": {
-                "站名": "黑狐影院",
-                "主页url": "http://fagmn.com",
-                "数组": "class=\"stui-vodlist__box\"&&</a",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-                "过滤词": "/hls/#php",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-                "搜索模式": "1",
-                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索后缀": "/view/",
-                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-                "状态": "地区：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "简介：&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "免嗅": "0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-            }
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
         },
         {
             "key": "csp_SC1080",
