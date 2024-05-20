@@ -456,6 +456,98 @@
             "ext": "https://www.voflix.me/"
         },
         {
+            "key": "JOJO",
+            "name": "🍭JOJO┃影视",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "文才影视",
+            "name": "📖文才┃蓝光┃纯净",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_xBPQ_wencai",
+            "name": "📖文才┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=文才"
+        },
+        {
+            "key": "小苹果",
+            "name": "🍎苹果┃弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 15
+        },
+        {
+            "key": "苹果",
+            "name": "🍎苹果┃影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "春秋蝉",
+            "name": "🍁春秋┃影视",
+            "type": 3,
+            "api": "csp_chunqiu",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "素白白",
+            "name": "🙄素白┃影视",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "七味影视",
+            "name": "🌿七味┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=七味"
+        },
+        {
+            "key": "星辰影",
+            "name": "🌟星辰┃影视",
+            "type": 3,
+            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=星辰"
+        },
+        {
             "key": "Wexduanjuvop",
             "name": "🌸短剧┃秒播",
             "type": 3,
@@ -988,7 +1080,7 @@
             "name": "直播备用",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv4.txt",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv4.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -1028,7 +1120,7 @@
             "name": "直播V6",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/zengchaoqun0625/movies@main/ds/ipv6.txt",
+            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv6.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
