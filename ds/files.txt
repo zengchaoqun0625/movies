@@ -18,9 +18,7 @@ https://agit.ai/Yoursmile7/TVBox/src/branch/master/live.txt
 
 http://ww.weidonglong.com/dsj.txt
 
-http://home.jundie.top:81/Cat/tv/live.txt   pg俊佬
 
-http://xhztv.top/zbc.txt
 
 
 部分IPv4、部分IPv6 源：
@@ -47,9 +45,10 @@ https://iptv.org.ua/iptv/avto-full.m3u    武哥
 
 http://152.32.170.60/alanchaotang/if/src/commit/a451929a1480848f0276e6acaed94f03bdc43f7c/X.json   
 https://pastebin.com/raw/tuXBQs7U
-https://tang.serv00.net/zb/
-https://ykq001.serv00.net/live/
 
+
+
+http://xhztv.top/zbc.txt
 http://live.nctv.top/x.png  阿剑
 http://kxys.site:55/lib/kx2024.txt 天天
 http://8.210.232.168/ygbh.txt   https://github.com/guot55/yg 月光  
@@ -76,17 +75,11 @@ https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json
 https://github.com/Ftindy/IPTV-URL
 
 
-https://dxawi.github.io/0/0.json
-https://liu673cn.github.io/box/m.json
-https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
+
 
 
 https://github.com/LinWei0718/iptvtw/blob/main/maotv.txt
-
-
 http://home.jundie.top:81/Cat/tv/live.txt
-
-
 https://v2rayshare.com/wp-content/uploads/2024/05/20240515.txt
 
 
