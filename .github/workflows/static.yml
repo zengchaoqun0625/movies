@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'https://zengchaoqun0625.github.io/index.html'
+          path: 'https://zengchaoqun0625.github.io/movies'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
