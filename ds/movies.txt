@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/huaitingpeng/movies/raw/main/feimao",
+            "url": "https://xiaopeng.love/feimao",
             "name": "💛曾江涛💛"
         },
         {
