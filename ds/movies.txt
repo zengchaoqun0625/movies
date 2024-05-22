@@ -37,8 +37,8 @@
             "name": "💛欧歌💛"
         },
         {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "💛神器💛"
+            "url": "https://100km.top/0",
+            "name": "💛骚零💛"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
