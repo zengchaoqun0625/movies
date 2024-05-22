@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt;md5;aaed7918b3aae5960726413304c4f6c2",
+  "spider": "./wex.txt;md5;aaed7918b3aae5960726413304c4f6c2",
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715933222614/animation.gif",
   "sites": [
@@ -11,7 +11,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+      "ext": "./lib/douban.json"
     },
     {
       "key": "应用商店",
@@ -30,7 +30,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+      "ext": "./lib/douban.json"
     },
     {
       "key": "Wexconfig",
@@ -551,35 +551,35 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/qie.json"
+      "ext": "./lib/qie.json"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🦄奇珍┃异兽┃直采",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "🌱酷酷┃的腾┃直采",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "☁️腾云┃驾雾┃直采",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🍑百忙┃无果┃直采",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
     },
     {
       "key": "Wexciyuancheng",
@@ -643,7 +643,8 @@
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/9d713e64-9eea-4a35-9ffb-7cf764f0a184/token.txt"
     },
     {
       "key": "雲搜",
@@ -651,7 +652,8 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/9d713e64-9eea-4a35-9ffb-7cf764f0a184/token.txt"
     },
     {
       "key": "盤搜",
@@ -659,7 +661,8 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/9d713e64-9eea-4a35-9ffb-7cf764f0a184/token.txt"
     },
     {
       "key": "盤搜索",
@@ -667,7 +670,8 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/9d713e64-9eea-4a35-9ffb-7cf764f0a184/token.txt"
     },
     {
       "key": "搜吧",
@@ -691,7 +695,8 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/9d713e64-9eea-4a35-9ffb-7cf764f0a184/token.txt"
     }
   ],
   "parses": [
@@ -917,7 +922,7 @@
     {
       "name": "综合1",
       "type": 0,
-      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
+      "url": "./lib/live1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -926,7 +931,7 @@
     {
       "name": "综合2",
       "type": 0,
-      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt",
+      "url": "./lib/live2.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -935,7 +940,7 @@
     {
       "name": "综合3",
       "type": 0,
-      "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt",
+      "url": "./lib/wexiptv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -944,7 +949,7 @@
     {
       "name": "IPV4",
       "type": 0,
-      "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt",
+      "url": "./lib/wexlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
