@@ -33,7 +33,7 @@
             "name": "💛饭总💛"
         },
         {
-            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
             "name": "💛欧歌💛"
         },
         {
