@@ -6,6 +6,7 @@
 	--guigui-color-3: #afafaf;
 	--guigui-FadeIn-Animation: fadeIn .35s ease-in-out both;
 	--guigui-FadeOut-Animation: fadeOut .35s ease-in-out both;
+	border: 1px solid rgba(128, 128, 128, 0.5) !important;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -28,12 +29,14 @@
 	top: 0;
 	width: 100%;
 	height: 100vh
+	border: 1px solid rgba(128, 128, 128, 0.5) !important;
 }
 
 .guigui-mainBox .guigui-masking {
 	-webkit-background-color: var(--guigui-color-0);
 	background-color: var(--guigui-color-0);
-	z-index: 998
+	z-index: 998;
+	border: 1px solid rgba(128, 128, 128, 0.5) !important;
 }
 
 .guigui-fadeOutDiv {
@@ -151,7 +154,7 @@
 	font-size: 1em;
 	-webkit-background-color: var(--guigui-color-0);
 	background-color: var(--guigui-color-0);
-	color: var(--guigui-color-1);
+	color: var(--guigui-color-0);
 	z-index: 1000;
 	-webkit-transition: left .35s;
 	-o-transition: left .35s;
