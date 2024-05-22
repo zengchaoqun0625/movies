@@ -74,6 +74,7 @@ http://nctv.top/tv/gt.txt    港澳
 https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json
 https://github.com/Ftindy/IPTV-URL
 https://fel.forxhr.top:2022/down.php/0ae3c92d35ee6597c7e0f78e89e61197.txt    v4
+https://github.com/Kimentanm/aptv  IOSaptv
 
 
 
@@ -82,7 +83,7 @@ https://github.com/LinWei0718/iptvtw/blob/main/maotv.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://v2rayshare.com/wp-content/uploads/2024/05/20240515.txt
 
-
+https://github.com/alantang1977/X/blob/main/%E6%8E%A5%E5%8F%A3%E5%A4%A7%E5%85%A8.en.md   线路大全
 //直播源
 
 "lives": [{"name": "Live","type": 0,"url": "http://live.nctv.top/x.png","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
