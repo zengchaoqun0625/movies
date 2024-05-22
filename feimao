@@ -1,5 +1,5 @@
 {
-    "spider": "https://www.cloudewl.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
+    "spider": "https://www.52tyun.com/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "warningText": "观影愉快，天天开心哦♥",
     "logo": "https://gitee.com/huaitingpeng/movies/raw/main/logo/20240514105448.gif",
@@ -40,11 +40,11 @@
             "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Blixq.json"
         },
         {
-            "key": "秒播短剧",
+            "key": "Wexduanjuhema",
             "name": "🧀秒播┃短剧",
             "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+            "api": "csp_Wexduanjuhema",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt",
             "searchable": 1,
             "changeable": 1
         },
