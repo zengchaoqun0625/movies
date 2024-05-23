@@ -48,10 +48,10 @@
             <div class="clear">
                 <div class="introduct">
                     <img class="avatar" src="https://q1.qlogo.cn/g?b=qq&nk=381203888&s=640">
-                    <p>当你征服了一座山峰时，它已经在你脚下了，你必须再找一座山峰去征服，否则，你只有下山，走下坡路！</p>
-                    <p style="padding-bottom:1em;">How lucky to meet you!</p>
-                    <p>你好，这里是小彭 <sup>fatcat</sup> ，对有趣的世界和可能有趣的你充满好奇，热爱折腾~</p>
-                    <p>希望能与你在比特之海的繁星之下相见！</p>
+                    <p>上一秒想问你牛奶.糖果.布丁.巧克力.果汁.甜甜圈.冰淇淋.要哪一个，下一秒算了算了全都给你~</p>
+                    <p style="padding-bottom:1em;">How lucky to meet you~</p>
+                    <p>你好，这里是小彭 <sup>House</sup> ，对有趣的生活和可能有趣的你充满好奇，热爱世界~</p>
+                    <p>希望能与你在比特之海的繁星之下相见~</p>
                     <div class="chatbox">
                         <div class="line loading"> <span></span>
                             <span></span> <span></span>
@@ -62,7 +62,7 @@
                     <li>
                         <p>颜值</p>
                         <div class="progress">
-                            <div style="width:77%;"></div>
+                            <div style="width:90%;"></div>
                             <span>若非群玉山头见 会向瑶台月下逢</span>
                         </div>
                     </li>
@@ -82,7 +82,7 @@
                     <li>
                         <p>钱包</p>
                         <div class="progress">
-                            <div style="width:35%;"></div>
+                            <div style="width:88%;"></div>
                             <span>手机不贴膜 上厕所不折纸</span>
                         </div>
                     </li>
@@ -243,9 +243,42 @@
         <div class="footer ch">
             <div class="container">
                 <h3>星光满载 初心不改 © 2024 彭哈哈</h3>
-            </div>
-        </div>
-    </div>
+        <!-- 在这里留出一行空白 -->
+        <br>
+<!-- 这里将网站运行时间的内容放置在这个 div 下方 -->
+<div id="timeDate" style="font-family: 'Cursive', cursive; font-size: large;"></div>
+
+<!-- 运行时间的 JavaScript 代码 -->
+<script language="javascript">
+var now = new Date();
+function createtime(){
+    var grt= new Date("05/21/2024 00:00:00"); // 开始时间调整为5月21日
+    now.setTime(now.getTime()+250);
+    days = (now - grt) / 1000 / 60 / 60 / 24;
+    dnum = Math.floor(days);
+    hours = (now - grt) / 1000 / 60 / 60 - (24 * dnum);
+    hnum = Math.floor(hours);
+    if(String(hnum).length == 1) { hnum = "0" + hnum; }
+    minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
+    mnum = Math.floor(minutes);
+    if(String(mnum).length == 1) { mnum = "0" + mnum; }
+    seconds = (now - grt) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+    snum = Math.round(seconds);
+    if(String(snum).length == 1) { snum = "0" + snum; }
+    var timeDate = document.getElementById("timeDate");
+    timeDate.innerHTML = "🤭小彭网站已运行 " + dnum + " 天 " + hnum + " 小时 " + mnum + " 分 " + snum + " 秒喽🤭";
+
+    // 获取文本内容
+    var textContent = timeDate.innerHTML;
+    // 使用正则表达式匹配含有❤表情的内容，并将其颜色修改为红色
+    textContent = textContent.replace(/🤭/g, "<span style='color: red;'>🤭</span>");
+    // 更新内容
+    timeDate.innerHTML = textContent;
+}
+setInterval(createtime, 250);
+createtime();
+</script>
+
 
 
     <script src="js/page.3a0791a3.js"></script>
