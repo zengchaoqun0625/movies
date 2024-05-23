@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u #YanG集合源�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u #范明明源，有部分IPv6
 
 
-
+https://github.com/yoyodadada/haoruanfenxiang/blob/master/List.md    破解
 
 
 
