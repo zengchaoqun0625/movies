@@ -1,13 +1,5 @@
 
-
-
-
-
 https://github.com/cutethotw/ClashRule?tab=readme-ov-file   clash配置转换
-
-
-
-
 
 
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
@@ -32,15 +24,7 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u #范明明
 
 
 
-部分海外源：
-https://epg.pw/test_channels.m3u #中国大陆频道
-https://epg.pw/test_channels_hong_kong.m3u #香港频道
-https://epg.pw/test_channels_macau.m3u #澳门频道
-https://epg.pw/test_channels_taiwan.m3u #台湾频道
-https://iptv-org.github.io/iptv/countries/tw.m3u #台湾频道
-https://epg.pw/test_channels_singapore.m3u #新加坡频道
-https://epg.pw/test_channels_malaysia.m3u #马来西亚频道
-https://iptv.org.ua/iptv/avto-full.m3u    武哥
+
 
 
 http://152.32.170.60/alanchaotang/if/src/commit/a451929a1480848f0276e6acaed94f03bdc43f7c/X.json   
@@ -48,9 +32,10 @@ https://pastebin.com/raw/tuXBQs7U
 
 
 
-http://xhztv.top/zbc.txt
+
 http://live.nctv.top/x.png  阿剑
-http://kxys.site:55/lib/kx2024.txt 天天
+https://gitcode.com/xiaoqi719/yingshi/blob/main/zhibo.txt  小齐
+http://kxys.site:55/lib/kx2024.txt     http://rihou.vip:55/lib/kx2024.txt   天天
 http://8.210.232.168/ygbh.txt   https://github.com/guot55/yg 月光  
 https://github.com/alantang1977/X/tree/main/LIVE 
 https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt   月光宝盒
@@ -70,18 +55,17 @@ https://gitcode.com/henryzhang/01/overview  带港台
 https://gitcode.com/kikkott/01/  小齐
 https://wzsvip.github.io/ipv6.txt
 https://wzsvip.github.io/ipv4.txt   备用
-https://gitcode.com/xiaoqi719/yingshi/blob/main/zhibo.txt  小齐
 http://nctv.top/tv/gt.txt    港澳
 https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json
 https://github.com/Ftindy/IPTV-URL
 https://fel.forxhr.top:2022/down.php/0ae3c92d35ee6597c7e0f78e89e61197.txt    v4
 https://github.com/Kimentanm/aptv  IOSaptv
 https://gitee.com/shangyunvip  殇云vip
-
+http://xhztv.top/zbc.txt
 http://www.52sw.top:678/play/oj/159169.php?get=txt  分享
 
 https://github.com/LinWei0718/iptvtw/blob/main/maotv.txt
-http://home.jundie.top:81/Cat/tv/live.txt
+http://home.jundie.top:81/Cat/tv/live.txt    pg
 https://v2rayshare.com/wp-content/uploads/2024/05/20240515.txt
 
 https://github.com/alantang1977/X/blob/main/%E6%8E%A5%E5%8F%A3%E5%A4%A7%E5%85%A8.en.md   线路大全
