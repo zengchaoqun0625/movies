@@ -139,13 +139,6 @@
             "ext": "https://www.80yy3.com/"
         },
         {
-            "key": "csp_Czys",
-            "name": "🍊┃橙汁┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Czys"
-        },
-        {
             "key": "csp_Juqq",
             "name": "⭕┃剧圈┃影视",
             "type": 3,
@@ -330,15 +323,6 @@
             "jar": "https://fm.t4tv.hz.cz/jar/fm.jar;md5;55c157414346e3ff571baad0a223bf15"
         },
         {
-            "key": "csp_Kuaikan",
-            "name": "👀┃快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "哔嘀",
             "name": "️️💦┃哔嘀┃影视",
             "type": 3,
@@ -366,28 +350,11 @@
             "ext": "http://dt.xn--yety82d.love/js/骚火.js"
         },
         {
-            "key": "爱看影视",
-            "name": "❤┃爱看┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/爱看.js"
-        },
-        {
             "key": "csp_Xb6v",
             "name": "🐤┃6V磁力┃影视",
             "type": 3,
             "api": "csp_Xb6v",
             "playerType": "2"
-        },
-        {
-            "key": "乐乐",
-            "name": "🎡️┃乐乐┃影视",
-            "type": 1,
-            "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "低端",
@@ -407,13 +374,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
-        },
-        {
-            "key": "FreeOK",
-            "name": "️️👌┃Fre┃影视",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
         },
         {
             "key": "csp_SC1080",
@@ -502,16 +462,6 @@
             "name": "🍎苹果┃影视",
             "type": 3,
             "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "春秋蝉",
-            "name": "🍁春秋┃影视",
-            "type": 3,
-            "api": "csp_chunqiu",
-            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
