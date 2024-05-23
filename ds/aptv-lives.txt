@@ -20,11 +20,10 @@ CCTV16,https://itv.lat/tv/live.php?&line=1&id=cctv16
 CCTV17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 CCTV4K,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV16,https://itv.lat/tv/live.php?&line=1&id=cctv164k
-CCTV超清8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
-CCTV超清8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
+CCTV8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
+CCTV8K,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
 CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
-书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
 央视台球,https://hlsliveali-cdn.ysp.cctv.cn/990B5D33F235E26DCD19C8ABE16C480E80BFB7C1D1E545106894DE8FD7FF74A1E879401F9918A252B9D6C8304BA0AB6C528A3FEAB2 DBD35AA5E985AE7E4AC2131BA01FE0BDABDCC3A424923809337FA45CF96E71784FEDEE106F640A9408393A73FE33EA0163ADBF7D1767B4DB25F7FA10E301279D098160465C29 A46371D63F/2012513703.m3u8？来自=玩家&svrtime=1715609539&pid=600170344&cdn=5506&revoi=B9BA288C75EEB202B5995B1B53ED51C904715469107D624232B97C1C 0F5646527C449A7A722311B56E2548E6B3814C49DCB7358D3B6E526C271963A972BB7B4289A6F0FD1B7327E9694BB00AB512CE7C227919BD83D3305BB6F4B1D98D 8B63EE5F98277CC309FB61F911A099050052DA15A64FA4DEE26DA5D1B3C5309CC032D3904538DC5BA128F4928A88E6D701280688C753DE4E78A8D0A855F44227AF798EA8 13A06A748B3FBCF9304228C4620088
 兵器科技,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
 网球网球,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
@@ -48,7 +47,7 @@ CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 世界地理,http://doityoume.x3322.net:5100/rtp/239.69.1.91:10186
 世界地理,http://www.akw323.com:9527/rtp/238.255.2.26:5999
 央视台球,http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
-
+书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
 
 
 
@@ -72,9 +71,9 @@ CCTV14,http://www.8700956.top:18888/rtp/239.81.1.015:4056
 CCTV15,http://www.8700956.top:18888/rtp/239.81.1.016:4056
 CCTV16,http://www.8700956.top:18888/rtp/239.81.1.017:4056
 CCTV17,http://www.8700956.top:18888/rtp/239.81.1.019:4056
-CCTV4K超高清,http://www.8700956.top:18888/rtp/239.81.1.078:4056
-CCTV4K超高清,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV8K超高清,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
+CCTV4K,http://www.8700956.top:18888/rtp/239.81.1.078:4056
+CCTV4K,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV8K,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 第一剧场,http://222.223.118.222:2180/live/dyjc/index.m3u8
 风云音乐,http://222.223.118.222:2180/live/fyyy/index.m3u8
@@ -120,7 +119,7 @@ CCTV10,http://183.92.4.163:4000/udp/228.0.0.10:6108
 CCTV11,http://183.92.4.163:4000/udp/228.0.0.242:6108
 CCTV12,http://183.92.4.163:4000/udp/228.0.0.12:6108
 CCTV13,http://183.92.4.163:4000/udp/228.0.0.202:6108
-CCTV14儿,http://183.92.4.163:4000/udp/228.0.0.14:6108
+CCTV14,http://183.92.4.163:4000/udp/228.0.0.14:6108
 CCTV16,http://183.92.4.163:4000/udp/228.0.0.249:6108
 CCTV17,http://183.92.4.163:4000/udp/228.0.0.161:7161
 
@@ -144,7 +143,7 @@ CCTV13,http://live.nctv.top/8/bestv.php?id=cctv13
 CCTV14,http://live.nctv.top/8/bestv.php?id=cctv14
 CCTV15,http://live.nctv.top/8/bestv.php?id=cctv15
 CCTV16,http://live.nctv.top/8/bestv.php?id=cctv16
-CCTV164k,http://live.nctv.top/8/bestv.php?id=cctv164k
+CCTV16,http://live.nctv.top/8/bestv.php?id=cctv164k
 CCTV17,http://live.nctv.top/8/bestv.php?id=cctv17
 CCTV4K,http://live.nctv.top/8/bestv.php?id=cctv4k
 
