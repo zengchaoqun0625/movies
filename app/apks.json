@@ -168,6 +168,12 @@
     {
         "name": "电视工具",
         "list": [
+		    {
+                "name": "野草助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/野草助手.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
             {
                 "name": "欢视助手",
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/huanshi.apk",
