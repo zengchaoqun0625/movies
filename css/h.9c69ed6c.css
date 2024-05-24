@@ -587,7 +587,7 @@ ul.skill li .progress div {
 	transition: all .2s
 }
 
-#cursor {
+cursor {
     position: fixed;
     width: 18px;
     height: 18px;
@@ -600,11 +600,11 @@ ul.skill li .progress div {
     transition-property: background, opacity, transform;
 }
 
-#cursor.hidden {
+cursor.hidden {
     opacity: 0;
 }
 
-#cursor.active {
+cursor.active {
     opacity: .5;
     transform: scale(.5);
 }
