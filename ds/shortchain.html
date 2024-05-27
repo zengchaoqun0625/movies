@@ -73,7 +73,47 @@
         <div class="step">👀️点击“点播”或“直播”后的按钮可进行切换线路（尽量不切换，都不可观看时再进行切换）</div>
         <div class="step">👀️详细功能使用点击查看链接-<a href="https://qun.qq.com/qqweb/qunpro/share?from=181074&contentID=1HZ3JU&appChannel=share&_wv=3&_wwv=128&businessType=2&shareSource=5&inviteCode=22ISNQ6oLVc&biz=ka" class="link">点击查看详细功能使用</a></div>
     </div>
+<!--
+樱花背景
+-->
 <script src="https://api.vvhan.com/api/script/yinghua"></script>
+    <div id="page_end_html">
+        <script type="text/javascript" charset="utf-8" src="https://files.cnblogs.com/files/liuzhou1/L2Dwidget.0.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://files.cnblogs.com/files/liuzhou1/L2Dwidget.min.js"></script>
+<script>
+    L2Dwidget.init({
+        "model": {
+            jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
+            "scale": 1
+        },
+        "display": {
+            "position": "right",
+            "width": 150,
+            "height": 300,
+            "hOffset": 0,
+            "vOffset": -20,
+            "opacity": 0.5
+        },
+        "mobile": {
+            "show": true,
+            "scale": 0.5
+        },
+        "react": {
+            "opacityDefault": 0.7,
+            "opacityOnHover": 0.2
+        }
+    });
+</script>
+<!--
+模型预览图：https://huaji8.top/post/live2d-plugin-2.0/
+其他可选的模型：
+黑猫：https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json
+可爱同桌：https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json
+白猫：https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json
+小碗狗：https://unpkg.com/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json
+萌娘：https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json
+海军服女生：https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json
+-->
 <script>
         function copyToClipboard(text) {
             const textarea = document.createElement('textarea');
