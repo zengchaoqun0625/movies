@@ -51,6 +51,7 @@
     <h2>🚀️软件安装：（第一步）</h2>
     <div class="section">
         <div class="step">👀️ 电视观看需安装电视版（海信电视需安装海信版）</div>
+        
         <div class="step">👀️ 手机需安装手机版</div>
         <div class="step">👀️ 电视和手机配置方法一致</div>
     </div>
@@ -74,16 +75,22 @@
         <div class="step"><a href="https://qun.qq.com/qqweb/qunpro/share?from=181074&contentID=1HZ3JU&appChannel=share&_wv=3&_wwv=128&businessType=2&shareSource=5&inviteCode=22ISNQ6oLVc&biz=ka" class="link">点击查看详细功能使用</a></div>
     </div>
 
-    <script>
+<script>
         function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(function() {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                document.execCommand('copy');
                 document.getElementById('copyAlert').style.display = 'block';
                 setTimeout(function() {
                     document.getElementById('copyAlert').style.display = 'none';
                 }, 2000);
-            }, function(err) {
+            } catch (err) {
                 console.error('复制失败: ', err);
-            });
+            }
+            document.body.removeChild(textarea);
         }
     </script>
 </body>
