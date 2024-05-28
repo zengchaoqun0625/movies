@@ -339,53 +339,39 @@ createtime();
 </div>
 <!--在线播放器API-->
 <script type="text/javascript" id="myhk" src="https://myhkw.cn/api/player/171634017499" key="171634017499" m="1"></script>
-<!--雪花API-->
-<script src='https://api.vvhan.com/api/snow'></script>
-<!--看板娘-->
-<div id="page_end_html">
-<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.0.min.js"></script>
-<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.min.js"></script>
+ <script src="https://api.vvhan.com/api/snow" defer></script>
+
+<!-- 音乐播放器API -->
+<script type="text/javascript" id="myhk" src="https://myhkw.cn/api/player/171634017499" key="171634017499" m="1" defer></script>
+
+<!-- 看板娘 -->
+<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.0.min.js" defer></script>
+<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.min.js" defer></script>
 <script>
-    L2Dwidget.init({
-        "model": {
-            jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
-            "scale": 1
-        },
-        "display": {
-            "position": "right",
-            "width": 150,
-            "height": 300,
-            "hOffset": 0,
-            "vOffset": -20,
-            "opacity": 0.5
-        },
-        "mobile": {
-            "show": true,
-            "scale": 0.5
-        },
-        "react": {
-            "opacityDefault": 0.7,
-            "opacityOnHover": 0.2
-        }
-    });
-</script>
-<!--
-模型预览图：https://huaji8.top/post/live2d-plugin-2.0/
-其他可选的模型：
-小黑猫：https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json
-可爱同桌：https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json
-小白猫：https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json
-小碗狗：https://unpkg.com/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json
-萌娘：https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json
-海军服女生：https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json
--->
-<script>
-    L2Dwidget.init({
-        "model": { jsonPath: "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json", "scale": 1 },
-        "display": { "position": "left", "width": 75, "height": 150, "hOffset": 0, "vOffset": -20 },
-        "mobile": { "show": true, "scale": 0.5 },
-        "react": { "opacityDefault": 0.7, "opacityOnHover": 0.2 }
-    });
+	document.addEventListener('DOMContentLoaded', function() {
+		L2Dwidget.init({
+			"model": {
+				jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
+				"scale": 1
+			},
+			"display": {
+				"position": "right",
+				"width": 150,
+				"height": 300,
+				"hOffset": 0,
+				"vOffset": -20,
+				"opacity": 0.5
+			},
+			"mobile": {
+				"show": true,
+				"scale": 0.5
+			},
+			"react": {
+				"opacityDefault": 0.7,
+				"opacityOnHover": 0.2
+			}
+		});
+	});
 </script>
 </body>
 
