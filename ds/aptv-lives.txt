@@ -2,7 +2,7 @@
 
 CCTV1,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv1
 CCTV2,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv2
-CCTV,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv3
+CCTV3,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv3
 CCTV4,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv4
 CCTV5,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv5
 CCTV5+,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv5p
