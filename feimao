@@ -1,4 +1,4 @@
-{"spider":"https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082","wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
+{"spider":"https://gitee.com/huaitingpeng/movies/raw/main/jar/panda/85e832f30273e71868b241a45f4c7082.jar","wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "warningText":"观影愉快，天天开心哦♥","logo":"https://gitee.com/huaitingpeng/movies/raw/main/logo/20240514105448.gif",
 
 "sites":[{"key":"drpy_js_豆瓣","name":"🍥彭哈哈","type":3,"api":"csp_Douban","searchable":0},
