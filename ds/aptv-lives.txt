@@ -1,23 +1,24 @@
 .央视频道,#genre#
 
-CCTV1,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv1
-CCTV2,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv2
-CCTV3,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv3
-CCTV4,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv4
-CCTV5,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv5
-CCTV5+,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv5p
-CCTV6,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv6
-CCTV7,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv7
-CCTV8,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv8
-CCTV9,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv9
-CCTV10,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv10
-CCTV11,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv11
-CCTV12,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv12
-CCTV13,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv13
-CCTV14,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv14
-CCTV15,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv15
-CCTV16,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv16
-CCTV17,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cctv17
+CCTV1,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv1
+CCTV2,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv2
+CCTV3,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv3
+CCTV4,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv4
+CCTV5,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv5
+CCTV5+,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv5p
+CCTV6,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv6
+CCTV7,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv7
+CCTV8,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv8
+CCTV9,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv9
+CCTV10,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv10
+CCTV11,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv11
+CCTV12,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv12
+CCTV13,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv13
+CCTV14,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv14
+CCTV15,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv15
+CCTV16,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv16
+CCTV17,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cctv17
+
 CCTV4K,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV4K,http://live.nctv.top/8/bestv.php?id=cctv4k
 CCTV16,https://itv.lat/tv/live.php?&line=1&id=cctv164k
@@ -32,44 +33,6 @@ CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 
 
 
-CCTV1,http://live.nctv.top/8/cqyx.php?id=cctv1
-CCTV2,http://live.nctv.top/8/cqyx.php?id=cctv2
-CCTV3,http://live.nctv.top/8/cqyx.php?id=cctv3
-CCTV4,http://live.nctv.top/8/cqyx.php?id=cctv4
-CCTV5,http://live.nctv.top/8/cqyx.php?id=cctv5
-CCTV5+,http://live.nctv.top/8/cqyx.php?id=cctv5p
-CCTV6,http://live.nctv.top/8/cqyx.php?id=cctv6
-CCTV7,http://live.nctv.top/8/cqyx.php?id=cctv7
-CCTV8,http://live.nctv.top/8/cqyx.php?id=cctv8
-CCTV9,http://live.nctv.top/8/cqyx.php?id=cctv9
-CCTV10,http://live.nctv.top/8/cqyx.php?id=cctv10
-CCTV11,http://live.nctv.top/8/cqyx.php?id=cctv11
-CCTV12,http://live.nctv.top/8/cqyx.php?id=cctv12
-CCTV13,http://live.nctv.top/8/cqyx.php?id=cctv13
-CCTV14,http://live.nctv.top/8/cqyx.php?id=cctv14
-CCTV15,http://live.nctv.top/8/cqyx.php?id=cctv15
-CCTV16,http://live.nctv.top/8/cqyx.php?id=cctv16
-CCTV17,http://live.nctv.top/8/cqyx.php?id=cctv17
-怀旧剧场,http://live.nctv.top/8/cqyx.php?id=hjjc
-风云剧场,http://live.nctv.top/8/cqyx.php?id=fyjc
-风云音乐,http://live.nctv.top/8/cqyx.php?id=fyyy
-风云足球,http://live.nctv.top/8/cqyx.php?id=fyzq
-央视文化精品,http://live.nctv.top/8/cqyx.php?id=whjp
-女性时尚,http://live.nctv.top/8/cqyx.php?id=nxss
-高尔夫网球,http://live.nctv.top/8/cqyx.php?id=gefwq
-央视台球,http://live.nctv.top/8/cqyx.php?id=ystq
-
-
-
-
-
-
-
-央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
-央视台球,https://hlsliveali-cdn.ysp.cctv.cn/990B5D33F235E26DCD19C8ABE16C480E80BFB7C1D1E545106894DE8FD7FF74A1E879401F9918A252B9D6C8304BA0AB6C528A3FEAB2 DBD35AA5E985AE7E4AC2131BA01FE0BDABDCC3A424923809337FA45CF96E71784FEDEE106F640A9408393A73FE33EA0163ADBF7D1767B4DB25F7FA10E301279D098160465C29 A46371D63F/2012513703.m3u8？来自=玩家&svrtime=1715609539&pid=600170344&cdn=5506&revoi=B9BA288C75EEB202B5995B1B53ED51C904715469107D624232B97C1C 0F5646527C449A7A722311B56E2548E6B3814C49DCB7358D3B6E526C271963A972BB7B4289A6F0FD1B7327E9694BB00AB512CE7C227919BD83D3305BB6F4B1D98D 8B63EE5F98277CC309FB61F911A099050052DA15A64FA4DEE26DA5D1B3C5309CC032D3904538DC5BA128F4928A88E6D701280688C753DE4E78A8D0A855F44227AF798EA8 13A06A748B3FBCF9304228C4620088
-兵器科技,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-网球网球,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-卫生健康,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 
 第一剧场,http://doityoume.x3322.net:5100/rtp/239.69.1.74:10084
 第一剧场,http://www.akw323.com:9527/rtp/238.255.2.25:5999
@@ -111,6 +74,26 @@ CCTV14,http://222.223.118.222:2180/live/cctv14/index.m3u8
 CCTV15,http://222.223.118.222:2180/live/cctv15/index.m3u8
 
 
+CCTV1,http://222.223.118.222:2180/live/cctv1/index.m3u8
+CCTV2,http://222.223.118.222:2180/live/cctv2/index.m3u8
+CCTV3,http://222.223.118.222:2180/live/cctv3/index.m3u8
+CCTV4,http://222.223.118.222:2180/live/cctv4/index.m3u8
+CCTV5,http://222.223.118.222:2180/live/cctv5/index.m3u8
+CCTV5+,http://222.223.118.222:2180/live/cctv5q/index.m3u8
+CCTV6,http://222.223.118.222:2180/live/cctv6/index.m3u8
+CCTV7,http://222.223.118.222:2180/live/cctv7/index.m3u8
+CCTV8,http://222.223.118.222:2180/live/cctv8/index.m3u8
+CCTV9,http://222.223.118.222:2180/live/cctv9/index.m3u8
+CCTV10,http://222.223.118.222:2180/live/cctv10/index.m3u8
+CCTV11,http://222.223.118.222:2180/live/cctv11/index.m3u8
+CCTV12,http://222.223.118.222:2180/live/cctv12/index.m3u8
+CCTV13,http://222.223.118.222:2180/live/cctv13/index.m3u8
+CCTV14,http://222.223.118.222:2180/live/cctv14/index.m3u8
+CCTV15,http://222.223.118.222:2180/live/cctv15/index.m3u8
+
+
+
+
 
 
 CCTV1,http://www.8700956.top:18888/rtp/239.81.1.002:4056
@@ -144,23 +127,6 @@ CCTV8K,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 
-CCTV1,http://live.nctv.top/8/bfgd.php?id=488
-CCTV2,http://live.nctv.top/8/bfgd.php?id=061
-CCTV3,http://live.nctv.top/8/bfgd.php?id=062
-CCTV4,http://live.nctv.top/8/bfgd.php?id=063
-CCTV5,http://live.nctv.top/8/bfgd.php?id=064
-CCTV5+,http://live.nctv.top/8/bfgd.php?id=246
-CCTV6,http://live.nctv.top/8/bfgd.php?id=065
-CCTV7,http://live.nctv.top/8/bfgd.php?id=127
-CCTV8,http://live.nctv.top/8/bfgd.php?id=066
-CCTV9,http://live.nctv.top/8/bfgd.php?id=128
-CCTV10,http://live.nctv.top/8/bfgd.php?id=129
-CCTV11,http://live.nctv.top/8/bfgd.php?id=130
-CCTV12,http://live.nctv.top/8/bfgd.php?id=131
-CCTV13,http://live.nctv.top/8/bfgd.php?id=067
-CCTV14,http://live.nctv.top/8/bfgd.php?id=132
-CCTV15,http://live.nctv.top/8/bfgd.php?id=133
-CCTV17,http://live.nctv.top/8/bfgd.php?id=204
 
 
 
@@ -239,39 +205,58 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 河南卫视,http://218.29.135.5:4000/udp/225.1.4.254:1300
 
 
+北京卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=bjws
+东方卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=dfws
+天津卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=tjws
+重庆卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=cqws
+黑龙江卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hljws
+吉林卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=jlws
+辽宁卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=lnws
+内蒙古卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=nmws
+宁夏卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=nxws
+青海卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=qhws
+河北卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hbws
+山西卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=sxiws
+安徽卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=ahws
+河南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hnws
+湖北卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hubws
+湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hunws
+江西卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=jxws
+江苏卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=jsws
+浙江卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=zjws
+东南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=dnws
+广东卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=gdws
+深圳卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=szws
+广西卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=gxws
+云南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=ynws
+贵州卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=gzws
+四川卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=scws
 
-河北卫视,http://zy.otioi.cn/live/place.php?id=hebws
-北京卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=bjws
-东方卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=dfws
-天津卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=tjws
-重庆卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=cqws
-黑龙江卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hljws
-吉林卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=jlws
-辽宁卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=lnws
-内蒙古卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=nmws
-宁夏卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=nxws
-青海卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=qhws
-河北卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hbws
-山西卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=sxiws
-安徽卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=ahws
-河南卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hnws
-湖北卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hubws
-湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hunws
-江西卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=jxws
-江苏卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=jsws
-浙江卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=zjws
-东南卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=dnws
-广东卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=gdws
-深圳卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=szws
-广西卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=gxws
-云南卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=ynws
-贵州卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=gzws
-四川卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=scws
-新疆卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=xjws
-兵团卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=btws
-西藏卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=xzws
-海南卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=hinws
-三沙卫视,http://zy.otioi.cn/live/cqyx.php?token=0VkiaCZthP&id=ssws
+浙江卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=zjws
+东方卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=dfws
+辽宁卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=llws
+北京卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=bjws
+贵州卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=gzws
+重庆卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=cqws
+云南卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=ynwx
+安徽卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=ahws
+江西卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=jxws
+吉林卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=jlws
+天津卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=tjws
+广西卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=gxws
+四川卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=scws
+湖北卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=hbws
+陕西卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=sxws
+江苏卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=jsws
+东南卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=dnws
+黑龙江卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=hljws
+广东卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=gdws
+山东卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=sdwd
+湖南经视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=hnjs
+湖南公共,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=hngg
+湖南卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=hnws
+河南卫视,http://zy.otioi.cn/live/live.php?token=TNWgKfIu&id=henws
+
 
 
 
@@ -415,31 +400,6 @@ CETV4,http://www.8700956.top:18888/rtp/239.81.0.188:4056
 
 
 
-北京卫视,http://61.52.212.221:8181/udp/225.1.4.81:1110
-湖南卫视,http://61.52.212.221:8181/udp/225.1.4.82:1111
-江苏卫视,http://61.52.212.221:8181/udp/225.1.4.83:1112
-浙江卫视,http://61.52.212.221:8181/udp/225.1.4.84:1113
-东方卫视,http://61.52.212.221:8181/udp/225.1.4.85:1114
-天津卫视),http://61.52.212.221:8181/udp/225.1.4.86:1115
-山东卫视,http://61.52.212.221:8181/udp/225.1.4.88:1117
-安徽卫视),http://61.52.212.221:8181/udp/225.1.4.87:1116
-湖北卫视),http://61.52.212.221:8181/udp/225.1.4.89:1118
-深圳卫视,http://61.52.212.221:8181/udp/225.1.4.90:1119
-黑龙江卫视,http://61.52.212.221:8181/udp/225.1.4.91:1120
-贵州卫视),http://61.52.212.221:8181/udp/225.1.4.122:1302
-河北卫视),http://61.52.212.221:8181/udp/225.1.4.123:1304
-江西卫视,http://61.52.212.221:8181/udp/225.1.4.139:1305
-四川卫视,http://61.52.212.221:8181/udp/225.1.4.151:1306
-云南卫视,http://61.52.212.221:8181/udp/225.1.4.152:1307
-重庆卫视,http://61.52.212.221:8181/udp/225.1.4.157:1308
-广东卫视,http://61.52.212.221:8181/udp/225.1.4.166:1207
-辽宁卫视,http://61.52.212.221:8181/udp/225.1.4.167:1208
-吉林卫视,http://61.52.212.221:8181/udp/225.1.4.174:1309
-海南卫视,http://61.52.212.221:8181/udp/225.1.4.195:1310
-东南卫视,http://61.52.212.221:8181/udp/225.1.4.228:1274
-CHC高清电影,http://61.52.212.221:8181/udp/225.1.4.207:1260
-CHC动作电影,http://61.52.212.221:8181/udp/225.1.4.208:1261
-CHC家庭影院,http://61.52.212.221:8181/udp/225.1.4.209:1262
 
 
 
