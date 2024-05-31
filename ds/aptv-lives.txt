@@ -28,49 +28,6 @@ CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 
 
 
-CCTV1,http://www.yao87.com:4022/udp/239.76.253.151:9000
-CCTV1,http://www.yao87.com:4022/udp/239.76.251.87:9000
-CCTV2,http://www.yao87.com:4022/udp/239.76.253.152:9000
-CCTV3,http://www.yao87.com:4022/udp/239.76.253.153:9000
-CCTV3,http://www.yao87.com:4022/udp/239.76.246.153:1234
-CCTV4,http://www.yao87.com:4022/udp/239.76.253.95:9000
-CCTV4,http://www.yao87.com:4022/udp/239.76.253.154:9000
-CCTV4,http://www.yao87.com:4022/udp/239.76.246.154:1234
-CCTV4,http://www.yao87.com:4022/udp/239.76.245.195:1234
-CCTV5+,http://www.yao87.com:4022/udp/239.76.251.38:9000
-CCTV5+,http://www.yao87.com:4022/udp/239.76.253.168:9000
-CCTV5+,http://www.yao87.com:4022/udp/239.76.251.88:9000
-CCTV5+,http://www.yao87.com:4022/udp/239.76.247.215:1234
-CCTV5,http://www.yao87.com:4022/udp/239.76.253.155:9000
-CCTV5,http://www.yao87.com:4022/udp/239.76.247.214:1234
-CCTV5,http://www.yao87.com:4022/udp/239.76.246.155:1234
-CCTV6,http://www.yao87.com:4022/udp/239.76.253.156:9000
-CCTV6,http://www.yao87.com:4022/udp/239.76.246.156:1234
-CCTV7,http://www.yao87.com:4022/udp/239.76.253.157:9000
-CCTV7,http://www.yao87.com:4022/udp/239.76.246.157:1234
-CCTV8,http://www.yao87.com:4022/udp/239.76.253.158:9000
-CCTV8,http://www.yao87.com:4022/udp/239.76.246.158:1234
-CCTV9,http://www.yao87.com:4022/udp/239.76.253.159:9000
-CCTV9,http://www.yao87.com:4022/udp/239.76.246.159:1234
-CCTV10,http://www.yao87.com:4022/udp/239.76.246.160:1234
-CCTV11,http://www.yao87.com:4022/udp/239.76.252.251:9000
-CCTV11,http://www.yao87.com:4022/udp/239.76.245.251:1234
-CCTV12,http://www.yao87.com:4022/udp/239.76.253.162:9000
-CCTV12,http://www.yao87.com:4022/udp/239.76.246.162:1234
-CCTV13,http://www.yao87.com:4022/udp/239.76.253.93:9000
-CCTV13,http://www.yao87.com:4022/udp/239.76.251.84:9000
-CCTV14,http://www.yao87.com:4022/udp/239.76.253.164:9000
-CCTV15,http://www.yao87.com:4022/udp/239.76.252.252:9000
-CCTV15,http://www.yao87.com:4022/udp/239.76.245.252:1234
-CCTV164K,http://www.yao87.com:4022/udp/239.76.254.200:9000
-CCTV164K,http://www.yao87.com:4022/udp/239.76.253.230:9000
-CCTV164K,http://www.yao87.com:4022/udp/239.76.247.200:1234
-CCTV16,http://www.yao87.com:4022/udp/239.76.253.98:9000
-CCTV16,http://www.yao87.com:4022/udp/239.76.246.98:1234
-CCTV16,http://www.yao87.com:4022/udp/239.76.246.168:1234
-CCTV17,http://www.yao87.com:4022/udp/239.76.252.238:9000
-CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234
-
 
 CCTV1,http://live.nctv.top/886/cqyx.php?token=&id=cctv1
 CCTV2,http://live.nctv.top/886/cqyx.php?token=&id=cctv2
@@ -655,100 +612,6 @@ CETV4,http://www.8700956.top:18888/rtp/239.81.0.188:4056
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-民视台湾台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv001
-民视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv002
-民视第一台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv003
-民视综艺,https://alvin.serv00.net/litv.php?id=4gtv-4gtv004
-猪哥亮歌厅秀,https://alvin.serv00.net/litv.php?id=4gtv-4gtv006
-中天新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv009
-非凡新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv010
-影迷數位電影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv011
-視納華仁紀實頻道,https://alvin.serv00.net/litv.php?id=4gtv-4gtv013
-时尚运动X,https://alvin.serv00.net/litv.php?id=4gtv-4gtv014
-GLOBETROTTER,https://alvin.serv00.net/litv.php?id=4gtv-4gtv016
-amc电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv017
-达文西频道,https://alvin.serv00.net/litv.php?id=4gtv-4gtv018
-八大精彩台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv034
-八大综艺台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv039
-中视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv040
-华视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv041
-公视戏剧,https://alvin.serv00.net/litv.php?id=4gtv-4gtv042
-客家电视台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv043
-靖天卡通台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv044
-靖洋戏剧台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv045
-靖天综合台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv046
-靖天日本台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv047
-非凡商业,https://alvin.serv00.net/litv.php?id=4gtv-4gtv048
-采昌影剧,https://alvin.serv00.net/litv.php?id=4gtv-4gtv049
-台视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv051
-华视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv052
-GinxTV,https://alvin.serv00.net/litv.php?id=4gtv-4gtv053
-靖天欢乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv054
-靖天映画,https://alvin.serv00.net/litv.php?id=4gtv-4gtv055
-台视财经,https://alvin.serv00.net/litv.php?id=4gtv-4gtv056
-靖洋卡通台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv057
-靖天戏剧台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv058
-古典音乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv059
-靖天电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv061
-靖天育乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv062
-靖天国际台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv063
-中视菁采,https://alvin.serv00.net/litv.php?id=4gtv-4gtv064
-靖天资讯台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv065
-台视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv066
-tvbs精采台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv067
-tvbs欢乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv068
-爱尔达娱乐,https://alvin.serv00.net/litv.php?id=4gtv-4gtv070
-tvbs新闻台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv072
-tvbs,https://alvin.serv00.net/litv.php?id=4gtv-4gtv073
-中视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv074
-镜新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv075
-CATCHPLAY电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv076
-TRACE SPORTS STARS,https://alvin.serv00.net/litv.php?id=4gtv-4gtv077
-阿里郎,https://alvin.serv00.net/litv.php?id=4gtv-4gtv079
-中视经典,https://alvin.serv00.net/litv.php?id=4gtv-4gtv080
-TRACE URBAN,https://alvin.serv00.net/litv.php?id=4gtv-4gtv082
-MEZZO LIVE,https://alvin.serv00.net/litv.php?id=4gtv-4gtv083
-国会频道1,https://alvin.serv00.net/litv.php?id=4gtv-4gtv084
-国会频道2,https://alvin.serv00.net/litv.php?id=4gtv-4gtv085
-智林体育台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv101
-国际财经,https://alvin.serv00.net/litv.php?id=4gtv-4gtv104
-第1商業台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv109
-东森新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv152
-东森财经新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv153
-民视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv155
-民视台湾台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv156
-
-美国之音,https://alvin.serv00.net/litv.php?id=litv-ftv03
-民视旅游,https://alvin.serv00.net/litv.php?id=litv-ftv07
-民视影剧,https://alvin.serv00.net/litv.php?id=litv-ftv09
-半岛新闻,https://alvin.serv00.net/litv.php?id=litv-ftv10
-民视新闻台,https://alvin.serv00.net/litv.php?id=litv-ftv13
-爱放动漫,https://alvin.serv00.net/litv.php?id=litv-ftv15
-好消息,https://alvin.serv00.net/litv.php?id=litv-ftv16
-好消息2台,https://alvin.serv00.net/litv.php?id=litv-ftv17
-
-龙华卡通,https://alvin.serv00.net/litv.php?id=litv-longturn01
-龙华电影,https://alvin.serv00.net/litv.php?id=litv-longturn03
-博斯魅力,https://alvin.serv00.net/litv.php?id=litv-longturn04
-博斯高球1,https://alvin.serv00.net/litv.php?id=litv-longturn05
-博斯高球2,https://alvin.serv00.net/litv.php?id=litv-longturn06
-博斯运动1,https://alvin.serv00.net/litv.php?id=litv-longturn07
-博斯运动2,https://alvin.serv00.net/litv.php?id=litv-longturn08
-博斯网球,https://alvin.serv00.net/litv.php?id=litv-longturn09
-博斯无限,https://alvin.serv00.net/litv.php?id=litv-longturn10
-龙华日韩,https://alvin.serv00.net/litv.php?id=litv-longturn11
-龙华偶像,https://alvin.serv00.net/litv.php?id=litv-longturn12
-博斯无限2,https://alvin.serv00.net/litv.php?id=litv-longturn13
-寰宇新闻台,https://alvin.serv00.net/litv.php?id=litv-longturn14
-寰宇新闻台湾台,https://alvin.serv00.net/litv.php?id=litv-longturn15
-亚洲旅游台,https://alvin.serv00.net/litv.php?id=litv-longturn17
-龙华戏剧,https://alvin.serv00.net/litv.php?id=litv-longturn18
-Smart知识台,https://alvin.serv00.net/litv.php?id=litv-longturn19
-生活英语台,https://alvin.serv00.net/litv.php?id=litv-longturn20
-龙华经典,https://alvin.serv00.net/litv.php?id=litv-longturn21
-台湾戏剧台,https://alvin.serv00.net/litv.php?id=litv-longturn22
-
-
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -2795,138 +2658,100 @@ Animax HK,p2p://108.181.20.159:41357/6506d1a00000a99a33d7555a4b747caa
 
 
 
-.体育频道,#genre#
-Arena Bola,mitv://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
-Astro Arena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-Astro Supersport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro Supersport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro Supersport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro Supersport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-Astro Supersport 5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-BeiN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-BeiN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-BeiN Sports 3,mitv://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-Eurosport HD,mitv://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
-J Sports 2,mitv://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,mitv://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,mitv://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-Sky Sports Arena,mitv://generationnexxxt.com:19806/65791ef8000e15953163ffb52b633954
-Sky Sports Cricket,mitv://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
-Sky Sports F1,mitv://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
-Sky Sports Football,mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-Sky Sports Golf,mitv://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
-Sky Sports Main Event,mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
-Sky Sports Mix,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
-Skynet Sports,mitv://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
-Skynet Sports 2,mitv://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
-Skynet Sports 5,mitv://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
-Skynet Sports 6,mitv://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-SPOTV,mitv://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+.安博频道,#genre#
+民视台湾台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv001
+民视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv002
+民视第一台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv003
+民视综艺,https://alvin.serv00.net/litv.php?id=4gtv-4gtv004
+猪哥亮歌厅秀,https://alvin.serv00.net/litv.php?id=4gtv-4gtv006
+中天新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv009
+非凡新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv010
+影迷數位電影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv011
+視納華仁紀實頻道,https://alvin.serv00.net/litv.php?id=4gtv-4gtv013
+时尚运动X,https://alvin.serv00.net/litv.php?id=4gtv-4gtv014
+GLOBETROTTER,https://alvin.serv00.net/litv.php?id=4gtv-4gtv016
+amc电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv017
+达文西频道,https://alvin.serv00.net/litv.php?id=4gtv-4gtv018
+八大精彩台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv034
+八大综艺台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv039
+中视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv040
+华视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv041
+公视戏剧,https://alvin.serv00.net/litv.php?id=4gtv-4gtv042
+客家电视台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv043
+靖天卡通台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv044
+靖洋戏剧台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv045
+靖天综合台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv046
+靖天日本台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv047
+非凡商业,https://alvin.serv00.net/litv.php?id=4gtv-4gtv048
+采昌影剧,https://alvin.serv00.net/litv.php?id=4gtv-4gtv049
+台视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv051
+华视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv052
+GinxTV,https://alvin.serv00.net/litv.php?id=4gtv-4gtv053
+靖天欢乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv054
+靖天映画,https://alvin.serv00.net/litv.php?id=4gtv-4gtv055
+台视财经,https://alvin.serv00.net/litv.php?id=4gtv-4gtv056
+靖洋卡通台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv057
+靖天戏剧台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv058
+古典音乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv059
+靖天电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv061
+靖天育乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv062
+靖天国际台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv063
+中视菁采,https://alvin.serv00.net/litv.php?id=4gtv-4gtv064
+靖天资讯台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv065
+台视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv066
+tvbs精采台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv067
+tvbs欢乐台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv068
+爱尔达娱乐,https://alvin.serv00.net/litv.php?id=4gtv-4gtv070
+tvbs新闻台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv072
+tvbs,https://alvin.serv00.net/litv.php?id=4gtv-4gtv073
+中视新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv074
+镜新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv075
+CATCHPLAY电影台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv076
+TRACE SPORTS STARS,https://alvin.serv00.net/litv.php?id=4gtv-4gtv077
+阿里郎,https://alvin.serv00.net/litv.php?id=4gtv-4gtv079
+中视经典,https://alvin.serv00.net/litv.php?id=4gtv-4gtv080
+TRACE URBAN,https://alvin.serv00.net/litv.php?id=4gtv-4gtv082
+MEZZO LIVE,https://alvin.serv00.net/litv.php?id=4gtv-4gtv083
+国会频道1,https://alvin.serv00.net/litv.php?id=4gtv-4gtv084
+国会频道2,https://alvin.serv00.net/litv.php?id=4gtv-4gtv085
+智林体育台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv101
+国际财经,https://alvin.serv00.net/litv.php?id=4gtv-4gtv104
+第1商業台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv109
+东森新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv152
+东森财经新闻,https://alvin.serv00.net/litv.php?id=4gtv-4gtv153
+民视,https://alvin.serv00.net/litv.php?id=4gtv-4gtv155
+民视台湾台,https://alvin.serv00.net/litv.php?id=4gtv-4gtv156
 
-魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
-五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
-广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-DAZN 1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-DAZN 2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-爱尔达体育1台,mitv://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
-爱尔达体育1台,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-爱尔达体育1台,mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-爱尔达体育2台,mitv://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-爱尔达体育2台,mitv://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
-爱尔达体育3台,mitv://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
-爱尔达体育3台,mitv://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-爱尔达体育4台,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
-爱尔达体育4台,mitv://generationnexxxt.com:19806/797d51a6805c4a5fac1b71a678228513
-博斯高球台,mitv://generationnexxxt.com:19806/1938e9044d66468a9f38456fc383259f
-博斯高球台,mitv://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
-博斯高球2台,mitv://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯高球2台,mitv://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
-博斯网球台,mitv://generationnexxxt.com:19806/6895bdc150744da98afe23ce77e32e51
-博斯网球台,mitv://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
-博斯运动台,mitv://generationnexxxt.com:19806/1fded122b4b74670b6012a8068e44766
-博斯运动台,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
-博斯运动2台,mitv://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
-博斯运动2台,mitv://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
-博斯无限台,mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
-博斯无限台,mitv://generationnexxxt.com:19806/d0a027824de144fd88aef46f0fba7c99
-博斯无限2台,mitv://generationnexxxt.com:19806/65e1b653000eb97ec9f3741f6f4318a0
-博斯无限2台,mitv://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
-博斯魅力台,mitv://generationnexxxt.com:19806/65e1b6530009723ec9f372c730a82585
-博斯魅力台,mitv://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
-纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-智林体育,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
-TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
+美国之音,https://alvin.serv00.net/litv.php?id=litv-ftv03
+民视旅游,https://alvin.serv00.net/litv.php?id=litv-ftv07
+民视影剧,https://alvin.serv00.net/litv.php?id=litv-ftv09
+半岛新闻,https://alvin.serv00.net/litv.php?id=litv-ftv10
+民视新闻台,https://alvin.serv00.net/litv.php?id=litv-ftv13
+爱放动漫,https://alvin.serv00.net/litv.php?id=litv-ftv15
+好消息,https://alvin.serv00.net/litv.php?id=litv-ftv16
+好消息2台,https://alvin.serv00.net/litv.php?id=litv-ftv17
 
-Arena Bola,P2p://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
-Astro Arena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-Astro Supersport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro Supersport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro Supersport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro Supersport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-Astro Supersport 5,P2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-BeiN Sports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-BeiN Sports 2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-BeiN Sports 3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-Eurosport HD,P2p://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-Fight Sports,P2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-Golf Channel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
-J Sports 2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-Sky Sports Arena,P2p://generationnexxxt.com:19806/65791ef8000e15953163ffb52b633954
-Sky Sports Cricket,P2p://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
-Sky Sports F1,P2p://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
-Sky Sports Football,P2p://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-Sky Sports Golf,P2p://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
-Sky Sports Main Event,P2p://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
-Sky Sports Mix,P2p://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
-Skynet Sports,P2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
-Skynet Sports 2,P2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
-Skynet Sports 5,P2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
-Skynet Sports 6,P2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-SPOTV,P2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+龙华卡通,https://alvin.serv00.net/litv.php?id=litv-longturn01
+龙华电影,https://alvin.serv00.net/litv.php?id=litv-longturn03
+博斯魅力,https://alvin.serv00.net/litv.php?id=litv-longturn04
+博斯高球1,https://alvin.serv00.net/litv.php?id=litv-longturn05
+博斯高球2,https://alvin.serv00.net/litv.php?id=litv-longturn06
+博斯运动1,https://alvin.serv00.net/litv.php?id=litv-longturn07
+博斯运动2,https://alvin.serv00.net/litv.php?id=litv-longturn08
+博斯网球,https://alvin.serv00.net/litv.php?id=litv-longturn09
+博斯无限,https://alvin.serv00.net/litv.php?id=litv-longturn10
+龙华日韩,https://alvin.serv00.net/litv.php?id=litv-longturn11
+龙华偶像,https://alvin.serv00.net/litv.php?id=litv-longturn12
+博斯无限2,https://alvin.serv00.net/litv.php?id=litv-longturn13
+寰宇新闻台,https://alvin.serv00.net/litv.php?id=litv-longturn14
+寰宇新闻台湾台,https://alvin.serv00.net/litv.php?id=litv-longturn15
+亚洲旅游台,https://alvin.serv00.net/litv.php?id=litv-longturn17
+龙华戏剧,https://alvin.serv00.net/litv.php?id=litv-longturn18
+Smart知识台,https://alvin.serv00.net/litv.php?id=litv-longturn19
+生活英语台,https://alvin.serv00.net/litv.php?id=litv-longturn20
+龙华经典,https://alvin.serv00.net/litv.php?id=litv-longturn21
+台湾戏剧台,https://alvin.serv00.net/litv.php?id=litv-longturn22
 
-魅力足球,P2p://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
-五星体育,P2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
-广东体育,P2p://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-DAZN 1台,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-DAZN 2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-爱尔达体育1台,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
-爱尔达体育1台,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-爱尔达体育1台,P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-爱尔达体育2台,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
-爱尔达体育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
-爱尔达体育3台,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-爱尔达体育4台,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
-爱尔达体育4台,P2p://generationnexxxt.com:19806/797d51a6805c4a5fac1b71a678228513
-博斯高球台,P2p://generationnexxxt.com:19806/1938e9044d66468a9f38456fc383259f
-博斯高球台,P2p://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
-博斯高球2台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯高球2台,P2p://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
-博斯网球台,P2p://generationnexxxt.com:19806/6895bdc150744da98afe23ce77e32e51
-博斯网球台,P2p://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
-博斯运动台,P2p://generationnexxxt.com:19806/1fded122b4b74670b6012a8068e44766
-博斯运动台,P2p://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
-博斯运动2台,P2p://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
-博斯运动2台,P2p://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
-博斯无限台,P2p://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
-博斯无限台,P2p://generationnexxxt.com:19806/d0a027824de144fd88aef46f0fba7c99
-博斯无限2台,P2p://generationnexxxt.com:19806/65e1b653000eb97ec9f3741f6f4318a0
-博斯无限2台,P2p://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
-博斯魅力台,P2p://generationnexxxt.com:19806/65e1b6530009723ec9f372c730a82585
-博斯魅力台,P2p://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
-纬来体育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-智林体育,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
-TRACE Sport Stars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 
 
 
