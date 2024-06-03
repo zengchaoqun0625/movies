@@ -20,7 +20,8 @@
 {"key":"Wexhuayang","name":"🌺花花┃影视","type":3,"api":"csp_Wexhuayang","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"Wexkukantv","name":"😁看呗┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"Wexshandian","name":"⚡️闪电┃影视","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
-
+{"key":"WexShijuedy","name":"👓看看┃影视┃直连","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"csp_Nmys","name":"🎅‍伯伯┃影视┃直连","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 
 
 
@@ -50,7 +51,6 @@
 {"key":"文才影视","name":"📖文才┃蓝光┃纯净","type":3,"api":"csp_Wexwencai","jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable":1,"changeable":1},
 {"key":"csp_xBPQ_wencai","name":"📖文才┃影视","type":3,"api":"csp_XBPQ","jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.摸鱼儿.top/api/moyu.php?file=文才"},
 {"key":"小苹果","name":"🍎苹果┃弹幕","type":3,"api":"csp_Xpg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1,"timeout":15},
-{"key":"🐏安博┃影视","name":"安博(T4)","type":4,"api":"https://tang.hz.cz/power/ub1818?token=8726be0d","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"🐐4K┃HDR","name":"4KHDR","type":3,"api":"csp_XYQHiker","jar":"http://nctv.top/tv/jar/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/4KHDR.json"},
 {"key":"haiwaikan","name":"🛫┃海外看┃墙外","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"],"jar":"https://fm.t4tv.hz.cz/jar/fm.jar;md5;55c157414346e3ff571baad0a223bf15"},
 
@@ -93,18 +93,18 @@
 {"key":"小学","name":"📚┃小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"http://alist.xn--z7x900a.live/小学课堂.json"},
 {"key":"初中","name":"📚┃初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"http://alist.xn--z7x900a.live/初中课堂.json"},
 {"key":"高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"http://alist.xn--z7x900a.live/高中课堂.json"},
-{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔科学.json"},
-{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔地理.json"},
-{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔百科.json"},
-{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔国学.json"},
-{"key":"儿童口才","name":"🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童口才.json"},
-{"key":"儿童拼音","name":"🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童拼音.json"},
-{"key":"儿童识字","name":"🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童识字.json"},
-{"key":"儿童思维","name":"🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童思维.json"},
-{"key":"儿童英语","name":"🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童英语.json"},
-{"key":"儿童硬笔","name":"🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童硬笔.json"},
-{"key":"儿童编程","name":"🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童编程.json"},
-{"key":"儿童武术","name":"🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童武术.json"},
+{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/小灯塔科学.json"},
+{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/小灯塔地理.json"},
+{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/小灯塔百科.json"},
+{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/小灯塔国学.json"},
+{"key":"儿童口才","name":"🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童口才.json"},
+{"key":"儿童拼音","name":"🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童拼音.json"},
+{"key":"儿童识字","name":"🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童识字.json"},
+{"key":"儿童思维","name":"🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童思维.json"},
+{"key":"儿童英语","name":"🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童英语.json"},
+{"key":"儿童硬笔","name":"🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童硬笔.json"},
+{"key":"儿童编程","name":"🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童编程.json"},
+{"key":"儿童武术","name":"🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童武术.json"},
 
 
 {"key":"登录","name":"☁️云盘┃登录┃设置","type":3,"api":"csp_AliYunPan","jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
