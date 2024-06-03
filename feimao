@@ -29,7 +29,6 @@
 {"key":"新视觉","name":"🐦┃新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Juqq","name":"⭕┃剧圈┃影视","type":3,"playerType":"2","api":"csp_Juqq"},
 {"key":"csp_LiteApple","name":"🍎┃苹果┃影视","type":3,"playerType":"2","api":"csp_LiteApple"},
-{"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
 {"key":"比特","name":"✌️️┃比特┃影视","type":3,"api":"csp_Bttwo"},
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"csp_Vidhub2","name":"🎼┃Vid┃影视","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
@@ -108,13 +107,6 @@
 {"key":"登录","name":"☁️云盘┃登录┃设置","type":3,"api":"csp_AliYunPan","jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"弹幕配置","name":"⚙️弹幕┃高级┃设置","type":3,"api":"csp_Config","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"doudouxie","name":"🐋玩偶哥哥┃4K弹幕","type":3,"api":"csp_Wogg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","wogg":true,"danmu":true},"timeout":30},{"key":"七夜","name":"🌖┃七夜┃网盘","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-
-
-{"key":"米搜","name":"🌖┃米搜┃网盘","type":3,"api":"csp_MiSou","ext":"http://127.0.0.1:9978/file/fatcat/kk.txt"},
-{"key":"csp_Pansou","name":"🚢┃盘搜┃网盘","type":3,"api":"csp_Pansou","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_PanSearch","name":"🚃┃盘搜┃网盘","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_UpYun","name":"🍒┃Up搜┃网盘","type":3,"api":"csp_UpYun","timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_aisou","name":"🔭┃爱搜┃夸克","type":3,"api":"csp_AiPanSo","timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/kk.txt"},
 
 
 {"key":"土豆","name":"🥔土豆┃网盘","type":3,"api":"csp_Wextudou","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
