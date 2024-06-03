@@ -110,11 +110,14 @@
 {"key":"doudouxie","name":"🐋玩偶哥哥┃4K弹幕","type":3,"api":"csp_Wogg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","wogg":true,"danmu":true},"timeout":30},{"key":"七夜","name":"🌖┃七夜┃网盘","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
 
 
-{"key":"csp_Pansou","name":"🚢┃盘搜┃网盘","type":3,"api":"csp_Pansou","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_PanSearch","name":"🚃┃盘搜┃网盘2","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_UpYun","name":"🍒┃Up搜┃网盘","type":3,"api":"csp_UpYun","timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"csp_aisou","name":"🔭┃爱搜┃夸克","type":3,"api":"csp_AiPanSo","timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"alist","name":"🍰┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://alist.xn--z7x900a.live/alist.json"},
+{"key":"玩偶","name":"🎈玩偶┃网盘","type":3,"api":"csp_Wogg","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"土豆","name":"🥔土豆┃网盘","type":3,"api":"csp_Wextudou","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexyingchao","name":"🦜鸟巢┃网盘","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexwanni","name":"🎨玩你┃网盘","type":3,"api":"csp_Wexwanni","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexciliso","name":"🛩️磁力┃聚合┃搜","type":3,"api":"csp_Wexciliso","searchable":1,"changeable":0,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexmiso","name":"🎠小米┃综合┃搜","type":3,"api":"csp_Wexmiso","searchable":1,"changeable":0,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexed3000","name":"🎠易迪┃阿里┃搜","type":3,"api":"csp_Wexed3000","searchable":1,"changeable":0,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexyingso","name":"🎠影子┃综合┃搜","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"push_agent","name":"温馨提示：个人使用","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"}],
 
 
