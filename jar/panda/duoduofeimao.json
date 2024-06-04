@@ -1,5 +1,5 @@
 {
-  "spider": "./62c64a48bd009f9391e7dcd6bd3cf989.jar;md5;62c64a48bd009f9391e7dcd6bd3cf989",
+  "spider": "./PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
@@ -19,12 +19,20 @@
       "searchable": 0
     },
     {
+      "key": "csp_Duopan",
+      "name": "🖍︎┃蜡笔┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://duopan.fun/"
+    },
+    {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/南瓜.js"
+      "api": "./lib/ng_open.js"
     },
     {
       "key": "新视觉",
@@ -163,8 +171,7 @@
       "name": " 👗┃骚火┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/骚火.js"
+      "api": "csp_SaoHuo"
     },
     {
       "key": "云播影视",
@@ -395,7 +402,7 @@
       "name": "🚃┃盘搜┃网盘",
       "type": 3,
       "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/tvbox/577b0646-9993-4cb6-bb13-353ec99cb52e/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
     },
     {
       "key": "csp_UpYun",
@@ -404,7 +411,7 @@
       "api": "csp_UpYun",
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/577b0646-9993-4cb6-bb13-353ec99cb52e/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
     },
     {
       "key": "csp_aisou",
@@ -500,7 +507,7 @@
       "api": "csp_Push",
       "playerType": "1",
       "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/577b0646-9993-4cb6-bb13-353ec99cb52e/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
     }
   ],
   "parses": [

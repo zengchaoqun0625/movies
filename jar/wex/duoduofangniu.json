@@ -721,7 +721,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/240bd6b4-da23-4064-81ea-49f2da7d880d/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/558180d5-4e26-4a70-8732-6dde6fbb325a/token.txt"
     },
     {
       "key": "雲搜",
@@ -730,7 +730,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/240bd6b4-da23-4064-81ea-49f2da7d880d/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/558180d5-4e26-4a70-8732-6dde6fbb325a/token.txt"
     },
     {
       "key": "盤搜",
@@ -739,7 +739,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/240bd6b4-da23-4064-81ea-49f2da7d880d/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/558180d5-4e26-4a70-8732-6dde6fbb325a/token.txt"
     },
     {
       "key": "盤搜索",
@@ -748,7 +748,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/240bd6b4-da23-4064-81ea-49f2da7d880d/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/558180d5-4e26-4a70-8732-6dde6fbb325a/token.txt"
     },
     {
       "key": "搜吧",
@@ -784,7 +784,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/240bd6b4-da23-4064-81ea-49f2da7d880d/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/558180d5-4e26-4a70-8732-6dde6fbb325a/token.txt"
     }
   ],
   "parses": [
