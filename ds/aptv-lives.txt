@@ -249,11 +249,11 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 
 
 .卫视频道,#genre#
-爱上4K,http://218.29.135.5:4000/udp/225.1.4.162:1204
+
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-河南卫视,http://218.29.135.5:4000/udp/225.1.4.254:1300
 
 
+河南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hnws
 北京卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=bjws
 东方卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=dfws
 天津卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=tjws
@@ -267,7 +267,6 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 河北卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hbws
 山西卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=sxiws
 安徽卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=ahws
-河南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hnws
 湖北卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hubws
 湖南卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=hunws
 江西卫视,http://zy.otioi.cn/live/cqyx.php?token=Xaeu2RIs&id=jxws
