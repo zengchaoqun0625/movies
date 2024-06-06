@@ -23,7 +23,8 @@
 {"key":"csp_Nmys","name":"🎅‍伯伯┃影视┃直连","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"Wexjiohub","name":"🎉啾啾┃影视┃直连","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"Wexbaipiao","name":"🌟星星┃影视┃直连","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
-
+{"key":"Wexsaohuo","name":"🔥火火┃影视┃直连","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+{"key":"Wexzxzj","name":"🚩外剧┃影视┃直连","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 
 
 
@@ -72,6 +73,8 @@
 
 {"key":"Wexduanjuvop","name":"🌸短剧┃秒播","type":3,"api":"csp_Wexduanjuvop","jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt","searchable":1,"changeable":1},
 {"key":"Wexduanjuvmp","name":"🌸短剧┃极品","jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
+{"key":"Wexduanjuhema","name":"🌸短劇┃仙品┃直连","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
+
 
 {"key":"csp_BookTing","name":"📚┃听书┃音频","type":3,"playerType":"2","api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_YouShengBook","name":"📚┃有声┃小说","type":3,"playerType":"2","api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
