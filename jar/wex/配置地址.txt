@@ -1,1 +1,1 @@
-clan://localhost/tvbox/eea6425f-a23b-4752-bffa-e8b5f3bf143e/duoduofangniu/duoduofangniu.json
+clan://localhost/tvbox/fangniu/fangniu.json
