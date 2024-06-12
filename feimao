@@ -98,7 +98,7 @@
 {"key":"少儿","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
 {"key":"小学","name":"📚┃小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
 {"key":"初中","name":"📚┃初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
-{"key":"高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"}
+{"key":"高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童科学.json"},
 {"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童地理.json"},
 {"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huaitingpeng/movies/raw/main/jar/bilibili/儿童百科.json"},
