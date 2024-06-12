@@ -1,1 +1,1 @@
-clan://localhost/tvbox/ff099575-dde2-465b-9712-eed368e500bf/duoduofeimao/duoduofeimao.json
+clan://localhost/tvbox/feimao/feimao.json

@@ -1,7 +1,7 @@
 {
-  "spider": "./PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c",
+  "spider": "./PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "logo": "http://我不是.肥猫.live/fatcat.jpg",
+  "logo": "http://like.xn--z7x900a.com/fatcat.jpg",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -39,6 +39,15 @@
       "name": "🐦┃视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔嘀",
+      "name": "😹┃哔嘀┃影视",
+      "type": 3,
+      "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -167,13 +176,6 @@
       "filterable": 1
     },
     {
-      "key": "saohuo",
-      "name": " 👗┃骚火┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_SaoHuo"
-    },
-    {
       "key": "云播影视",
       "name": "☁️┃云播┃影视",
       "type": 3,
@@ -201,7 +203,7 @@
       "name": "🐯┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/虎虎.json"
+      "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
     {
       "key": "黑狐",
@@ -347,16 +349,62 @@
       "gridview": "0-0-4.1"
     },
     {
+      "key": "酷奇",
+      "name": "🎤┃酷奇┃MV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./lib/酷奇MV.js"
+    },
+    {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./lib/MTV.json"
+    },
+    {
       "key": " 在线┃直播1",
       "name": "📺┃竞技┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/JustLive.js",
+      "api": "csp_JustLive",
       "gridview": "0-0-H",
       "style": {
         "type": "rect",
         "ratio": 1.68
       }
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 1,
+      "ext": "./lib/huya2.js"
+    },
+    {
+      "key": "斗鱼js",
+      "name": "🐟┃斗鱼┃直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 1,
+      "ext": "./lib/斗鱼直播.js"
+    },
+    {
+      "key": "聚短视频js",
+      "name": "📽┃️聚短┃视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./lib/短视频.js"
     },
     {
       "key": "看球",
@@ -402,7 +450,7 @@
       "name": "🚃┃盘搜┃网盘",
       "type": 3,
       "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_UpYun",
@@ -411,7 +459,7 @@
       "api": "csp_UpYun",
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_aisou",
@@ -434,7 +482,7 @@
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "./lib/ddrpy2.m.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -507,7 +555,7 @@
       "api": "csp_Push",
       "playerType": "1",
       "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/ff099575-dde2-465b-9712-eed368e500bf/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "parses": [
@@ -597,7 +645,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "./lib/tvzb.txt",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
