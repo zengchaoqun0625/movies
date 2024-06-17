@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>免责声明及操作步骤</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .step {
+            margin-bottom: 10px;
+        }
+        .note {
+            color: #555;
+        }
+        .link {
+            color: #1a0dab;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .alert {
+            color: green;
+            display: none;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀️ 免责声明</h1>
+    <div class="section">
+        <p>请勿传播，传播造成的损失由当事人承担。</p>
+        <p>任何人使用本链接内任何内容皆代表接受此协议。</p>
+        <p>一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</p>
+        <p>本项目的来源按“网络原样”提供，不带任何明示或暗示的保证。用户有责任确保其使用符合当地法律法规。</p>
+        <p>本仓库管理员不能保证本仓库内容的合法性、准确性、缺陷和有效性，请根据情况判断。本仓库内容仅供测试和学习研究，禁止用于商业用途。</p>
+    </div>
+    
+    <h2>🚀️软件安装：（第一步）</h2>
+    <div class="section">
+        <div class="step">👀️ 安装APTV-<a href="https://apps.apple.com/cn/app/aptv/id1630403500" class="link">开始下载</a></div>
+        <div class="step">👀️ 点击上方下载</div>
+    </div>
+
+    <h2>🚀️已安装软件使用方法：（第二步）</h2>
+    <div class="section">
+        <div class="step">👀️点击链接自动复制影视接口：<a id="copyLink" class="link" onclick="copyToClipboard('https://xiaopeng.love/ds/aptv-lives.txt')">点击复制</a></div>
+        <div id="copyAlert" class="alert">复制成功啦,快去配置吧!</div>
+        <div class="step">👀️ 打开所安装的“APTV”</div>
+        <div class="step">👀️ 点击配置</div>
+        <div class="step">👀️ 点击右上角“+”号图标输入或粘贴刚复制的链接地址</div>
+        <div class="step">👀️ 输入后点击确定即可正常观看</div>
+		<div class="step">👀️ 默认链接可观看央视、卫视、地方等频道，更多频道联系本人</div>
+    </div>
+
+<!--
+樱花背景
+-->
+<script src="https://api.vvhan.com/api/script/yinghua"></script>
+<div id="page_end_html">
+<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.0.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://xiaopeng.love/js/L2Dwidget.min.js"></script>
+<script>
+    L2Dwidget.init({
+        "model": {
+            jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
+            "scale": 1
+        },
+        "display": {
+            "position": "right",
+            "width": 150,
+            "height": 300,
+            "hOffset": 0,
+            "vOffset": -20,
+            "opacity": 0.5
+        },
+        "mobile": {
+            "show": true,
+            "scale": 0.5
+        },
+        "react": {
+            "opacityDefault": 0.7,
+            "opacityOnHover": 0.2
+        }
+    });
+</script>
+<!--
+模型预览图：https://huaji8.top/post/live2d-plugin-2.0/
+其他可选的模型：
+黑猫：https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json
+可爱同桌：https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json
+白猫：https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json
+小碗狗：https://unpkg.com/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json
+萌娘：https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json
+海军服女生：https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json
+-->
+<script>
+        function copyToClipboard(text) {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                document.execCommand('copy');
+                document.getElementById('copyAlert').style.display = 'block';
+                setTimeout(function() {
+                    document.getElementById('copyAlert').style.display = 'none';
+                }, 2000);
+            } catch (err) {
+                console.error('复制失败: ', err);
+            }
+            document.body.removeChild(textarea);
+        }
+    </script>
+</body>
+</html>
