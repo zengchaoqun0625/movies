@@ -3,77 +3,64 @@
         "name": "推荐",
         "list": [
             {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/1.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/1.png"
-            },
-            {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/2.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/2.png"
-            },
-            {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/3.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/3.png"
-            },
-            {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/4.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/4.png"
-            },
-            {
-                "url": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/5.png",
-                "icon": "https://gitee.com/huaitingpeng/movies/raw/main/logo/girl/5.png"
-            }
-        ]
-    },
-    {
-        "name": "影视FM-最新版",
-        "list": [
-            {
-                "name": "电视-java",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "name": "野草助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/野草助手.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v7a"
+                "version": "v2.0"
             },
             {
-                "name": "电视-java",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "name": "欢视助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/huanshi.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v8a"
+                "version": "v2.0"
             },
             {
-                "name": "电视-py",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "name": "当贝桌面",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/dangbei_4.1.7.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v7a"
+                "version": "v2.0"
             },
             {
-                "name": "电视-py",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "name": "clash-meta",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v8a"
+                "version": "v2.0"
             },
             {
-                "name": "手机-java",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v7a"
+                "name": "clash-meta-v8",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta-v8.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0.1"
             },
             {
-                "name": "手机-java",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v8a"
+                "name": "SmartTube-tv",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/SmartTube-tv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
             },
             {
-                "name": "手机-py",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v7a"
+                "name": "抓包工具",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
             },
             {
-                "name": "手机-py",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v8a"
+                "name": "K歌-IKTV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/iktv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "哔哩哔哩-TV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/bilibilitv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v9.0"
+            },
+            {
+                "name": "哔哩哔哩-最新",
+                "url": "https://raw.githubusercontent.com/qidian55/bilibilitv1.6.6-repair/main/mybv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v10.0"
             }
         ]
     },
@@ -143,9 +130,62 @@
         ]
     },
     {
+        "name": "影视FM-最新版",
+        "list": [
+            {
+                "name": "电视-java",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            }
+        ]
+    },
+    {
         "name": "电视工具",
         "list": [
-		    {
+            {
                 "name": "野草助手",
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/野草助手.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
@@ -168,6 +208,12 @@
                 "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "v2.0"
+            },
+            {
+                "name": "clash-meta-v8",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta-v8.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0.1"
             },
             {
                 "name": "SmartTube-tv",
