@@ -106,6 +106,106 @@ http://148.135.93.213:81/live.php?id=大湾区卫视
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="•咪咕电视",西藏卫视
 http://148.135.93.213:81/live.php?id=西藏卫视
 
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕电视",CCTV 1 综合
+https://tv.iill.top/migu/cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕电视",CCTV 2 财经
+https://tv.iill.top/migu/cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•咪咕电视",CCTV 3 综艺
+https://tv.iill.top/migu/cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•咪咕电视",CCTV 4 中文国际
+https://tv.iill.top/migu/cctv4
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.iill.top/logo/CCTV4美洲.png" group-title="•咪咕电视",CCTV 4 中文国际·美洲
+https://tv.iill.top/migu/cctv4m
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.iill.top/logo/CCTV4欧洲.png" group-title="•咪咕电视",CCTV 4 中文国际·欧洲
+https://tv.iill.top/migu/cctv4o
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•咪咕电视",CCTV 5 体育
+https://tv.iill.top/migu/cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•咪咕电视",CCTV 5+ 体育赛事
+https://tv.iill.top/migu/cctv5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•咪咕电视",CCTV 6 电影
+https://tv.iill.top/migu/cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•咪咕电视",CCTV 7 国防军事
+https://tv.iill.top/migu/cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•咪咕电视",CCTV 8 电视剧
+https://tv.iill.top/migu/cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•咪咕电视",CCTV 9 纪录
+https://tv.iill.top/migu/cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•咪咕电视",CCTV 10 科教
+https://tv.iill.top/migu/cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•咪咕电视",CCTV 11 戏曲
+https://tv.iill.top/migu/cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•咪咕电视",CCTV 12 社会与法
+https://tv.iill.top/migu/cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•咪咕电视",CCTV 13 新闻
+https://tv.iill.top/migu/cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•咪咕电视",CCTV 14 少儿
+https://tv.iill.top/migu/cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•咪咕电视",CCTV 15 音乐
+https://tv.iill.top/migu/cctv15
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•咪咕电视",CCTV 17 农村农业
+https://tv.iill.top/migu/cctv17
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•咪咕电视",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•咪咕电视",广东卫视
+https://tv.iill.top/migu/gdws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•咪咕电视",江苏卫视
+https://tv.iill.top/migu/jsws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.iill.top/logo/陕西卫视.png" group-title="•咪咕电视",陕西卫视
+https://tv.iill.top/migu/sxws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" group-title="•咪咕电视",江西卫视
+https://tv.iill.top/migu/jxws
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="•咪咕电视",海峡卫视
+https://tv.iill.top/migu/hxws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" group-title="•咪咕电视",湖北卫视
+https://tv.iill.top/migu/hubws
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="•咪咕电视",纪实人文
+https://tv.iill.top/migu/shjs
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" group-title="•咪咕电视",七彩戏剧
+https://tv.iill.top/migu/qcxj
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="•咪咕电视",东方影视
+https://tv.iill.top/migu/shys
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" group-title="•咪咕电视",CHC 家庭影院
+https://tv.iill.top/migu/jtyy
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="•咪咕电视",欢笑剧场
+https://tv.iill.top/migu/hxjc
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="•咪咕电视",劲爆体育
+https://tv.iill.top/migu/jbty
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="•咪咕电视",魅力足球
+https://tv.iill.top/migu/mlzq
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.iill.top/logo/游戏风云.png" group-title="•咪咕电视",游戏风云
+https://tv.iill.top/migu/yxfy
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.iill.top/logo/四海钓鱼.png" group-title="•咪咕电视",四海钓鱼
+https://tv.iill.top/migu/shdy
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",经典香港电影
+https://tv.iill.top/migu/xgdy
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",新片放映厅
+https://tv.iill.top/migu/xpdy
+#EXTINF:-1 tvg-id="英雄联盟赛事" tvg-name="英雄联盟赛事" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",英雄联盟赛事
+https://tv.iill.top/migu/lol
+#EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",咪咕24小时体育台
+https://tv.iill.top/migu/mgty
+#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",掼蛋精英赛
+https://tv.iill.top/migu/dds
+#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",NBA经典
+https://tv.iill.top/migu/nba
+#EXTINF:-1 tvg-id="CBA经典" tvg-name="CBA经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",CBA经典
+https://tv.iill.top/migu/cba
+#EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",五大联赛经典
+https://tv.iill.top/migu/lsjd
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",中国风云足球
+https://tv.iill.top/migu/fyzq
+#EXTINF:-1 tvg-id="UFC格斗精选" tvg-name="UFC格斗精选" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",UFC格斗精选
+https://tv.iill.top/migu/ufc
+#EXTINF:-1 tvg-id="全民乒乓" tvg-name="全民乒乓" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕电视",全民乒乓
+https://tv.iill.top/migu/qmpp
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="•央视频", CCTV 1
 http://1.92.93.44:8092/ysp/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="•央视频", CCTV 2
@@ -1047,6 +1147,111 @@ http://180.107.88.32:9999/rtp/239.49.8.179:6000
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="•地方频道",都市剧场高清
 http://180.107.88.32:9999/rtp/239.49.8.180:6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="•地方频道",金鹰纪实高清
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播4K Ⅰ
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播4K Ⅱ
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟝
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟞
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟟
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟠
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟡
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟘
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟙
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟚
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟛
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟜
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟝
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟞
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟟
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟠
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟡
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟘
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟙
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟚
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟛
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟜
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟝
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟞
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟟
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟠
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟡
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟘
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟙
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟚
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟛
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟜
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟝
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟞
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟟
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟠
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟡
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟘
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟙
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟚
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟛
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟜
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟝
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+
+
+
+
+
+
+
+
 http://180.107.88.32:9999/rtp/239.49.8.203:6000
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」CS 2
 http://live.iill.top/bilibili.php?id=21622811
