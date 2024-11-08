@@ -351,166 +351,166 @@ http://180.107.88.32:9999/rtp/239.49.8.203:6000
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「全球总决赛」英雄联盟 4K
-http://dns.yiandrive.com:10472/huya/18524915
+http://dns.yiandrive.com:16813/huya/18524915
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「全球总决赛」英雄联盟 4K
-http://dns.yiandrive.com:10472/bilibili/10
+http://dns.yiandrive.com:16813/bilibili/10
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」CS 2
-http://dns.yiandrive.com:10472/bilibili/21622811
+http://dns.yiandrive.com:16813/bilibili/21622811
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」CS 2
-http://dns.yiandrive.com:10472/huya/483917
+http://dns.yiandrive.com:16813/huya/483917
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」英雄联盟
-http://dns.yiandrive.com:10472/bilibili/6
+http://dns.yiandrive.com:16813/bilibili/6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟙
-http://dns.yiandrive.com:10472/huya/660000
+http://dns.yiandrive.com:16813/huya/660000
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
-http://dns.yiandrive.com:10472/huya/660001
+http://dns.yiandrive.com:16813/huya/660001
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟙
-http://dns.yiandrive.com:10472/douyu/288016
+http://dns.yiandrive.com:16813/douyu/288016
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟚
-http://dns.yiandrive.com:10472/douyu/424559
+http://dns.yiandrive.com:16813/douyu/424559
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」英雄联盟•手游
-http://dns.yiandrive.com:10472/bilibili/23138275
+http://dns.yiandrive.com:16813/bilibili/23138275
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/bilibili/55
+http://dns.yiandrive.com:16813/bilibili/55
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/bilibili/21654762
+http://dns.yiandrive.com:16813/bilibili/21654762
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/huya/660002
+http://dns.yiandrive.com:16813/huya/660002
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/huya/660164
+http://dns.yiandrive.com:16813/huya/660164
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/douyu/1863767
+http://dns.yiandrive.com:16813/douyu/1863767
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/douyu/1984839
+http://dns.yiandrive.com:16813/douyu/1984839
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」绝地求生
-http://dns.yiandrive.com:10472/bilibili/98
+http://dns.yiandrive.com:16813/bilibili/98
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」绝地求生 𝟙
-http://dns.yiandrive.com:10472/huya/660004
+http://dns.yiandrive.com:16813/huya/660004
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」绝地求生 𝟚
-http://dns.yiandrive.com:10472/huya/660005
+http://dns.yiandrive.com:16813/huya/660005
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」绝地求生
-http://dns.yiandrive.com:10472/douyu/100
+http://dns.yiandrive.com:16813/douyu/100
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」绝地地图
-http://dns.yiandrive.com:10472/douyu/5818871
+http://dns.yiandrive.com:16813/douyu/5818871
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」和平精英
-http://dns.yiandrive.com:10472/huya/660006
+http://dns.yiandrive.com:16813/huya/660006
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」和平精英
-http://dns.yiandrive.com:10472/douyu/999
+http://dns.yiandrive.com:16813/douyu/999
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」金铲铲之战
-http://dns.yiandrive.com:10472/huya/660579
+http://dns.yiandrive.com:16813/huya/660579
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」金铲铲之战
-http://dns.yiandrive.com:10472/douyu/9715241
+http://dns.yiandrive.com:16813/douyu/9715241
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」DOTA2
-http://dns.yiandrive.com:10472/huya/660118
+http://dns.yiandrive.com:16813/huya/660118
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」DOTA2
-http://dns.yiandrive.com:10472/douyu/3811559
+http://dns.yiandrive.com:16813/douyu/3811559
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」云顶之弈
-http://dns.yiandrive.com:10472/douyu/522423
+http://dns.yiandrive.com:16813/douyu/522423
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」永劫无间
-http://dns.yiandrive.com:10472/huya/660115
+http://dns.yiandrive.com:16813/huya/660115
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」永劫无间
-http://dns.yiandrive.com:10472/huya/9662891
+http://dns.yiandrive.com:16813/huya/9662891
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」使命召唤•手游
-http://dns.yiandrive.com:10472/bilibili/22741849
+http://dns.yiandrive.com:16813/bilibili/22741849
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」使命召唤•手游
-http://dns.yiandrive.com:10472/huya/11718629
+http://dns.yiandrive.com:16813/huya/11718629
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」使命召唤•手游
-http://dns.yiandrive.com:10472/douyu/9223245
+http://dns.yiandrive.com:16813/douyu/9223245
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」穿越火线
-http://dns.yiandrive.com:10472/huya/660101
+http://dns.yiandrive.com:16813/huya/660101
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」穿越火线 𝟙
-http://dns.yiandrive.com:10472/douyu/605964
+http://dns.yiandrive.com:16813/douyu/605964
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」穿越火线 𝟚
-http://dns.yiandrive.com:10472/douyu/5388537
+http://dns.yiandrive.com:16813/douyu/5388537
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」穿越火线•手游
-http://dns.yiandrive.com:10472/huya/660102
+http://dns.yiandrive.com:16813/huya/660102
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」第五人格
-http://dns.yiandrive.com:10472/bilibili/5555
+http://dns.yiandrive.com:16813/bilibili/5555
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」第五人格
-http://dns.yiandrive.com:10472/huya/idvesports
+http://dns.yiandrive.com:16813/huya/idvesports
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」第五人格
-http://dns.yiandrive.com:10472/douyu/3226194
+http://dns.yiandrive.com:16813/douyu/3226194
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」逆战
-http://dns.yiandrive.com:10472/huya/nsl2021
+http://dns.yiandrive.com:16813/huya/nsl2021
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」无畏契约
-http://dns.yiandrive.com:10472/bilibili/22908869
+http://dns.yiandrive.com:16813/bilibili/22908869
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」无畏契约
-http://dns.yiandrive.com:10472/huya/660679
+http://dns.yiandrive.com:16813/huya/660679
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」无畏契约
-http://dns.yiandrive.com:10472/douyu/4585645
+http://dns.yiandrive.com:16813/douyu/4585645
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」原神
-http://dns.yiandrive.com:10472/douyu/10853239
+http://dns.yiandrive.com:16813/douyu/10853239
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」QQ飞车•手游
-http://dns.yiandrive.com:10472/bilibili/21743919
+http://dns.yiandrive.com:16813/bilibili/21743919
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」QQ飞车•手游
-http://dns.yiandrive.com:10472/douyu/5040227
+http://dns.yiandrive.com:16813/douyu/5040227
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」梦幻西游·手游
-http://dns.yiandrive.com:10472/huya/9163712
+http://dns.yiandrive.com:16813/huya/9163712
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」街霸
-http://dns.yiandrive.com:10472/huya/11437
+http://dns.yiandrive.com:16813/huya/11437
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」JJ斗地主
-http://dns.yiandrive.com:10472/bilibili/22021983
+http://dns.yiandrive.com:16813/bilibili/22021983
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」JJ斗地主
-http://dns.yiandrive.com:10472/douyu/488743
+http://dns.yiandrive.com:16813/douyu/488743
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」我的世界
-http://dns.yiandrive.com:10472/douyu/738878
+http://dns.yiandrive.com:16813/douyu/738878
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」FIFA
-http://dns.yiandrive.com:10472/douyu/7692166
+http://dns.yiandrive.com:16813/douyu/7692166
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」火影忍者
-http://dns.yiandrive.com:10472/douyu/1997723
+http://dns.yiandrive.com:16813/douyu/1997723
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」跑跑卡丁车
-http://dns.yiandrive.com:10472/douyu/7722576
+http://dns.yiandrive.com:16813/douyu/7722576
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」跑跑卡丁车•手游
-http://dns.yiandrive.com:10472/douyu/6672862
+http://dns.yiandrive.com:16813/douyu/6672862
 
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",电视剧•1「解说」
-http://dns.yiandrive.com:10472/huya.php?id=21277391
+http://dns.yiandrive.com:16813/huya.php?id=21277391
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",电视剧•2「解说」
-http://dns.yiandrive.com:10472/huya.php?id=25018873
+http://dns.yiandrive.com:16813/huya.php?id=25018873
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",电影•1「解说」
-http://dns.yiandrive.com:10472/huya.php?id=20289754
+http://dns.yiandrive.com:16813/huya.php?id=20289754
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",电影•2「解说」
-http://dns.yiandrive.com:10472/huya.php?id=24983280
+http://dns.yiandrive.com:16813/huya.php?id=24983280
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",电影•3「解说」
-http://dns.yiandrive.com:10472/huya.php?id=24396428
+http://dns.yiandrive.com:16813/huya.php?id=24396428
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",动漫•1「解说」
-http://dns.yiandrive.com:10472/huya.php?id=19757963
+http://dns.yiandrive.com:16813/huya.php?id=19757963
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",恐怖电影「解说」
-http://dns.yiandrive.com:10472/huya.php?id=23419131
+http://dns.yiandrive.com:16813/huya.php?id=23419131
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",漫威「解说」
-http://dns.yiandrive.com:10472/huya.php?id=17089779
+http://dns.yiandrive.com:16813/huya.php?id=17089779
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",美剧「解说」
-http://dns.yiandrive.com:10472/huya.php?id=20488841
+http://dns.yiandrive.com:16813/huya.php?id=20488841
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",七龙珠「解说」
-http://dns.yiandrive.com:10472/huya.php?id=25650806
+http://dns.yiandrive.com:16813/huya.php?id=25650806
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",止戈电影「解说」
-http://dns.yiandrive.com:10472/huya.php?id=19863777
+http://dns.yiandrive.com:16813/huya.php?id=19863777
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",挨饿德•1「其他」
-http://dns.yiandrive.com:10472/huya.php?id=20985858
+http://dns.yiandrive.com:16813/huya.php?id=20985858
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",挨饿德•2「其他」
-http://dns.yiandrive.com:10472/huya.php?id=17693860
+http://dns.yiandrive.com:16813/huya.php?id=17693860
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",互扇巴掌大赛「其他」
-http://dns.yiandrive.com:10472/huya.php?id=20072873
+http://dns.yiandrive.com:16813/huya.php?id=20072873
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",荒野求生「其他」
-http://dns.yiandrive.com:10472/huya.php?id=593667
+http://dns.yiandrive.com:16813/huya.php?id=593667
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",野行者「其他」
-http://dns.yiandrive.com:10472/huya.php?id=20072663
+http://dns.yiandrive.com:16813/huya.php?id=20072663
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",跳舞「其他」
-http://dns.yiandrive.com:10472/huya.php?id=24634408
+http://dns.yiandrive.com:16813/huya.php?id=24634408
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",茶啊二中「动画」
-http://dns.yiandrive.com:10472/huya.php?id=11213191
+http://dns.yiandrive.com:16813/huya.php?id=11213191
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",哆啦A梦「动漫」
-http://dns.yiandrive.com:10472/huya.php?id=11601963
+http://dns.yiandrive.com:16813/huya.php?id=11601963
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",航海王「动漫」
-http://dns.yiandrive.com:10472/huya.php?id=16913382
+http://dns.yiandrive.com:16813/huya.php?id=16913382
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",七龙珠「动漫」
-http://dns.yiandrive.com:10472/huya.php?id=11601966
+http://dns.yiandrive.com:16813/huya.php?id=11601966
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",猫和老鼠「动漫」
-http://dns.yiandrive.com:10472/huya.php?id=11352879
+http://dns.yiandrive.com:16813/huya.php?id=11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视直播",中华小当家「动漫」
-http://dns.yiandrive.com:10472/huya.php?id=11342413
+http://dns.yiandrive.com:16813/huya.php?id=11342413
 
 
 
